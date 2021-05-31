@@ -1,0 +1,67 @@
+Executive-integrative coherence: core relations
+
+    - This file describes core intercast relations as they touch on way execution
+      in conjunction with waysource integrity.
+        : re `core` see `core to the wayic architecture` @ non-fractal README.html
+
+    change flow
+
+               A1            A2                                B1            B2
+           integration   integration                       integration   integration
+                ▲             ▲                                ▲             ▲
+                │             │                                │             │
+                └─────────────┴──────────┐             ┌───────┴─────────────┘
+                                         ╵             ╵
+                 A1         A2           A             B           B1         B2
+              division   division   integration   integration   division   division
+                  ▲         ▲            ▲             ▲            ▲         ▲
+                  │         │            │             │            │         │
+                  └────┬────┘            └──────┬──────┘            └────┬────┘
+                       │                        │                        │
+                       ╵                        ╵                        ╵
+                   A division           integrational root           B division
+                       ▲                        ╷                        ▲
+                       │                        │                        │
+                       └─────────────────────┐  │  ┌─────────────────────┘
+                                             │  │  │
+                                             ╵  ▼  ╵
+                                         divisional root
+         
+
+            diagram, Model change flow.  Outside of standing differences in the compiled way models,
+              changes flowing on subcast-to-surcast lines with each recompilation keep all models
+              synchronized with that of the integrational root.
+
+
+
+               A1            A2                                B1            B2
+           integration   integration                       integration   integration
+                ╷             ╷                                ╷             ╷
+                ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─╶ ┐             ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
+                                         ╷             ╷
+                                         ▽             ▽
+         
+                 A1         A2           A             B           B1         B2
+              division   division   integration   integration   division   division
+                  ▲         ▲            ╷             ╷            ▲         ▲
+                  │         │             ─ ─ ─ ┬ ─ ─ ─             │         │
+                  └────┬────┘                   ╷                   └────┬────┘
+                       │                        ╷                        │
+                       ╵                        ▽                        ╵
+                   A division           integrational root           B division
+                       ▲                        ╷                        ▲
+                       │                        │                        │
+                       └─────────────────────┐  │  ┌─────────────────────┘
+                                             │  │  │
+                                             ╵  ▼  ╵
+                                         divisional root
+         
+
+            diagram, End-to-end change flow from waysource through way models.  Cumulative pooling of
+              waysource files into the waycast of the integrational root (dashed lines) together with
+              change flow through all models (solid lines, here shown only for the divisional) keeps
+              all models synchronized with the waysource maintained at the integrational leaves.
+
+
+
+                                                         \ Copyright © 2021  Michael Allan.  Licence MIT.
