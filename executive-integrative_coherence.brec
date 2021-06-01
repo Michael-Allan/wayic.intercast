@@ -117,8 +117,8 @@ Executive-integrative coherence: core relations
 
             diagram, End-to-end change flow from waysource through way models.  Cumulative pooling of
               waysource files into the waycast of the integrational root (dashed lines) together with
-              change flow through all models (solid lines, here shown only for the divisional) keeps
-              all models synchronized with the waysource maintained at the integrational leaves.
+              change flow via model recompilation (solid lines, here shown only for divisional models)
+              keeps all models synchronized with the waysource maintained at the integrational leaves.
 
 
 
