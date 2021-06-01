@@ -6,11 +6,11 @@ Executive-integrative coherence: core relations
 
     change flow
 
-               A1            A2                                B1            B2
-           integration   integration                       integration   integration
-                ▲             ▲                                ▲             ▲
-                │             │                                │             │
-                └─────────────┴──────────┐             ┌───────┴─────────────┘
+               A1            A2                                  B1            B2
+           integration   integration                         integration   integration
+                ▲             ▲                                  ▲             ▲
+                │             │                                  │             │
+                └─────────────┴──────────┐             ┌─────────┴─────────────┘
                                          ╵             ╵
                  A1         A2           A             B           B1         B2
               division   division   integration   integration   division   division
@@ -34,10 +34,10 @@ Executive-integrative coherence: core relations
 
 
 
-               A1            A2                                B1            B2
-           integration   integration                       integration   integration
-                ╷             ╷                                ╷             ╷
-                ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─╶ ┐             ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
+               A1            A2                                  B1            B2
+           integration   integration                         integration   integration
+                ╷             ╷                                  ╷             ╷
+                 ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┐             ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
                                          ╷             ╷
                                          ▽             ▽
          
