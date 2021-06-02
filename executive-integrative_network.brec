@@ -1,10 +1,10 @@
-Executive-integrative coherence: core relations
+The executive-integrative network
 
-    - This file describes core intercast relations as they touch on way execution
-      in conjunction with waysource integrity.
-        : re `core` see `core to the wayic architecture` @ non-fractal README.html
+    - This file describes the executive-integrative network and its architectural role.
+    - The executive-integrative network comprises the divisional and integrative trees
+      of an intercast executive system, together with the complex of formal relations
+      by which their functions are coordinated.
 
-            ·
                 ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┐                       ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
                 ╵             ╵       ╷         ( 1 )         ╷       ╵             ╵
                 ╵             ╵       ╷                       ╷       ╵             ╵
@@ -18,7 +18,7 @@ Executive-integrative coherence: core relations
                A1            A2            ─ ─ ─ ─ ─ ─ ─ ─            B1            B2
             division      division                ╵                division      division
                 ╷            ╷                    ╵                    ╷            ╷
-                └────────────┤            integrational root           ├────────────┘
+                └────────────┤             integrative root            ├────────────┘
                              │                                         │
                              ╵                                         ╵
                          A division                                B division
@@ -33,7 +33,7 @@ Executive-integrative coherence: core relations
                 ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┐                             ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
                 ╵             ╵       ╷            ( 2 )            ╷       ╵             ╵
                 ╵             ╵       ╷                             ╷       ╵             ╵
-               A1            A2        ─ ─ ─                   ─ ─ ─        B1            B2
+               A1            A2        ─ ─ ─ ╴               ╶ ─ ─ ─        B1            B2
            integration   integration         ╵               ╵          integration   integration
                 ·             ·              ╵               ╵              ·             ·
                 ╵             ╵              ╵               ╵              ╵             ╵
@@ -45,7 +45,7 @@ Executive-integrative coherence: core relations
                 └─────────────┼ ─ ─ ─ ─ ─ ─     ─ ─ ─ ─ ─ ─     ─ ─ ─ ─ ─ ─ ┼─────────────┘
                               │                      ╵                      │
                               ╵                      ╵                      ╵
-                          A division         integrational root         B division
+                          A division          integrative root          B division
                               ╷                      ·                      ╷
                               │                      ╵                      │
                               └───────────────────┐  ╵  ┌───────────────────┘
@@ -54,11 +54,12 @@ Executive-integrative coherence: core relations
                                               divisional root
          
 
-            diagram, Cross-connected official hierarchy.  (1) Appointments to integration offices (dashed
-              lines) and division offices (solid) separately form the integrative and divisional trees.
-              (2) Cross-appointments from the latter to the former, both at the divisional root and
-              again at each separate division, interconnect the two trees to form a single, tightly knit
-              executive hierarchy.  Offering waycasts are shown below, accepting above.
+            diagram, Cross-connection of divisional and integrative trees.  (1) Appointments to
+              division offices (solid lines) and integration offices (dashed) separately form
+              the divisional and integrative trees.  (2) Cross-appointments from the former
+              to the latter, both at the divisional root and again at each separate division,
+              weave the two trees into a single, tightly knit part of the executive system.
+              Offering waycasts are shown below, accepting above.
 
 
 
@@ -77,7 +78,7 @@ Executive-integrative coherence: core relations
                   └────┬────┘            └──────┬──────┘            └────┬────┘
                        │                        │                        │
                        ╵                        ╵                        ╵
-                   A division           integrational root           B division
+                   A division            integrative root            B division
                        ▲                        ╷                        ▲
                        │                        │                        │
                        └─────────────────────┐  │  ┌─────────────────────┘
@@ -87,8 +88,8 @@ Executive-integrative coherence: core relations
          
 
             diagram, Model change flow.  Outside of standing differences in the compiled way models,
-              changes flowing on subcast-to-surcast lines with each recompilation keep all models
-              synchronized with that of the integrational root.
+              changes pulsing on subcast-to-surcast lines to the heartbeat of each local recompilation
+              bring all models into pulsed synchrony with that of the integrative root.
 
 
 
@@ -106,7 +107,7 @@ Executive-integrative coherence: core relations
                   └────┬────┘                   ╷                   └────┬────┘
                        │                        ╷                        │
                        ╵                        ▽                        ╵
-                   A division           integrational root           B division
+                   A division            integrative root            B division
                        ▲                        ╷                        ▲
                        │                        │                        │
                        └─────────────────────┐  │  ┌─────────────────────┘
@@ -116,9 +117,10 @@ Executive-integrative coherence: core relations
          
 
             diagram, End-to-end change flow from waysource through way models.  Cumulative pooling of
-              waysource files into the waycast of the integrational root (dashed lines) together with
-              change flow via model recompilation (solid lines, here shown only for divisional models)
-              keeps all models synchronized with the waysource maintained at the integrational leaves.
+              waysource files into the waycast of the integrative root (dashed lines) together with
+              change flow via model recompilation (solid lines, shown only for divisional models)
+              bring all models into synchrony with the waysource cast at the integrative leaves.
+                : re `shown only for divisional models` cf. `^^diagram, Model change flow`
 
 
 
