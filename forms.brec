@@ -1,0 +1,16 @@
+Forms of intercast relation
+
+
+    forest
+        - An ordered set of trees of a particular edge type.
+        - Trees are ordered by basal vote count.
+
+    tree
+        - An ordered tree of waycast nodes joined by intercast edges of a particular type.
+        - The form is actually that of a Votorola-style psuedo tree.
+            - Each tree has a base which is either a root or node cycle.
+            - Each edge counts as a cascading vote, the cumulative sums of which order the child nodes.
+
+
+
+                                                         \ Copyright © 2021  Michael Allan.  Licence MIT.
