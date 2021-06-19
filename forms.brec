@@ -4,7 +4,7 @@ Forms of intercast relation
     forest
         - An ordered set of trees of a particular edge type.
         - Trees are ordered by basal vote count.
-
+    goal forest
     tree
         - An ordered tree of waycast nodes joined by intercast edges of a particular type.
         - The form is actually that of a Votorola-style psuedo tree.
