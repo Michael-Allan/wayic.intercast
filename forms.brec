@@ -2,14 +2,14 @@ Forms of intercast relation
 
 
     forest
-        - An ordered set of trees of a particular edge type.
-        - Trees are ordered by basal vote count.
+        - An ordered set of trees.
+        - The order of trees is determined by the inflow volume at their roots.
     goal forest
     tree
-        - An ordered tree of waycast nodes joined by intercast edges of a particular type.
-        - The form is actually that of a Votorola-style psuedo tree.
-            - Each tree has a base which is either a root or node cycle.
-            - Each edge counts as a cascading vote, the cumulative sums of which order the child nodes.
+        - An ordered, cyclic in-tree of waycast nodes.
+            / Re in-tree, aka anti-arborescence.
+        - The order of siblings is determined by their inflow volume.
+        - The tree is cyclic (potentially) in that the root comprises either a node or cycle.
 
 
 

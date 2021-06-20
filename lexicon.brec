@@ -2,6 +2,12 @@ Definition of terms for Wayic Intercast
 
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
+    flow volume
+        - The portion of inflow volume carried on a tree edge.
+    inflow volume
+        - The number of other nodes whence a tree node is reachable by edges taken in proper direction.
+            / Equal to a Votorola style, cascading vote count.
+                : see http://reluk.ca/project/Votorola/d/theory.xht#medium
     intercast
         ─ adjective
             - Between or among waycasts or waycasters.
