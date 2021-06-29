@@ -21,26 +21,26 @@ Structure and fit: the designed structure of the intercast network
                   directly be solved by the formal steps: the difficulty
                   of writing the waysource from scratch.
 
-    - Alone and without an intercast network, the waycaster begins with an isolated waycast.
+        - Alone and without an intercast network, the waycaster begins with an isolated waycast.
 
-                         · · · · · · · · · · · · ·
-                         ·                       ·
-                         ·        ┌─────┐        ·
-                         ·        │     │        ·
-                         ·        │     │        ·
-                         ·        │     │        ·
-                         ·        └─────┘        ·
-                         ·                       ·
-                         ·   ┌─────┐             ·
-                         ·   │     │   ┌─────┐   ·
-                         ·   │     │   │     │   ·
-                         ·   │     │   │     │   ·
-                         ·   └─────┘   │     │   ·
-                         ·             └─────┘   ·
-                         ·                       ·
-                         · · · · · · · · · · · · ·
+                             · · · · · · · · · · · · ·
+                             ·                       ·
+                             ·        ┌─────┐        ·
+                             ·        │     │        ·
+                             ·        │     │        ·
+                             ·        │     │        ·
+                             ·        └─────┘        ·
+                             ·                       ·
+                             ·   ┌─────┐             ·
+                             ·   │     │   ┌─────┐   ·
+                             ·   │     │   │     │   ·
+                             ·   │     │   │     │   ·
+                             ·   └─────┘   │     │   ·
+                             ·             └─────┘   ·
+                             ·                       ·
+                             · · · · · · · · · · · · ·
 
-            diagram, An isolated waycast containing three way files.
+                diagram, An isolated waycast containing three way files.
 
     part
         + Show the two types of stock on which I depend (tap and pipe).
@@ -49,40 +49,40 @@ Structure and fit: the designed structure of the intercast network
           out-degree 1 (one stock for a given stand), each has the potential
           to form an edge of an in-tree.
 
-                               · · · · · · · · · · · · · · · · · ·
-                               ·                                 ·
-                               ·               ┌─────┐           ·
-                ┌──┐           ·               │     │           ·
-                │  │ ─────┈ ┈─────────╴ △ ╶──▶ │     │           ·
-                └──┘           ·               │     │           ·
-                               ·               └─────┘           ·
-                               ·                                 ·
-                               ·          ┌─────┐                ·
-                  ┌──┐         ·          │     │   ┌─────┐      ·
-                  │  │ ───┈ ┈────╴ △ ╶──▶ │     │   │     │      ·
-                  └──┘         ·          │     │   │     │      ·
-                               ·          └─────┘   │     │      ·
-                               ·                    └─────┘      ·
-             ┌──┐              ·                                 ·
-           ┌──┐┌──┐            ·        └─────────┬──────────┘   ·
-           │ ┌──┐┌──┐          ·                  │              ·
-           └─│ ┌──┐ │ ────┈ ┈──────╴ △ ╶──────┐   │              ·
-             └─│  │─┘          ·              │   │              ·
-               └──┘            ·              │   │              ·
-                               · · · · · · · ·│· ·│· · · · · · · ·
-                                              │   │
-                                              │   │
-                                              ▼   ▼
-         
-                                              ┌──┐
-                                            ┌──┐┌──┐
-                                            │ ┌──┐┌──┐
-                                            └─│ ┌──┐ │
-                                              └─│  │─┘
-                                                └──┘
+                                   · · · · · · · · · · · · · · · · · ·
+                                   ·                                 ·
+                                   ·               ┌─────┐           ·
+                    ┌──┐           ·               │     │           ·
+                    │  │ ─────┈ ┈─────────╴ △ ╶──▶ │     │           ·
+                    └──┘           ·               │     │           ·
+                                   ·               └─────┘           ·
+                                   ·                                 ·
+                                   ·          ┌─────┐                ·
+                      ┌──┐         ·          │     │   ┌─────┐      ·
+                      │  │ ───┈ ┈────╴ △ ╶──▶ │     │   │     │      ·
+                      └──┘         ·          │     │   │     │      ·
+                                   ·          └─────┘   │     │      ·
+                                   ·                    └─────┘      ·
+                 ┌──┐              ·                                 ·
+               ┌──┐┌──┐            ·        └─────────┬──────────┘   ·
+               │ ┌──┐┌──┐          ·                  │              ·
+               └─│ ┌──┐ │ ────┈ ┈──────╴ △ ╶──────┐   │              ·
+                 └─│  │─┘          ·              │   │              ·
+                   └──┘            ·              │   │              ·
+                                   · · · · · · · ·│· ·│· · · · · · · ·
+                                                  │   │
+                                                  │   │
+                                                  ▼   ▼
+             
+                                                  ┌──┐
+                                                ┌──┐┌──┐
+                                                │ ┌──┐┌──┐
+                                                └─│ ┌──┐ │
+                                                  └─│  │─┘
+                                                    └──┘
 
-            diagram, A waycast, its compiled way model and their change-flow connections
-              with an intercast network.
+                diagram, A waycast, its compiled way model and their change-flow connections
+                  with an intercast network.
 
     part
         + Present way-file forests.
@@ -101,6 +101,7 @@ Structure and fit: the designed structure of the intercast network
                   and most flexible for labelling/naming.
         + Ask: what kind of forest might one find pipe stock, preformed way models?
         + Answer: {the root of an integrative tree\an executive-system forest}.
+
     parts
         - Integrative tree and executive-system forest.
         + Present the executive-integrative network, moving the current presentation into here.
@@ -120,11 +121,13 @@ Structure and fit: the designed structure of the intercast network
             + Finish by showing the pipe relations of the executive-system tree.
         + Ask: how find such an executive-system forest?
         + Answer: goal forest.
+
     part
         + Present the goal forest.
         - Its other important function is assurance about the choice of goal.
             + Show my original waycast (initial diagram above) with the addition
               of a thoroughfractal head tap into the forest.
+
     part
         + Come full circle by presenting team forests.
             - Here one might find co-workers or other opportunities for coordination.
@@ -163,6 +166,7 @@ Structure and fit: the designed structure of the intercast network
             / Wholly private plans need not be cast.
             + Cite this requirement as warrant for the earlier premise (of the integrative tree)
               that very large bodies waysource are to be expected.
+
     part
       \ + Summarize.
       \     - Scalability enables the wayic to come to grips with goals of any size
@@ -180,6 +184,7 @@ Structure and fit: the designed structure of the intercast network
           and the problems it faced.
         + Illustrate this in terms of X by reference to the intercast forms
           that solved those problems.
+
 
 
                                                          \ Copyright © 2021  Michael Allan.  Licence MIT.
