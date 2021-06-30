@@ -42,7 +42,7 @@ Structure and fit: the designed structure of the intercast network
 
                 diagram, An isolated waycast containing three way files.
 
-    part
+    taps and pipes
         + Show the two types of stock on which I depend (tap and pipe).
         + Ask: where does each come from?
         + Answer: could be anywhere, but given these are directed relations of
@@ -53,14 +53,14 @@ Structure and fit: the designed structure of the intercast network
                                    ·                                 ·
                                    ·               ┌─────┐           ·
                     ┌──┐           ·               │     │           ·
-                    │  │ ─────┈ ┈─────────╴ △ ╶──▶ │     │           ·
+                  f │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  f′ │           ·
                     └──┘           ·               │     │           ·
                                    ·               └─────┘           ·
                                    ·                                 ·
                                    ·          ┌─────┐                ·
                       ┌──┐         ·          │     │   ┌─────┐      ·
-                      │  │ ───┈ ┈────╴ △ ╶──▶ │     │   │     │      ·
-                      └──┘         ·          │     │   │     │      ·
+                    g │  │ ───┈ ┈────╴ △ ╶──▶ │  g′ │   │     │      ·
+                      └──┘         ·          │     │   │  h  │      ·
                                    ·          └─────┘   │     │      ·
                                    ·                    └─────┘      ·
                  ┌──┐              ·                                 ·
@@ -68,7 +68,7 @@ Structure and fit: the designed structure of the intercast network
                │ ┌──┐┌──┐          ·                  │              ·
                └─│ ┌──┐ │ ────┈ ┈──────╴ △ ╶──────┐   │              ·
                  └─│  │─┘          ·              │   │              ·
-                   └──┘            ·              │   │              ·
+               m   └──┘            ·              │   │              ·
                                    · · · · · · · ·│· ·│· · · · · · · ·
                                                   │   │
                                                   │   │
@@ -79,28 +79,40 @@ Structure and fit: the designed structure of the intercast network
                                                 │ ┌──┐┌──┐
                                                 └─│ ┌──┐ │
                                                   └─│  │─┘
-                                                    └──┘
+                                                m′  └──┘
 
                 diagram, A waycast, its compiled way model and their change-flow connections
                   with an intercast network.
 
-    part
+    way-file forests
         + Present way-file forests.
-        - Unless I use the larger forms, I seem to be stuck with one of the following for tap
-          stands, on account of centering needs.
-
-                 ┌─┐
-                 │ │
-                 └─┘
-                 ┌─┐
-                 └─┘
-             
-                 [ ]
-
-                - The latter is the most compatible with other, alphabetic forests,
-                  and most flexible for labelling/naming.
         + Ask: what kind of forest might one find pipe stock, preformed way models?
         + Answer: {the root of an integrative tree\an executive-system forest}.
+
+                                                              [⋅]
+                                                               ▲
+                         [⋅]   [⋅]                        [⋅]  │  [⋅]
+                          ▲     ▲                          ▲   │   ▲
+                          └──┬──┘     [⋅]                  └───┼───┘
+                             ╵         ▲                       ╵
+                    [⋅]     [⋅]        │                      [⋅]     [⋅]
+                     ▲       ▲         ╵                       ▲       ▲
+                [⋅]  │  [⋅]  │  [⋅]   [⋅]         [ f′]   [⋅]  │  [⋅]  │  [⋅]
+                 ▲   │   ▲   │   ▲     ▲            ▲      ▲   │   ▲   │   ▲
+                 └───┼───┘   │   └──┬──┘            └───┬──┘   │   └───┼───┘
+                     ╵       │      ╵                   ╵      │       ╵
+                    [⋅]      │     [⋅]                [ f ]    │      [⋅]
+                     ▲   [⋅] │      ▲        [⋅]        ▲      │ [⋅]   ▲
+                     │    ▲  │      │         ▲         │      │  ▲    │
+                     └────┴──┼──────┘    [⋅]  │  [⋅]    └──────┼──┴────┘    [⋅]   [⋅]
+                             │            ▲   │   ▲            │             ▲     ▲
+                             ╵            └───┼───┘            ╵             └──┬──┘
+                            [⋅]               ╵               [⋅]               ╵
+                                             [⋅]                               [⋅]
+
+                diagram, Change flow on tap lines in a way-file forest.  File f′ (centre)
+                  is that of the waycast in the previous diagram.
+                    : re `previous diagram` see `^^taps and pipes$`
 
     parts
         - Integrative tree and executive-system forest.
