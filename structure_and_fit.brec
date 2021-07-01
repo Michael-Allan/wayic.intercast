@@ -22,22 +22,22 @@ Structure and fit: the designed structure of the intercast network
 
     - Alone and without an intercast network, the waycaster begins with an isolated waycast.
 
-                         · · · · · · · · · · · · ·
-                         ·                       ·
-                         ·        ┌─────┐        ·
-                         ·        │     │        ·
-                         ·        │     │        ·
-                         ·        │     │        ·
-                         ·        └─────┘        ·
-                         ·                       ·
-                         ·   ┌─────┐             ·
-                         ·   │     │   ┌─────┐   ·
-                         ·   │     │   │     │   ·
-                         ·   │     │   │     │   ·
-                         ·   └─────┘   │     │   ·
-                         ·             └─────┘   ·
-                         ·                       ·
-                         · · · · · · · · · · · · ·
+                       · · · · · · · · · · · · · · ·
+                       ·                           ·
+                       ·          ┌─────┐          ·
+                       ·          │     │          ·
+                       ·          │     │          ·
+                       ·          │     │          ·
+                       ·          └─────┘          ·
+                       ·                           ·
+                       ·     ┌─────┐               ·
+                       ·     │     │   ┌─────┐     ·
+                       ·     │     │   │     │     ·
+                       ·     │     │   │     │     ·
+                       ·     └─────┘   │     │     ·
+                       ·               └─────┘     ·
+                       ·                           ·
+                       · · · · · · · · · · · · · · ·
 
             diagram, An isolated waycast containing three way files.
 
@@ -80,7 +80,7 @@ Structure and fit: the designed structure of the intercast network
                                                   └─│  │─┘
                                                 m′  └──┘
 
-                diagram, Change flow from extracast sources (left) through a waycast (centre)
+                diagram, Change flow from extracast sources (left) through a waycast (right)
                   and into its compiled way model (bottom).  Shown are changes flowing along
                     1) tap lines from tap stocks (files f, g) to stands (f′, g′) and along
                     2) a pipe line from pipe stock (model m) to stand (m′), and via
