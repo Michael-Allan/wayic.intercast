@@ -51,44 +51,46 @@ Structure and fit: the designed structure of the intercast network
         + Answer in regard to pipe stock, preformed way models:
           {the root of an integrative tree\an executive-system forest}.
 
-                                   · · · · · · · · · · · · · · · · · ·
-                                   ·                                 ·
-                                   ·               ┌─────┐           ·
-                    ┌──┐           ·               │     │           ·
-                  f │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  f′ │           ·
-                    └──┘     ⋰     ·               │     │           ·  waycast
-                                   ·               └─────┘           ·
-                           1       ·                                 ·
-                                   ·          ┌─────┐                ·
-                      ┌──┐   ⋱     ·          │     │   ┌─────┐      ·
-                    g │  │ ───┈ ┈────╴ △ ╶──▶ │  g′ │   │     │      ·
-                      └──┘         ·          │     │   │  h  │      ·
-                                   ·          └─────┘   │     │      ·
-                                   ·                    └─────┘      ·
-                 ┌──┐              ·                                 ·
-               ┌──┐┌──┐            ·        └─────────┬──────────┘   ·
-               │ ┌──┐┌──┐    2     ·                  │              ·
-               └─│ ┌──┐ │ ────┈ ┈──────╴ △ ╶──────┐   │ 3            ·
-                 └─│  │─┘          ·              │   │              ·
-               m   └──┘            ·              │   │              ·
-                                   · · · · · · · ·│· ·│· · · · · · · ·
-                                                  │   │
-                                                  │   │
-                                                  ▼   ▼
+                                   · · · · · · · · · · · · · · · · · · ·
+                                   ·                                   ·
+                                   ·               ┌─────┐             ·
+                    ┌──┐           ·               │     │             ·
+                  f │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  f′ │             ·
+                    └──┘     ⋰     ·               │     │             ·  waycast
+                                   ·               └─────┘             ·
+                           1       ·                                   ·
+                                   ·          ┌─────┐                  ·
+                      ┌──┐   ⋱     ·          │     │   ┌─────┐        ·
+                    g │  │ ───┈ ┈────╴ △ ╶──▶ │  g′ │   │     │        ·
+                      └──┘         ·          │     │   │  h  │        ·
+                                   ·          └─────┘   │     │        ·
+                                   ·                    └─────┘        ·
+                 ┌──┐              ·                                   ·
+               ┌──┐┌──┐            ·         └────────┬─────────┘      ·
+               │ ┌──┐┌──┐    2     ·                  │ 3              ·
+               └─│ ┌──┐ │ ────┈ ┈───────────────────┐ │                ·
+                 └─│  │─┘          ·                │ │ ┌──────╴ △     ·
+               m   └──┘            ·                │ │ │    4         ·
+                                   ·                │ │ │              ·
+                                   · · · · · · · · ·│·│·│· · · · · · · ·
+                                                    │ │ │
+                                                    │ │ │
+                                                    ▼ ▼ ▼
              
-                                                  ┌──┐
-                                                ┌──┐┌──┐    way model
-                                                │ ┌──┐┌──┐
-                                                └─│ ┌──┐ │
-                                                  └─│  │─┘
-                                                m′  └──┘
+                                                    ┌──┐
+                                                  ┌──┐┌──┐    way model
+                                                  │ ┌──┐┌──┐
+                                                  └─│ ┌──┐ │
+                                                    └─│  │─┘
+                                                  m′  └──┘
 
                 diagram, Change flow from extracast sources (left) through a waycast (right)
                   and into its compiled way model (bottom).  Shown are changes flowing along
                     1) tap lines from tap stocks (files f, g) to stands (f′, g′) and along
                     2) a pipe line from pipe stock (model m) to stand (m′), and via
-                    3) compilation from waysource (files f′, g′, h) to way model (m′).
-                  Standing differences between stocks and stands (△) are recorded in the waycast.
+                    3) compilation from waysource (files f′, g′, h) to way model (m′) and
+                    4) application of a final standing difference to the way model.
+                  Standing differences for waysource and model (△) are recorded in the waycast.
 
     way-file forests
         + Present way-file forests.
