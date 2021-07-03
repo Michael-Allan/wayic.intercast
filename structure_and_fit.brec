@@ -44,9 +44,12 @@ Structure and fit: the designed structure of the intercast network
     taps, pipes and compilation
         + Show the two types of stock on which I depend (tap and pipe).
         + Ask: where does each come from?
-        + Answer: could be anywhere, but given these are directed relations of
-          out-degree 1 (one stock for a given stand), each has the potential
-          to form an edge of an in-tree.
+            / It could be anywhere, but given these are directed relations of
+              out-degree 1 (one stock for a given stand), each has the potential
+              to form an edge of an in-tree.
+        + Answer in regard to tap stock, precomposed way files: way-file forests.
+        + Answer in regard to pipe stock, preformed way models:
+          {the root of an integrative tree\an executive-system forest}.
 
                                    · · · · · · · · · · · · · · · · · ·
                                    ·                                 ·
@@ -89,8 +92,6 @@ Structure and fit: the designed structure of the intercast network
 
     way-file forests
         + Present way-file forests.
-        + Ask: what kind of forest might one find pipe stock, preformed way models?
-        + Answer: {the root of an integrative tree\an executive-system forest}.
 
                                                               [⋅]
                                                                ▲
@@ -118,13 +119,13 @@ Structure and fit: the designed structure of the intercast network
                   are those of the previous diagram.
                     : re `previous diagram` see `^^taps.+pipes.+compilation$`
 
-    parts
-        - Integrative tree and executive-system forest.
+    parts, integrative tree and executive-system forest
         + Present the executive-integrative network, moving the current presentation into here.
             : see executive-integrative_network.brec
             + Warrant the premise that prompts the integrative tree.
                 : join `^^Cite.+as warrant for the earlier premise \(of the integrative tree\)`
             + Ask after the presentation of the integrative tree: how find such a tree?
+            + Answer: executive-system forest.
         - It must have models that meet these conditions:
             • Comprehensive and coherent
             • Actionable and executing throughout
@@ -137,6 +138,15 @@ Structure and fit: the designed structure of the intercast network
             + Finish by showing the pipe relations of the executive-system tree.
         + Ask: how find such an executive-system forest?
         + Answer: goal forest.
+        !! What form for the opening diagram?
+            - It must show the integrative root whose way model is the wanted pipe stock.
+            - It must mesh well with the diagram of the waycast that wants the pipe stock.
+                : re `diagram` see `^^taps.+pipes.+compilation$`
+                - The diagrams of the executive-integrative network (which will follow)
+                  include none that is adequate here.
+                    : see ~/work/wayic/intercast/executive-integrative_network.brec
+            | model compilation at the integrative root
+                : see notebook 2021-7-2
 
     part
         + Present the goal forest.
@@ -188,7 +198,7 @@ Structure and fit: the designed structure of the intercast network
                     • To declare a way engagement that formally entails a private plan of action,
                       marking the points at which it intersects with the model
                     • To enter minor model changes as a suggestion to the group
-                        - An aid to efficient communication.
+                        - An aid to efficient messaging.
                 - This arrangement would likely be more typical than the one shown at the outset.
             - One shows an empty pipe relation, the stand model a replica of the stock.
                 - This arrangement would likely be the most typical.
