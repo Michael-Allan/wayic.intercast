@@ -48,8 +48,7 @@ Structure and fit: the designed structure of the intercast network
               out-degree 1 (one stock for a given stand), each has the potential
               to form an edge of an in-tree.
         + Answer in regard to tap stock, precomposed way files: way-file forests.
-        + Answer in regard to pipe stock, preformed way models:
-          {the root of an integrative tree\an executive-system forest}.
+        + Answer in regard to pipe stock, preformed way models: the root of an integrative tree.
 
                                    · · · · · · · · · · · · · · · · · · ·
                                    ·                                   ·
@@ -85,7 +84,7 @@ Structure and fit: the designed structure of the intercast network
                                                   m′  └──┘
 
                 diagram, Change flow from extracast sources (left) through a waycast (right)
-                  and into its compiled way model (bottom).  Shown are changes flowing along
+                  and into its compiled way model (bottom).  Shown are changes flowing along:
                     1) tap lines from tap stocks (files f, g) to stands (f′, g′) and along
                     2) a pipe line from pipe stock (model m) to stand (m′), and via
                     3) compilation from waysource (files f′, g′, h) to way model (m′) and
@@ -140,15 +139,34 @@ Structure and fit: the designed structure of the intercast network
             + Finish by showing the pipe relations of the executive-system tree.
         + Ask: how find such an executive-system forest?
         + Answer: goal forest.
-        !! What form for the opening diagram?
-            - It must show the integrative root whose way model is the wanted pipe stock.
-            - It must mesh well with the diagram of the waycast that wants the pipe stock.
-                : re `diagram` see `^^taps.+pipes.+compilation$`
-                - The diagrams of the executive-integrative network (which will follow)
-                  include none that is adequate here.
-                    : see ~/work/wayic/intercast/executive-integrative_network.brec
-            | model compilation at the integrative root
-                : see notebook 2021-7-2
+
+                               · · · · · · · · · · ·
+                               ·                   ·
+                 · · ·         ·                   ·  waycast
+                 · A · ╶──┈ ┈─────╴ ◌ ╶───┐        ·
+                 · · ·         ·          │        ·
+                               ·        1 │        ·
+               · · ·           ·          │ ┌─╴ △  ·
+               · B · ╶────┈ ┈─────╴ ◌ ╶───┤ │      ·
+               · · ·           ·          │ │ 2    ·
+                               ·          │ │      ·
+                               · · · · · ·│·│· · · ·
+                                          │ │
+                                          │ │
+                                          ▼ ▼
+                                         ┌──┐
+                                       ┌──┐┌──┐    way model
+                                       │ ┌──┐┌──┐
+                                       └─│ ┌──┐ │
+                                         └─│  │─┘
+                                       m   └──┘
+
+                diagram, Waycast and way model of a root integrator.  Shown are model changes flowing via
+                    1) references (◌) to waysource defined in remote waycasts (A, B) and
+                    2) application of a standing difference (△).
+                  Waysource references (◌) and standing difference (△) are recorded in the waycast.
+                  The way model is that of the same label (m) in the earlier diagram.
+                    : re `earlier diagram` see `^^taps.+pipes.+compilation$`
 
     part
         + Present the goal forest.
