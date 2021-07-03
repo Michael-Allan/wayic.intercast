@@ -2,10 +2,9 @@ Definition of terms for the intercast networking project
 
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
-    flow volume
-        - The portion of inflow volume carried on a tree edge.
-    inflow volume
-        - The number of other nodes whence a tree node is reachable by edges taken in proper direction.
+    descendant weight
+        - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
+            / Equal to the number of descendants provided the node is extra-cyclic.
             / Equal to a Votorola style, cascading vote count.
                 : see http://reluk.ca/project/Votorola/d/theory.xht#medium
     intercast

@@ -3,14 +3,14 @@ Forms of intercast relation
 
     forest
         - An ordered set of trees.
-        - The order of trees is determined by the inflow volume at their roots.
+        - The order of trees is determined by descendant weight at their roots.
     goal forest
     intercast network
         - A system of interconnected waycasts and waycasters.
     tree
         - An ordered, cyclic in-tree of waycast nodes.
             / Re in-tree, aka anti-arborescence.
-        - The order of siblings is determined by their inflow volume.
+        - The order of siblings is determined by descendant weight.
         - The tree is cyclic (potentially) in that the root comprises either a node or cycle.
 
 
