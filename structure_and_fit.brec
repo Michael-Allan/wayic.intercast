@@ -25,8 +25,8 @@ Structure and fit: the designed structure of the intercast network
                        · · · · · · · · · · · · · · ·
                        ·                           ·
                        ·          ┌─────┐          ·
-                       ·          │     │          ·
-                       ·          │     │          ·
+                       ·          │     │          ·  pioneer
+                       ·          │     │          ·  waycast
                        ·          │     │          ·
                        ·          └─────┘          ·
                        ·                           ·
@@ -39,7 +39,7 @@ Structure and fit: the designed structure of the intercast network
                        ·                           ·
                        · · · · · · · · · · · · · · ·
 
-            diagram, An isolated waycast containing three way files.
+            diagram, The isolated waycast of a pioneering waycaster, containing three way files.
 
     taps, pipes and compilation
         + Show the two types of stock on which I depend (tap and pipe).
@@ -54,7 +54,7 @@ Structure and fit: the designed structure of the intercast network
                                    ·                                   ·
                                    ·               ┌─────┐             ·
                     ┌──┐           ·               │     │             ·
-                  f │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  f′ │             ·
+                  f │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  f′ │             ·  subject
                     └──┘     ⋰     ·               │     │             ·  waycast
                                    ·               └─────┘             ·
                            1       ·                                   ·
@@ -83,12 +83,12 @@ Structure and fit: the designed structure of the intercast network
                                                     └─│  │─┘
                                                   m′  └──┘
 
-                diagram, Change flow from extracast sources (left) through a waycast (right)
-                  and into its compiled way model (bottom).  Shown are changes flowing along:
-                    1) tap lines from tap stocks (files f, g) to stands (f′, g′) and along
-                    2) a pipe line from pipe stock (model m) to stand (m′), and via
+                diagram, Change flow from extracast sources (left) through the waycast of the subject
+                  (right) and into his compiled way model (bottom).  Shown are changes flowing via
+                    1) tap lines from tap stocks (files f, g) to stands (f′, g′),
+                    2) a pipe line from pipe stock (model m) to stand (m′),
                     3) compilation from waysource (files f′, g′, h) to way model (m′) and
-                    4) application of a final standing difference to the way model.
+                    4) application of a final standing difference to the model.
                   Standing differences for waysource and model (△) are recorded in the waycast.
 
     way-file forests
@@ -117,16 +117,132 @@ Structure and fit: the designed structure of the intercast network
 
                 diagram, A way-file forest.  Changes flow downward on tap lines from file to file,
                   tap stock to tap stand.  The labelled stock and stand (f and f′) are those of
-                  the previous diagram.
-                    : re `previous diagram` see `^^taps.+pipes.+compilation$`
+                  the subject waycast.
+                    : re `subject waycast` see `· +subject\R.+· +waycast` @ `^^taps.+pipes.+compilation$`
 
-    parts, integrative tree and executive-system forest
+    integrative tree
+        + Warrant the premise that prompts the integrative tree.
+            : join `^^Cite.+as warrant for the earlier premise \(of the integrative tree\)`
+        + Ask after the presentation of the integrative tree: how find such a tree?
+        + Answer: executive-system forest.
+
+                                  · · · · · · · · · · · ·
+                                  ·                     ·
+                    · · ·         ·                     ·  waycast of root
+                 A  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐          ·    integrator
+                    · · ·         ·          │          ·
+                                  ·        1 │          ·
+                  · · ·           ·          │ ┌───╴ △  ·
+               B  ·   · ╶────┈ ┈─────╴ ◌ ╶───┤ │        ·
+                  · · ·           ·          │ │ 2      ·
+                                  ·          │ │        ·
+                                  · · · · · ·│·│· · · · ·
+                                             │ │
+                                             │ │
+                                             ▼ ▼
+                                            ┌──┐
+                                          ┌──┐┌──┐    way model
+                                          │ ┌──┐┌──┐
+                                          └─│ ┌──┐ │
+                                            └─│  │─┘
+                                          m   └──┘
+
+                diagram, Waycast and way model of a root integrator.  Shown are model changes flowing via
+                    1) references (◌) to waysource defined in remote waycasts (A, B) and
+                    2) application of a standing difference (△).
+                  Waysource references (◌) and standing difference (△) are recorded in the waycast.
+                  The way model is that of the same label (m) in the diagram of the subject waycast.
+                    : re `diagram of the subject waycast` see
+                      `· +subject\R.+· +waycast` @ `^^taps.+pipes.+compilation$`
+                ·
+                                   · · · · · · · · · · · · ·
+                                   ·                       ·
+                     · · ·         ·                       ·
+                 B1  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐            ·   waycast of
+                     · · ·         ·          │            ·  integrator B
+                                   ·        2 │            ·
+                   · · ·           ·          │            ·
+               B2  ·   · ╶────┈ ┈─────╴ ◌ ╶───┤            ·
+                   · · ·           ·          │            ·
+                                   ·          │            ·
+                  ┌──┐             ·          │ ┌─────╴ △  ·
+                ┌──┐┌──┐           ·          │ │   3      ·
+                │ ┌──┐┌──┐    1    ·          │ │          ·
+                └─│ ┌──┐ │ ────┈ ┈──────────┐ │ │          ·
+                  └─│  │─┘         ·        │ │ │          ·
+                m   └──┘           ·        │ │ │          ·
+                                   · · · · ·│·│·│· · · · · ·
+                                            │ │ │
+                                            ▼ ▼ ▼
+             
+                                            ┌──┐
+                                          ┌──┐┌──┐    way model
+                                          │ ┌──┐┌──┐
+                                          └─│ ┌──┐ │
+                                            └─│  │─┘
+                                          mB  └──┘
+
+                diagram, Waycast and way model of integrator B.  Shown are model changes flowing via
+                    1) a pipe line from pipe stock (model m) to stand (mB),
+                    2) references (◌) to waysource defined in remote waycasts (B1, B2) and
+                    3) application of a standing difference (△).
+                  Stock model ‘m’ is that of the same label in the preceding diagram,
+                  where the present waycast is labelled ‘B’
+                    : re `preceding diagram` see `· +waycast of root\R.+· +integrator` @
+                      `^^integrative tree$`
+                ·
+                                             integrative root
+                                                    △
+                          ( i )                     ╵
+                                                    ╵
+                                              ─ ─ ─ ┴ ─ ─ ─
+                                             ╵             ╵
+                                             ╵             ╵
+                                     A integration   B integration
+                                           △               △
+                                           ╵               ╵
+                                           ╵               ╵
+                     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘               └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                    ╵             ╵                                 ╵             ╵
+                    ╵             ╵                                 ╵             ╵
+                   A1            A2                                 B1            B2
+               integration   integration                        integration   integration
+             
+             
+             
+                                            integrative root
+                                                   ╷
+                          ( ii )                   │
+                                           ┌───────┴───────┐
+                                           │               │
+                                           ▼               ▼
+                                     A integration   B integration
+                                           ╷               ╷
+                                           │               │
+                    ┌─────────────┬────────┘               └────────┬─────────────┐
+                    │             │                                 │             │
+                    ▼             ▼                                 ▼             ▼
+                   A1            A2                                 B1            B2
+               integration   integration                        integration   integration
+             
+
+                diagram, Change flow in an integrative tree.  Changes flow:
+                    i) Rootward on waysource reference lines from waycast to waycast, and
+                    ii) Leafward on pipe lines from way model to way model.
+                  The waycasts labelled ‘integrative root’ and ‘B integration’ are those shown
+                  in the preceding two diagrams, while ‘B1’ and ‘B2’ are those of the same labels
+                  in the preceding diagram.
+                    : re `preceding two diagrams` see `· +waycast of root\R.+· +integrator` @
+                      `^^integrative tree$`
+                    : re `preceding two diagrams` see `· +waycast of\R.+· +integrator B` @
+                      `^^integrative tree$`
+                    : re `preceding diagram` see `· +waycast of\R.+· +integrator B` @
+                      `^^integrative tree$`
+
+
+    parts, executive-integrative network and executive-system forest
         + Present the executive-integrative network, moving the current presentation into here.
             : see executive-integrative_network.brec
-            + Warrant the premise that prompts the integrative tree.
-                : join `^^Cite.+as warrant for the earlier premise \(of the integrative tree\)`
-            + Ask after the presentation of the integrative tree: how find such a tree?
-            + Answer: executive-system forest.
         - It must have models that meet these conditions:
             • Comprehensive and coherent
             • Actionable and executing throughout
@@ -139,34 +255,6 @@ Structure and fit: the designed structure of the intercast network
             + Finish by showing the pipe relations of the executive-system tree.
         + Ask: how find such an executive-system forest?
         + Answer: goal forest.
-
-                               · · · · · · · · · · ·
-                               ·                   ·
-                 · · ·         ·                   ·  waycast
-                 · A · ╶──┈ ┈─────╴ ◌ ╶───┐        ·
-                 · · ·         ·          │        ·
-                               ·        1 │        ·
-               · · ·           ·          │ ┌─╴ △  ·
-               · B · ╶────┈ ┈─────╴ ◌ ╶───┤ │      ·
-               · · ·           ·          │ │ 2    ·
-                               ·          │ │      ·
-                               · · · · · ·│·│· · · ·
-                                          │ │
-                                          │ │
-                                          ▼ ▼
-                                         ┌──┐
-                                       ┌──┐┌──┐    way model
-                                       │ ┌──┐┌──┐
-                                       └─│ ┌──┐ │
-                                         └─│  │─┘
-                                       m   └──┘
-
-                diagram, Waycast and way model of a root integrator.  Shown are model changes flowing via
-                    1) references (◌) to waysource defined in remote waycasts (A, B) and
-                    2) application of a standing difference (△).
-                  Waysource references (◌) and standing difference (△) are recorded in the waycast.
-                  The way model is that of the same label (m) in the earlier diagram.
-                    : re `earlier diagram` see `^^taps.+pipes.+compilation$`
 
     part
         + Present the goal forest.
