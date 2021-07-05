@@ -42,16 +42,19 @@ Structure and fit: the designed structure of the intercast network
             diagram, The isolated waycast of a pioneering waycaster, containing three way files.
 
 
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     Taps, pipes and compilation
-    ─────────────────────────────
+
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     Taps, pipes and the compilation of way models
+    ───────────────────────────────────────────────
         + Show the two types of stock on which I depend (tap and pipe).
         + Ask: where does each come from?
             / It could be anywhere, but given these are directed relations of
               out-degree 1 (one stock for a given stand), each has the potential
               to form an edge of an in-tree.
         + Answer in regard to tap stock, precomposed way files: way-file forests.
-        + Answer in regard to pipe stock, preformed way models: the root of an integrative tree.
+        + Answer in regard to pipe stock, preformed way models:
+            - Initially the root of an integrative tree, and therefrom an executive system.
+            - Thence (typically) a team leader within that system.
 
                                    · · · · · · · · · · · · · · · · · · ·
                                    ·                                   ·
@@ -91,8 +94,9 @@ Structure and fit: the designed structure of the intercast network
                     1) tap lines from tap stocks (files f, g) to stands (f′, g′),
                     2) a pipe line from pipe stock (model m) to stand (m′),
                     3) compilation from waysource (files f′, g′, h) to way model (m′) and
-                    4) application of a final standing difference to the model.
-                  Standing differences for waysource and model (△) are recorded in the waycast.
+                    4) application of a final standing difference (△) to the model.
+                  Standing differences for waysource and model (all △) are recorded in the waycast.
+
 
 
     ━━━━━━━━━━━━━━━━━━
@@ -125,16 +129,17 @@ Structure and fit: the designed structure of the intercast network
                   tap stock to tap stand.  The labelled stock and stand (f and f′) are those of
                   the subject waycast.
                     : re `subject waycast` see `· +subject\R.+· +waycast` @
-                      `^^ Taps.+pipes.+compilation$`
+                      `^^ Taps.+pipes.+compilation`
+
 
 
     ━━━━━━━━━━━━━━━━━━━
-     Integrative trees
+     Integrative trees ─ comprehensive and coherent way models
     ───────────────────
         + Warrant the premise that prompts the integrative tree.
             : join `^^Cite.+as warrant for the earlier premise \(of the integrative tree\)`
-        + Ask after the presentation of the integrative tree: how find such a tree?
-        + Answer: executive-system forest.
+        + Ask after the presentation of the integrative tree: where find such a tree?
+        + Answer: executive system.
 
                                   · · · · · · · · · · · ·
                                   ·                     ·
@@ -163,7 +168,7 @@ Structure and fit: the designed structure of the intercast network
                   Waysource references (◌) and standing difference (△) are recorded in the waycast.
                   The way model is that of the same label (m) in the diagram of the subject waycast.
                     : re `diagram of the subject waycast` see
-                      `· +subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation$`
+                      `· +subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation`
                 ·
                                    · · · · · · · · · · · · ·
                                    ·                       ·
@@ -247,23 +252,184 @@ Structure and fit: the designed structure of the intercast network
                     : re `preceding diagram` see `· +waycast of\R.+· +integrator B` @
                       `^^ Integrative tree$`
 
-    ━━━━━━━
-     Parts ─ executive-integrative networking and executive systems
-    ───────
-        + Present the executive-integrative network, moving the current presentation into here.
-            : see executive-integrative_network.brec
-        - It must have models that meet these conditions:
-            • Comprehensive and coherent
-            • Actionable and executing throughout
-        - In two sections, cover each of these conditions.
-        §+ Comprehensive and coherent way models
-        §+ Actionable way models, executing throughout
-            - All the way parts must (at some level) be moving together
-              in harmony (of some degree) in order to assure of progress
-              toward the goal.
-            + Finish by showing the pipe relations of the executive-system tree.
-        + Ask: how find such an executive-system forest?
+
+
+    ━━━━━━━━━━━━━━━━━━━
+     Executive systems ─ actionable way models under execution throughout
+    ───────────────────
+        - Re actionable way models under execution throughout: all the way parts must (at some level)
+          be moving together in harmony (of some degree) in order to assure of progress toward the goal.
+        + Ask: how find such an executive system?
         + Answer: goal forest.
+
+                                               executive root
+                                                   ╷     ╷
+                    ( 1 )                          │     │
+                                 ┌─────────────────┘     └─────────────────┐
+                                 ╵                                         ╵
+                             A division                                B division
+                                 ╷                                         ╷
+                                 │                                         │
+                    ┌────────────┤             integrative root            ├────────────┐
+                    ╵            ╵                    ╷                    ╵            ╵
+                   A1            A2                   ╷                   B1            B2
+                division      division         ─ ─ ─ ─ ─ ─ ─ ─         division      division
+                                              ╵               ╵
+                                              ╵               ╵
+                                              A               B
+                                         integration     integration
+                                              ╷               ╷
+                   A1            A2           ╷               ╷           B1            B2
+               integration   integration   ─ ─                 ─ ─    integration   integration
+                    ╷             ╷       ╵                       ╵       ╷             ╷
+                    ╷             ╷       ╵                       ╵       ╷             ╷
+                    ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘                       └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
+             
+             
+             
+                                                  executive root
+                                                      ╷  ·  ╷
+                    ( 2 )                             │  ╵  │
+                                  ┌───────────────────┘  ╵  └───────────────────┐
+                                  │                      ╵                      │
+                                  ╵                      ╵                      ╵
+                              A division          integrative root          B division
+                                  ╷                      ╷                      ╷
+                                  │                      ╷                      │
+                    ┌─────────────┼ ─ ─ ─ ─ ─ ─     ─ ─ ─ ─ ─ ─     ─ ─ ─ ─ ─ ─ ┼─────────────┐
+                    │             │            ╵   ╵           ╵   ╵            │             │
+                    ╵             ╵            ╵   ╵           ╵   ╵            ╵             ╵
+                   A1            A2              A               B              B1            B2
+                division      division      integration     integration      division      division
+                    ·             ·              ╷               ╷              ·             ·
+                    ╵             ╵              ╷               ╷              ╵             ╵
+                    ╵             ╵              ╷               ╷              ╵             ╵
+                   A1            A2              ╷               ╷              B1            B2
+               integration   integration   ─ ─ ─ ╴               ╶ ─ ─ ─    integration   integration
+                    ╷             ╷       ╵                             ╵       ╷             ╷
+                    ╷             ╷       ╵                             ╵       ╷             ╷
+                    ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘                             └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
+             
+
+                diagram, Interconnection of divisional and integrative trees.
+                    (1) Appointments to division offices (solid lines) and integration offices (dashed)
+                      separately form the divisional and integrative trees.
+                    (2) Cross-appointments from the former to the latter, both at the executive root
+                      and again at each separate division, weave the two trees into a single executive-
+                      -integrative network, the core (for modelling purposes) of an executive system.
+
+
+                                             executive root
+                                                 ╷  ▲  ╷
+                                                 │  │  │
+                           ┌─────────────────────┘  │  └─────────────────────┐
+                           │                        │                        │
+                           ▼                        ╵                        ▼
+                       A division            integrative root            B division
+                           ╷                        ╷                        ╷
+                           │                        │                        │
+                      ┌────┴────┐            ┌──────┴──────┐            ┌────┴────┐
+                      │         │            │             │            │         │
+                      ▼         ▼            ▼             ▼            ▼         ▼
+                     A1         A2                                     B1         B2
+                  division   division        A             B        division   division
+                                        integration   integration
+                                             ╷             ╷
+                                             │             │
+                    ┌─────────────┬──────────┘             └─────────┬─────────────┐
+                    │             │                                  │             │
+                    ▼             ▼                                  ▼             ▼
+                   A1            A2                                  B1            B2
+               integration   integration                         integration   integration
+             
+
+                diagram, Model change flow in the modelling core.  Changes moving through pipe lines to
+                  the heartbeat of each local recompilation keep all way models — standing differences
+                  and local waysource aside — in pulsed synchrony with that of the integrative root.
+                    : re `standing differences` see `^^4\) application of.+standing difference \(△\)` @
+                      `^^diagram, Change flow` @ `^^ Taps.+pipes.+compilation`
+                    : re `standing differences` see `^^3\) application of.+standing difference \(△\)` @
+                      `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
+                    : re `local waysource` see `^^3\) compilation from waysource` @
+                      `^^diagram, Change flow` @ `^^ Taps.+pipes.+compilation`
+                    : re `local waysource` see `^^2\) references \(◌\) to waysource` @
+                      `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
+
+                ·
+                                             executive root
+                                                 ╷  ▲  ╷
+                                                 │  │  │
+                           ┌─────────────────────┘  │  └─────────────────────┐
+                           │                        │                        │
+                           ▼                        ╵                        ▼
+                       A division            integrative root            B division
+                           ╷                        △                        ╷
+                           │                        ╵                        │
+                      ┌────┴────┐                   ╵                   ┌────┴────┐
+                      │         │             ─ ─ ─ ┴ ─ ─ ─             │         │
+                      ▼         ▼            ╵             ╵            ▼         ▼
+                     A1         A2           ╵             ╵           B1         B2
+                  division   division        A             B        division   division
+                                        integration   integration
+                                             △             △
+                                             ╵             ╵
+                                             ╵             ╵
+                     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘             └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
+                    ╵             ╵                                  ╵             ╵
+                    ╵             ╵                                  ╵             ╵
+                   A1            A2                                  B1            B2
+               integration   integration                         integration   integration
+             
+
+                diagram, End-to-end change flow from waysource through way models.  Cumulative pooling of
+                  waysource files into the waycast of the integrative root (dashed lines) together with
+                  change flow via model recompilation (solid lines, shown only for divisional models)
+                  keep all models — standing differences and local waysource aside — in synchrony with
+                  the waysource cast at the integrative leaves (bottom).
+                    : re `shown only for divisional models` cf. `^^diagram, Model change flow`
+                    : re `standing differences` see `^^4\) application of.+standing difference \(△\)` @
+                      `^^diagram, Change flow` @ `^^ Taps.+pipes.+compilation`
+                    : re `standing differences` see `^^3\) application of.+standing difference \(△\)` @
+                      `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
+                    : re `local waysource` see `^^3\) compilation from waysource` @
+                      `^^diagram, Change flow` @ `^^ Taps.+pipes.+compilation`
+
+        - Change flow in an executive system tends to follow the edges of the executive tree,
+          which is the weight-bearing core of the system.
+            : re `Change flow` e.g. `^^diagram, Model change flow in the modelling core`
+            : re `Change flow` e.g. `^^diagram, End-to-end change flow from waysource through way models`
+            / The tree is weight bearing in the sense that it alone determines the descendant weights
+              that are the principle means of orientation, both within the executive system
+              and among comparable (e.g. competing) systems.
+
+                ·
+                                             executive root
+                                                 ╷  ╷  ╷
+                                                 │  │  │
+                           ┌─────────────────────┘  │  └─────────────────────┐
+                           │                        │                        │
+                           ╵                        ╵                        ╵
+                       A division            integrative root            B division
+                           ╷                        ╷                        ╷
+                           │                        │                        │
+                      ┌────┴────┐            ┌──────┴──────┐            ┌────┴────┐
+                      │         │            │             │            │         │
+                      ╵         ╵            │             │            ╵         ╵
+                     A1         A2           ╵             ╵           B1         B2
+                  division   division        A             B        division   division
+                                        integration   integration
+                                             ╷             ╷
+                                             │             │
+                    ┌─────────────┬──────────┘             └─────────┬─────────────┐
+                    │             │                                  │             │
+                    ╵             ╵                                  ╵             ╵
+                   A1            A2                                  B1            B2
+               integration   integration                         integration   integration
+             
+
+                diagram, Executive tree.  The tree shown here is restricted to the modelling core;
+                  it includes only the edges defined by divisional and integrative role assignments.
+
 
 
     ━━━━━━
@@ -275,55 +441,53 @@ Structure and fit: the designed structure of the intercast network
               of a thoroughfractal head tap into the forest.
 
 
-    ━━━━━━
-     Part
-    ──────
-        + Come full circle by presenting team forests.
-            - Here one might find co-workers or other opportunities for coordination.
-        + Suggest that a member of a team working on part of the intercast network
-          might want to tap this file and pull into his waycast.
-            / Whether from its way-file forest, if one exists,
-              or from an extracast location (so making a forest).
-            - Then he could formally mark the point at which he engages in the work,
-              and maybe make changes in the vicinity.
-                - Again, the ultimate authors of a plan of action, or other way part,
-                  must be those who execute it or otherwise directly engage in it.
-                + Here I begin to enter the summary.
-                    - I am going too far into it, though, ∵ it is properly separate
-                      (see further below), covering more than just way-parts.
-                - The wayic must enable this not only for the person (waycaster),
-                  but for the whole of the population engaged in that part.
-                    - Moreover, it must do this in a form that marks or enables
-                      a social relation (here an intercast tap).
-                    - Only then can the wayic be said to extend in society (X).
-                    - We have approached the task of goal orientation from the
-                      vantage of the waycast, and learned that it depends deeply on
-                      intercast relations.
-                        - This suggests that goal orientation is a task at once
-                          personal and inter-personal (social).
-                        + This sort of thing belongs in the introduction,
-                          preparing the reader for the approach to be taken.
-                            - But here (in the summary) it could be echoed.
-                    - The form of the waycast brings the task of goal orientation
-                      into the hands of the user|person, while the intercast forms of
-                      the wayic make those hands competent.
-                        : cf. `^^ Waycast` @ ~/work/waycast/wayic/architecture.brec
-                        : cf. `^^ Intercast network` @ ~/work/waycast/wayic/architecture.brec
+
+    ━━━━━━━
+     Teams
+    ───────
+        - Where one might find co-workers or other opportunities for coordination.
         - The waysource must be extensive enough to cover plans of action down to the smallest scale
           at which mutual expectations enter into the way, e.g. down to the team level.
             / Wholly private plans need not be cast.
             + Cite this requirement as warrant for the earlier premise (of the integrative tree)
               that very large bodies waysource are to be expected.
-        + Diagram two simple waycasts.
-            - One shows a pipe relation (viz. all but the way-file parts of the diagram at the outset).
-                - The model delta might be used:
-                    • To declare a way engagement that formally entails a private plan of action,
-                      marking the points at which it intersects with the model
-                    • To enter minor model changes as a suggestion to the group
-                        - An aid to efficient messaging.
-                - This arrangement would likely be more typical than the one shown at the outset.
-            - One shows an empty pipe relation, the stand model a replica of the stock.
-                - This arrangement would likely be the most typical.
+        + Rewind and retell the story of this file with a functional plot — as opposed to the
+          formal/structural plot already told — and with a more typical waycaster as the subject.
+            + Explain this two-tales structure at the outset, so properly orienting the reader.
+            + Diagram two simple waycasts.
+                - One shows a pipe relation (viz. all but the way-file parts of the diagram at the outset).
+                    - The model delta might be used:
+                        • To declare a way engagement that formally entails a private plan of action,
+                          marking the points at which it intersects with the model
+                        • To enter minor model changes as a suggestion to the group
+                            - An aid to efficient messaging.
+                    - This arrangement would likely be more typical than the one shown at the outset.
+                - One shows an empty pipe relation, the stand model a replica of the stock.
+                    - This arrangement would likely be the most typical.
+            + Tell it in the order that the typical waycaster would take, introducing teams en passent.
+                1. Goal forest
+                    - First to find a goal.
+                    - Second to find a way to the goal.
+                        - This means finding a way model,
+                          which means finding an executive system.
+                2. Way-file forest
+                    - With both goal and way model, the waycaster now looks for a place to participate.
+                    - This means a part of the model comprising one or more way files.
+                    - From those files, he finds a team to coordinate with.
+                3. He taps the model of 1 and starts working/coordinating with the chosen team of 2.
+                    - Ideally one finds a team in the same executive system.
+                    - Alternatively one referred to from that executive system,
+                      and a model in the vicinity of the reference.
+                        - Such a link would be an appointment offer (yet unaccepted)
+                          to the team leader or one of his superiors.
+                        - By this means, the executive system makes a bid for that officer,
+                          while also effectively including his activities in the present system.
+                        - The offerer in the present system would (I imagine) have his model
+                          integrated to that of the sought officer, so bridging the two systems
+                          and making it easy both for waycasters (such as ours) to participate
+                          in the way they wish (present goal, remote team) and for the sought
+                          officer to migrate to the present system if eventually he chooses to.
+
 
 
     ━━━━━━
@@ -335,16 +499,16 @@ Structure and fit: the designed structure of the intercast network
       \       and extend in the population.
       \     + Say now that the underlying intercast forms make this an extension
       \       into *society*.
+        - The form of the waycast brings the task of goal orientation into the hands of the user|person,
+          while the intercast forms of the wayic make those hands competent.
+            : cf. `^^ Waycast` @ ~/work/waycast/wayic/architecture.brec
         + Present the constraints Gi and X fulfilled by the intercast network.
         + Explain in a sentence or two how neither could have been realized
           without the other.
-            - Cannot meet premised demand with fulfilling Gi,
-              which means no waycasters.
+            - Cannot meet premised demand with fulfilling Gi, which means no waycasters.
             - Cannot fulfill Gi except by interconnecting waycasters.
-        + Illustrate this in terms of Gi by reference to the original waycast
-          and the problems it faced.
-        + Illustrate this in terms of X by reference to the intercast forms
-          that solved those problems.
+        + Illustrate this in terms of Gi by reference to the original waycast and the problems it faced.
+        + Illustrate this in terms of X by reference to the intercast forms that solved those problems.
 
 
 
