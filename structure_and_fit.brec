@@ -128,8 +128,7 @@ Structure and fit: the designed structure of the intercast network
                 diagram, A way-file forest.  Changes flow downward on tap lines from file to file,
                   tap stock to tap stand.  The labelled stock and stand (F and F′) are those of
                   the subject waycast.
-                    : re `subject waycast` see `· +Subject\R.+· +Waycast` @
-                      `^^ Taps.+pipes.+compilation`
+                    : re `subject waycast` see `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation`
 
 
 
@@ -168,8 +167,8 @@ Structure and fit: the designed structure of the intercast network
                     2) application of a standing difference (△).
                   Waysource references (◌) and standing difference (△) are recorded in the waycast.
                   The way model is that of the same label (M) in the diagram of the subject waycast.
-                    : re `diagram of the subject waycast` see
-                      `· +Subject\R.+· +Waycast` @ `^^ Taps.+pipes.+compilation`
+                    : re `diagram of the subject waycast` see `· +Subject\R.+· +waycast` @
+                      `^^ Taps.+pipes.+compilation`
                 ·
                                    · · · · · · · · · · · · ·
                                    ·                       ·
@@ -430,13 +429,105 @@ Structure and fit: the designed structure of the intercast network
 
 
 
-    ━━━━━━
-     Part
-    ──────
+    ━━━━━━━━━━━━━
+     Goal forest
+    ─────────────
         + Present the goal forest.
         - Its other important function is assurance about the choice of goal.
-            + Show my original waycast (initial diagram above) with the addition
-              of a thoroughfractal head tap into the forest.
+
+                                            ‹⋅›                               ‹⋅›
+                           ‹⋅›               ╷               ‹⋅›               ╷
+                            ╷            ┌───┼───┐            ╷             ┌──┴──┐
+                            │            ╵   │   ╵            │             ╵     ╵
+                    ┌────┬──┼──────┐    ‹⋅›  │  ‹⋅›    ┌──────┼──┬────┐    ‹⋅›   ‹⋅›
+                    │    ╵  │      │         ╵         │      │  ╵    │
+                    ╵   ‹⋅› │      ╵        ‹⋅›        ╵      │ ‹⋅›   ╵
+                   ‹⋅›      │     ‹⋅›                ‹ g ›    │      ‹⋅›
+                    ╷       │      ╷                   ╷      │       ╷
+                ┌───┼───┐   │   ┌──┴──┐            ┌───┴──┐   │   ┌───┼───┐
+                ╵   │   ╵   │   ╵     ╵            ╵      ╵   │   ╵   │   ╵
+               ‹⋅›  │  ‹⋅›  │  ‹⋅›   ‹⋅›         ‹ g′›   ‹⋅›  │  ‹⋅›  │  ‹⋅›
+                    ╵       ╵         ╷                       ╵       ╵
+                   ‹⋅›     ‹⋅›        │                      ‹⋅›     ‹⋅›
+                            ╷         ╵                       ╷
+                         ┌──┴──┐     ‹⋅›                  ┌───┼───┐
+                         ╵     ╵                          ╵   │   ╵
+                        ‹⋅›   ‹⋅›                        ‹⋅›  │  ‹⋅›
+                                                              ╵
+                                                             ‹⋅›
+
+                diagram, A goal forest.  Nodes are endmost goals, each backed by a thoroughfractal head.
+                  Edges are lines of change flow (downward) each backed by a thoroughfractal head tap
+                  or way-file tap.  Labelled goals (g and g′) are those of the subject waycast
+                  in the diagrams below.
+                    : re `thoroughfractal head tap` e.g.
+                      `^^diagram.+variant goal explicit.+\R.+in.+file stand`
+                    : re `thoroughfractal head tap` e.g.
+                      `^^diagram.+variant goal explicit.+\R.+in.+original file`
+                    : re `way-file tap`  e.g. `^^diagram.+variant goal implicit.+by.+file stand`
+                    : re `diagrams below` see `^^diagram.+variant goal implicit.+by.+file stand`
+                    : re `diagrams below` see `^^diagram.+variant goal explicit.+\R.+in.+file stand`
+                    : re `diagrams below` see `^^diagram.+variant goal explicit.+\R.+in.+original file`
+
+                ·
+                                   · · · · · · · · · · · · · · · ·
+                                   ·                             ·
+                 ┌─────┐           ·             ┌─────┐         ·  Subject
+                 │  g  │           ·             │  g′ │         ·  waycast
+               F │     │ ────┈ ┈────────╴ △ ╶──▶ │     │ F′      ·
+                 │     │           ·             │     │         ·
+                 └─────┘           ·             └─────┘         ·
+                                   ·                             ·
+
+                diagram, A variant goal of the forest (g′) implicitly declared by a file stand (F′).
+                  Shown are tap-lined waysource changes flowing to F′ from its stock (F).  Because the
+                  standing difference between the two files (△) happens to affect a thoroughfractal head,
+                  the resulting goal variation (g to g′) automatically enters the goal forest as an edge.
+                    : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation`
+                    : re `^^goal forest$` see `^^diagram, A goal forest`
+
+                ·
+             
+                                   · · · · · · · · · · · · · · · ·
+                                   ·                             ·
+                     g  ─────┈ ┈──────────╴ △ ╶─────┐            ·  Subject
+                                   ·                │ 2          ·  waycast
+                                   ·                │            ·
+                 ┌─────┐           ·             ┌─╴▼╶─┐         ·
+                 │     │    1      ·             │  g′ │         ·
+               F │     │ ────┈ ┈───────╴ △ ╶───▶ │     │ F′      ·
+                 │     │           ·             │     │         ·
+                 └─────┘           ·             └─────┘         ·
+                                   ·                             ·
+
+                diagram, A variant goal of the forest explicitly declared by a thoroughfractal head stand
+                  (g′) within a file stand (F′).  Shown are waysource changes flowing step-wise via
+                    1) tap line from file stock F to stand F′, and
+                    2) tap line from head stock g to stand g′.
+                  The standing differences for both taps (△) are recorded in the waycast.  The head stock
+                  and stand are those of the same labels (g, g′) in the diagram of the goal forest.
+                    : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation`
+                    : re `diagram of the goal forest` see `^^diagram, A goal forest`
+
+                ·
+                                   · · · · · · · · · · · · · · · ·
+                                   ·                             ·
+                     g  ─────┈ ┈──────────╴ △ ╶─────┐            ·  Subject
+                                   ·                │            ·  waycast
+                                   ·                │            ·
+                                   ·             ┌─╴▼╶─┐         ·
+                                   ·             │  g′ │         ·
+                                   ·             │     │ H       ·
+                                   ·             │     │         ·
+                                   ·             └─────┘         ·
+                                   ·                             ·
+
+                diagram, A variant goal of the forest explicitly declared by a thoroughfractal head stand
+                  (g′) within an original file (H).  Shown are tap-lined waysource changes flowing to g′
+                  from its stock (g).  The standing difference (△) is recorded in the waycast.  Stock and
+                  stand are those of the same labels (g, g′) in the diagram of the goal forest.
+                    : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation`
+                    : re `diagram of the goal forest` see `^^diagram, A goal forest`
 
 
 
