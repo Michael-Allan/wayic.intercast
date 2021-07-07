@@ -25,7 +25,7 @@ Structure and fit: the designed structure of the intercast network
                        · · · · · · · · · · · · · · ·
                        ·                           ·
                        ·          ┌─────┐          ·
-                       ·          │     │          ·  pioneer
+                       ·          │     │          ·  Pioneer
                        ·          │     │          ·  waycast
                        ·          │     │          ·
                        ·          └─────┘          ·
@@ -60,14 +60,14 @@ Structure and fit: the designed structure of the intercast network
                                    ·                                   ·
                                    ·               ┌─────┐             ·
                     ┌──┐           ·               │     │             ·
-                  f │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  f′ │             ·  subject
+                  F │  │ ─────┈ ┈─────────╴ △ ╶──▶ │  F′ │             ·  Subject
                     └──┘     ⋰     ·               │     │             ·  waycast
                                    ·               └─────┘             ·
                            1       ·                                   ·
                                    ·          ┌─────┐                  ·
                       ┌──┐   ⋱     ·          │     │   ┌─────┐        ·
-                    g │  │ ───┈ ┈────╴ △ ╶──▶ │  g′ │   │     │        ·
-                      └──┘         ·          │     │   │  h  │        ·
+                    G │  │ ───┈ ┈────╴ △ ╶──▶ │  G′ │   │     │        ·
+                      └──┘         ·          │     │   │  H  │        ·
                                    ·          └─────┘   │     │        ·
                                    ·                    └─────┘        ·
                  ┌──┐              ·                                   ·
@@ -75,7 +75,7 @@ Structure and fit: the designed structure of the intercast network
                │ ┌──┐┌──┐    2     ·                  │ 3              ·
                └─│ ┌──┐ │ ────┈ ┈───────────────────┐ │                ·
                  └─│  │─┘          ·                │ │ ┌──────╴ △     ·
-               m   └──┘            ·                │ │ │    4         ·
+               M   └──┘            ·                │ │ │    4         ·
                                    ·                │ │ │              ·
                                    · · · · · · · · ·│·│·│· · · · · · · ·
                                                     │ │ │
@@ -83,17 +83,17 @@ Structure and fit: the designed structure of the intercast network
                                                     ▼ ▼ ▼
              
                                                     ┌──┐
-                                                  ┌──┐┌──┐    way model
+                                                  ┌──┐┌──┐    Way model
                                                   │ ┌──┐┌──┐
                                                   └─│ ┌──┐ │
                                                     └─│  │─┘
-                                                  m′  └──┘
+                                                  M′  └──┘
 
-                diagram, Change flow from extracast sources (left) through the waycast of the subject
-                  (right) and into his compiled way model (bottom).  Shown are changes flowing via
-                    1) tap lines from tap stocks (files f, g) to stands (f′, g′),
-                    2) a pipe line from pipe stock (model m) to stand (m′),
-                    3) compilation from waysource (files f′, g′, h) to way model (m′) and
+                diagram, Change flow from extracast sources (left) through the subject waycast (right)
+                  and into its compiled way model (bottom).  Shown are changes flowing step-wise via
+                    1) tap lines from tap stocks (files F, G) to stands (F′, G′),
+                    2) a pipe line from pipe stock (model M) to stand (M′),
+                    3) compilation from waysource (files F′, G′, H) to way model (M′) and
                     4) application of a final standing difference (△) to the model.
                   Standing differences for waysource and model (all △) are recorded in the waycast.
 
@@ -104,31 +104,31 @@ Structure and fit: the designed structure of the intercast network
     ──────────────────
         + Present way-file forests.
 
-                                             [⋅]                               [⋅]
-                            [⋅]               ╷               [⋅]               ╷
-                             ╷            ┌───┼───┐            ╷             ┌──┴──┐
-                             │            ╵   │   ╵            │             ╵     ╵
-                     ┌────┬──┼──────┐    [⋅]  │  [⋅]    ┌──────┼──┬────┐    [⋅]   [⋅]
-                     │    ╵  │      │         ╵         │      │  ╵    │
-                     ╵   [⋅] │      ╵        [⋅]        ╵      │ [⋅]   ╵
-                    [⋅]      │     [⋅]                [ f ]    │      [⋅]
-                     ╷       │      ╷                   ╷      │       ╷
-                 ┌───┼───┐   │   ┌──┴──┐            ┌───┴──┐   │   ┌───┼───┐
-                 ╵   │   ╵   │   ╵     ╵            ╵      ╵   │   ╵   │   ╵
-                [⋅]  │  [⋅]  │  [⋅]   [⋅]         [ f′]   [⋅]  │  [⋅]  │  [⋅]
-                     ╵       ╵         ╷                       ╵       ╵
-                    [⋅]     [⋅]        │                      [⋅]     [⋅]
-                             ╷         ╵                       ╷
-                          ┌──┴──┐     [⋅]                  ┌───┼───┐
-                          ╵     ╵                          ╵   │   ╵
-                         [⋅]   [⋅]                        [⋅]  │  [⋅]
-                                                               ╵
-                                                              [⋅]
+                                            [⋅]                               [⋅]
+                           [⋅]               ╷               [⋅]               ╷
+                            ╷            ┌───┼───┐            ╷             ┌──┴──┐
+                            │            ╵   │   ╵            │             ╵     ╵
+                    ┌────┬──┼──────┐    [⋅]  │  [⋅]    ┌──────┼──┬────┐    [⋅]   [⋅]
+                    │    ╵  │      │         ╵         │      │  ╵    │
+                    ╵   [⋅] │      ╵        [⋅]        ╵      │ [⋅]   ╵
+                   [⋅]      │     [⋅]                [ F ]    │      [⋅]
+                    ╷       │      ╷                   ╷      │       ╷
+                ┌───┼───┐   │   ┌──┴──┐            ┌───┴──┐   │   ┌───┼───┐
+                ╵   │   ╵   │   ╵     ╵            ╵      ╵   │   ╵   │   ╵
+               [⋅]  │  [⋅]  │  [⋅]   [⋅]         [ F′]   [⋅]  │  [⋅]  │  [⋅]
+                    ╵       ╵         ╷                       ╵       ╵
+                   [⋅]     [⋅]        │                      [⋅]     [⋅]
+                            ╷         ╵                       ╷
+                         ┌──┴──┐     [⋅]                  ┌───┼───┐
+                         ╵     ╵                          ╵   │   ╵
+                        [⋅]   [⋅]                        [⋅]  │  [⋅]
+                                                              ╵
+                                                             [⋅]
 
                 diagram, A way-file forest.  Changes flow downward on tap lines from file to file,
-                  tap stock to tap stand.  The labelled stock and stand (f and f′) are those of
+                  tap stock to tap stand.  The labelled stock and stand (F and F′) are those of
                   the subject waycast.
-                    : re `subject waycast` see `· +subject\R.+· +waycast` @
+                    : re `subject waycast` see `· +Subject\R.+· +Waycast` @
                       `^^ Taps.+pipes.+compilation`
 
 
@@ -143,7 +143,7 @@ Structure and fit: the designed structure of the intercast network
 
                                   · · · · · · · · · · · ·
                                   ·                     ·
-                    · · ·         ·                     ·  waycast of root
+                    · · ·         ·                     ·  Waycast of root
                  A  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐          ·    integrator
                     · · ·         ·          │          ·
                                   ·        1 │          ·
@@ -156,24 +156,25 @@ Structure and fit: the designed structure of the intercast network
                                              │ │
                                              ▼ ▼
                                             ┌──┐
-                                          ┌──┐┌──┐    way model
+                                          ┌──┐┌──┐    Way model
                                           │ ┌──┐┌──┐
                                           └─│ ┌──┐ │
                                             └─│  │─┘
-                                          m   └──┘
+                                          M   └──┘
 
-                diagram, Waycast and way model of a root integrator.  Shown are model changes flowing via
+                diagram, Waycast and way model of a root integrator.  Shown are model changes
+                  flowing step-wise via
                     1) references (◌) to waysource defined in remote waycasts (A, B) and
                     2) application of a standing difference (△).
                   Waysource references (◌) and standing difference (△) are recorded in the waycast.
-                  The way model is that of the same label (m) in the diagram of the subject waycast.
+                  The way model is that of the same label (M) in the diagram of the subject waycast.
                     : re `diagram of the subject waycast` see
-                      `· +subject\R.+· +waycast` @ `^^ Taps.+pipes.+compilation`
+                      `· +Subject\R.+· +Waycast` @ `^^ Taps.+pipes.+compilation`
                 ·
                                    · · · · · · · · · · · · ·
                                    ·                       ·
                      · · ·         ·                       ·
-                 B1  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐            ·   waycast of
+                 B1  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐            ·   Waycast of
                      · · ·         ·          │            ·  integrator B
                                    ·        2 │            ·
                    · · ·           ·          │            ·
@@ -185,34 +186,35 @@ Structure and fit: the designed structure of the intercast network
                 │ ┌──┐┌──┐    1    ·          │ │          ·
                 └─│ ┌──┐ │ ────┈ ┈──────────┐ │ │          ·
                   └─│  │─┘         ·        │ │ │          ·
-                m   └──┘           ·        │ │ │          ·
+                M   └──┘           ·        │ │ │          ·
                                    · · · · ·│·│·│· · · · · ·
                                             │ │ │
                                             ▼ ▼ ▼
              
                                             ┌──┐
-                                          ┌──┐┌──┐    way model
+                                          ┌──┐┌──┐    Way model
                                           │ ┌──┐┌──┐
                                           └─│ ┌──┐ │
                                             └─│  │─┘
-                                          mB  └──┘
+                                          MB  └──┘
 
-                diagram, Waycast and way model of integrator B.  Shown are model changes flowing via
-                    1) a pipe line from pipe stock (model m) to stand (mB),
+                diagram, Waycast and way model of integrator B.  Shown are model changes
+                  flowing step-wise via
+                    1) a pipe line from pipe stock (model M) to stand (MB),
                     2) references (◌) to waysource defined in remote waycasts (B1, B2) and
                     3) application of a standing difference (△).
-                  Stock model ‘m’ is that of the same label in the preceding diagram,
+                  Stock model ‘M’ is that of the same label in the preceding diagram,
                   where the present waycast is labelled ‘B’
-                    : re `preceding diagram` see `· +waycast of root\R.+· +integrator` @
+                    : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
                       `^^ Integrative tree$`
                 ·
-                                            integrative root
-                                                   △
-                         ( i )                     ╵
-                                                   ╵
-                                             ─ ─ ─ ┴ ─ ─ ─
-                                            ╵             ╵
-                                            ╵             ╵
+                                           Integrative root
+                                                  △
+                         ( i )                    ╵
+                                                  ╵
+                                          ╶ ─ ─ ─ ┴ ─ ─ ─ ╴
+                                          ╵               ╵
+                                          ╵               ╵
                                     A integration   B integration
                                           △               △
                                           ╵               ╵
@@ -224,7 +226,7 @@ Structure and fit: the designed structure of the intercast network
              
              
              
-                                           integrative root
+                                           Integrative root
                                                   ╷
                          ( ii )                   │
                                           ┌───────┴───────┐
@@ -245,11 +247,11 @@ Structure and fit: the designed structure of the intercast network
                   The waycasts labelled ‘integrative root’ and ‘B integration’ are those shown
                   in the preceding two diagrams, while ‘B1’ and ‘B2’ are those of the same labels
                   in the preceding diagram.
-                    : re `preceding two diagrams` see `· +waycast of root\R.+· +integrator` @
+                    : re `preceding two diagrams` see `· +Waycast of root\R.+· +integrator` @
                       `^^ Integrative tree$`
-                    : re `preceding two diagrams` see `· +waycast of\R.+· +integrator B` @
+                    : re `preceding two diagrams` see `· +Waycast of\R.+· +integrator B` @
                       `^^ Integrative tree$`
-                    : re `preceding diagram` see `· +waycast of\R.+· +integrator B` @
+                    : re `preceding diagram` see `· +Waycast of\R.+· +integrator B` @
                       `^^ Integrative tree$`
 
 
@@ -262,7 +264,7 @@ Structure and fit: the designed structure of the intercast network
         + Ask: how find such an executive system?
         + Answer: goal forest.
 
-                                               executive root
+                                               Executive root
                                                    ╷     ╷
                     ( 1 )                          │     │
                                  ┌─────────────────┘     └─────────────────┐
@@ -270,14 +272,14 @@ Structure and fit: the designed structure of the intercast network
                              A division                                B division
                                  ╷                                         ╷
                                  │                                         │
-                    ┌────────────┤             integrative root            ├────────────┐
+                    ┌────────────┤             Integrative root            ├────────────┐
                     ╵            ╵                    ╷                    ╵            ╵
                    A1            A2                   ╷                   B1            B2
                 division      division         ─ ─ ─ ─ ─ ─ ─ ─         division      division
                                               ╵               ╵
                                               ╵               ╵
-                                              A               B
-                                         integration     integration
+                                        A integration   B integration
+                                              ╷               ╷
                                               ╷               ╷
                    A1            A2           ╷               ╷           B1            B2
                integration   integration   ─ ─                 ─ ─    integration   integration
@@ -287,20 +289,20 @@ Structure and fit: the designed structure of the intercast network
              
              
              
-                                                  executive root
+                                                  Executive root
                                                       ╷  ·  ╷
                     ( 2 )                             │  ╵  │
                                   ┌───────────────────┘  ╵  └───────────────────┐
                                   │                      ╵                      │
                                   ╵                      ╵                      ╵
-                              A division          integrative root          B division
+                              A division          Integrative root          B division
                                   ╷                      ╷                      ╷
                                   │                      ╷                      │
                     ┌─────────────┼ ─ ─ ─ ─ ─ ─     ─ ─ ─ ─ ─ ─     ─ ─ ─ ─ ─ ─ ┼─────────────┐
                     │             │            ╵   ╵           ╵   ╵            │             │
                     ╵             ╵            ╵   ╵           ╵   ╵            ╵             ╵
-                   A1            A2              A               B              B1            B2
-                division      division      integration     integration      division      division
+                   A1            A2            ╵   ╵           ╵   ╵            B1            B2
+                division      division     A integration   B integration     division      division
                     ·             ·              ╷               ╷              ·             ·
                     ╵             ╵              ╷               ╷              ╵             ╵
                     ╵             ╵              ╷               ╷              ╵             ╵
@@ -319,28 +321,27 @@ Structure and fit: the designed structure of the intercast network
                       -integrative network, the core (for modelling purposes) of an executive system.
 
 
-                                             executive root
-                                                 ╷  ▲  ╷
-                                                 │  │  │
-                           ┌─────────────────────┘  │  └─────────────────────┐
-                           │                        │                        │
-                           ▼                        ╵                        ▼
-                       A division            integrative root            B division
-                           ╷                        ╷                        ╷
-                           │                        │                        │
-                      ┌────┴────┐            ┌──────┴──────┐            ┌────┴────┐
-                      │         │            │             │            │         │
-                      ▼         ▼            ▼             ▼            ▼         ▼
-                     A1         A2                                     B1         B2
-                  division   division        A             B        division   division
-                                        integration   integration
-                                             ╷             ╷
-                                             │             │
-                    ┌─────────────┬──────────┘             └─────────┬─────────────┐
-                    │             │                                  │             │
-                    ▼             ▼                                  ▼             ▼
-                   A1            A2                                  B1            B2
-               integration   integration                         integration   integration
+                                              Executive root
+                                                  ╷  ▲  ╷
+                                                  │  │  │
+                        ┌─────────────────────────┘  │  └─────────────────────────┐
+                        │                            │                            │
+                        ▼                            ╵                            ▼
+                    A division                Integrative root                B division
+                        ╷                            ╷                            ╷
+                        │                            │                            │
+                   ┌────┴────┐               ┌───────┴───────┐               ┌────┴────┐
+                   │         │               │               │               │         │
+                   ▼         ▼               ▼               ▼               ▼         ▼
+                  A1         A2        A integration   B integration        B1         B2
+               division   division           ╷               ╷           division   division
+                                             │               │
+                                             │               │
+                        ┌─────────────┬──────┘               └──────┬─────────────┐
+                        │             │                             │             │
+                        ▼             ▼                             ▼             ▼
+                       A1            A2                             B1            B2
+                   integration   integration                    integration   integration
              
 
                 diagram, Model change flow in the modelling core.  Changes moving through pipe lines to
@@ -356,29 +357,27 @@ Structure and fit: the designed structure of the intercast network
                       `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
 
                 ·
-                                             executive root
-                                                 ╷  ▲  ╷
-                                                 │  │  │
-                           ┌─────────────────────┘  │  └─────────────────────┐
-                           │                        │                        │
-                           ▼                        ╵                        ▼
-                       A division            integrative root            B division
-                           ╷                        △                        ╷
-                           │                        ╵                        │
-                      ┌────┴────┐                   ╵                   ┌────┴────┐
-                      │         │             ─ ─ ─ ┴ ─ ─ ─             │         │
-                      ▼         ▼            ╵             ╵            ▼         ▼
-                     A1         A2           ╵             ╵           B1         B2
-                  division   division        A             B        division   division
-                                        integration   integration
-                                             △             △
-                                             ╵             ╵
-                                             ╵             ╵
-                     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘             └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
-                    ╵             ╵                                  ╵             ╵
-                    ╵             ╵                                  ╵             ╵
-                   A1            A2                                  B1            B2
-               integration   integration                         integration   integration
+                                              Executive root
+                                                  ╷  ▲  ╷
+                                                  │  │  │
+                        ┌─────────────────────────┘  │  └─────────────────────────┐
+                        │                            │                            │
+                        ▼                            ╵                            ▼
+                    A division                Integrative root                B division
+                        ╷                            △                            ╷
+                        │                            ╵                            │
+                   ┌────┴────┐               ╶ ─ ─ ─ ┴ ─ ─ ─ ╴               ┌────┴────┐
+                   │         │               ╵               ╵               │         │
+                   ▼         ▼               ╵               ╵               ▼         ▼
+                  A1         A2        A integration   B integration        B1         B2
+               division   division           △               △           division   division
+                                             ╵               ╵
+                                             ╵               ╵
+                         ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘               └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                        ╵             ╵                             ╵             ╵
+                        ╵             ╵                             ╵             ╵
+                       A1            A2                             B1            B2
+                   integration   integration                    integration   integration
              
 
                 diagram, End-to-end change flow from waysource through way models.  Cumulative pooling of
@@ -403,32 +402,31 @@ Structure and fit: the designed structure of the intercast network
               and among comparable (e.g. competing) systems.
 
                 ·
-                                             executive root
-                                                 ╷  ╷  ╷
-                                                 │  │  │
-                           ┌─────────────────────┘  │  └─────────────────────┐
-                           │                        │                        │
-                           ╵                        ╵                        ╵
-                       A division            integrative root            B division
-                           ╷                        ╷                        ╷
-                           │                        │                        │
-                      ┌────┴────┐            ┌──────┴──────┐            ┌────┴────┐
-                      │         │            │             │            │         │
-                      ╵         ╵            │             │            ╵         ╵
-                     A1         A2           ╵             ╵           B1         B2
-                  division   division        A             B        division   division
-                                        integration   integration
-                                             ╷             ╷
-                                             │             │
-                    ┌─────────────┬──────────┘             └─────────┬─────────────┐
-                    │             │                                  │             │
-                    ╵             ╵                                  ╵             ╵
-                   A1            A2                                  B1            B2
-               integration   integration                         integration   integration
+                                              Executive root
+                                                  ╷  ╷  ╷
+                                                  │  │  │
+                        ┌─────────────────────────┘  │  └─────────────────────────┐
+                        │                            │                            │
+                        ╵                            ╵                            ╵
+                    A division                Integrative root                B division
+                        ╷                            ╷                            ╷
+                        │                            │                            │
+                   ┌────┴────┐               ┌───────┴───────┐               ┌────┴────┐
+                   │         │               │               │               │         │
+                   ╵         ╵               ╵               ╵               ╵         ╵
+                  A1         A2        A integration   B integration        B1         B2
+               division   division           ╷               ╷           division   division
+                                             │               │
+                                             │               │
+                        ┌─────────────┬──────┘               └──────┬─────────────┐
+                        │             │                             │             │
+                        ╵             ╵                             ╵             ╵
+                       A1            A2                             B1            B2
+                   integration   integration                    integration   integration
              
 
                 diagram, Executive tree.  The tree shown here is restricted to the modelling core;
-                  it includes only the edges defined by divisional and integrative role assignments.
+                  it includes edges defined by divisional and integrative role assignments alone.
 
 
 
