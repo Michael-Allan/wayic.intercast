@@ -397,7 +397,7 @@ Structure and fit: the designed structure of the intercast network
             : re `Change flow` e.g. `^^diagram, Model change flow in the modelling core`
             : re `Change flow` e.g. `^^diagram, End-to-end change flow from waysource through way models`
             / The tree is weight bearing in the sense that it alone determines the descendant weights
-              that are the principle means of orientation, both within the executive system
+              that are the principle means of visitor orientation, both within the executive system
               and among comparable (e.g. competing) systems.
 
                 ·
