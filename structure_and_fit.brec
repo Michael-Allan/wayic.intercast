@@ -209,16 +209,16 @@ Structure and fit: the designed structure of the intercast network
                 ·
                                            Integrative root
                                                   △
-                         ( i )                    ╵
-                                                  ╵
-                                          ╶ ─ ─ ─ ┴ ─ ─ ─ ╴
+                         ( i )                    ╷
+                                                  ╷
+                                          ╶ ─ ─ ─ ─ ─ ─ ─ ╴
                                           ╵               ╵
                                           ╵               ╵
                                     A integration   B integration
                                           △               △
-                                          ╵               ╵
-                                          ╵               ╵
-                      ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘               └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
+                                          ╷               ╷
+                                          ╷               ╷
+                      ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴               ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴
                       ╵                ╵                     ╵                ╵
                       ╵                ╵                     ╵                ╵
                A1 integration   A2 integration         B1 integration   B2 integration
@@ -364,15 +364,15 @@ Structure and fit: the designed structure of the intercast network
                         ▼                            ╵                            ▼
                     A division                Integrative root                B division
                         ╷                            △                            ╷
-                        │                            ╵                            │
-                   ┌────┴────┐               ╶ ─ ─ ─ ┴ ─ ─ ─ ╴               ┌────┴────┐
+                        │                            ╷                            │
+                   ┌────┴────┐                ─ ─ ─ ─ ─ ─ ─ ─                ┌────┴────┐
                    │         │               ╵               ╵               │         │
                    ▼         ▼               ╵               ╵               ▼         ▼
                   A1         A2        A integration   B integration        B1         B2
                division   division           △               △           division   division
-                                             ╵               ╵
-                                             ╵               ╵
-                         ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘               └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                                             ╷               ╷
+                                             ╷               ╷
+                         ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╴               ╶ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
                         ╵             ╵                             ╵             ╵
                         ╵             ╵                             ╵             ╵
                        A1            A2                             B1            B2
@@ -538,29 +538,29 @@ Structure and fit: the designed structure of the intercast network
                     - This means finding a reliable way model for that goal,
                       which entails finding an executive system.
 
-               ┈───┬────┐        ┊
-                   ╵    │        │
-                  ‹⋅›   ╵    ┌───┼───┐          ⋅           Executive root
-                       ‹⋅›   ╵   │   ╵        ⋅                 ╷  ╷  ╷
-                            ‹⋅›  │  ‹⋅›     ⋅                   │  │  │
+               ┈───┬────┐        ┊                                                       Executive root
+                   ╵    │        │                ⋅                                          ╷  ╷  ╷
+                  ‹⋅›   ╵    ┌───┼───┐          ⋅           Executive root                   │  │  │
+                       ‹⋅›   ╵   │   ╵        ⋅                 ╷  ╷  ╷                    ┈─┘  │  └─┈
+                            ‹⋅›  │  ‹⋅›     ⋅                   │  │  │                         ┊
                ┈─┬────┐          ╵        ⋅        ┌────────────┘  │  └────────────┐
                  ╵    │         ‹⋅›     ⋅          │               │               │
                 ‹⋅›   ╵               ⋅            ╵               ╵               ╵
                      ‹⋅›     1      ⋅          A division   Integrative root   B division
                       ╷           ⋅                ╷               ╷               ╷
                   ┌───┼───┐     ⋅                  │               ┊               │
-                  ╵   │   ╵   ⋅               ┌────┴────┐                     ┌────┴────┐
-                 ‹⋅›  │  ‹⋅›       2          │         │                     │         │
-                      ╵       ⋅               ╵         ╵                     ╵         ╵
-                     ‹⋅›        ⋅            A1         A2                   B1         B2
-                                  ⋅       division   division             division   division
-                                    ⋅
-                                      ⋅
+                  ╵   │   ╵   ⋅               ┌────┴──────┐                 ┌──────┴────┐
+                 ‹⋅›  │  ‹⋅›       2          │           │                 │           │
+                      ╵       ⋅               ╵           ╵                 ╵           ╵
+                     ‹⋅›        ⋅            A1           A2               B1           B2
+                                  ⋅       division     division         division     division
+                                    ⋅         ╷           ╷                 ╷           ╷
+                                      ⋅       ┊           ┊                 ┊           ┊
 
                 diagram, Initial user orientation by final or endmost goal and executive means.
                   Exploring the goal forest with an eye to executive resources, the new user
                     1) finds the goals that best suit him, and from among them
-                    2) chooses the one with the best (e.g. heaviest) executive system.
+                    2) chooses the one with the best (e.g. heaviest) executive systems.
                   Represented are (1) the goal forest ordered by extent of goal adoption,
                   and (2) cross linkage to each goal’s executive forest ordered by descendant weight.
                     : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
@@ -582,7 +582,8 @@ Structure and fit: the designed structure of the intercast network
                 - With both goal and way model, the waycaster now looks for a place to participate.
                 - This means a part of the model comprising one or more way files.
                 - From those files, he finds a team to coordinate with.
-            3. He taps the model of 1 and starts working/coordinating with the chosen team of 2.
+            3. He taps the model of 1 (or better, that described below)
+              and starts working/coordinating with the chosen team of 2.
                 - Ideally one finds a team in the same executive system.
                 - Alternatively one referred to from that executive system,
                   and a model in the vicinity of the reference.
@@ -595,6 +596,8 @@ Structure and fit: the designed structure of the intercast network
                       and making it easy both for waycasters (such as ours) to participate
                       in the way they wish (present goal, remote team) and for the sought
                       officer to migrate to the present system if eventually he chooses to.
+                        - This model (or any other closest to the action) is the one to be chosen
+                          by the new waycaster.
                 + Diagram two simple waycasts.
                     - One shows a pipe relation (viz. all but the way-file parts of the diagram at the outset).
                         - The model delta might be used:
@@ -605,6 +608,135 @@ Structure and fit: the designed structure of the intercast network
                         - This arrangement would likely be more typical than the one shown at the outset.
                     - One shows an empty pipe relation, the stand model a replica of the stock.
                         - This arrangement would likely be the most typical.
+
+                              ⋅
+                       1     ⋅
+                            ⋅         Executive root
+                           ⋅             ╷  ╷  ╷
+                 ┌──┐     ⋅              │  │  │
+               ┌──┐┌──┐  ⋅     2       ┈─┘  │  └──────────────────┐
+               │ ┌──┐┏━━┓                   │                     │
+               └─│ ┌─┃  ┃                   ╵                     ╵
+                 └─│ ┗━━┛            Integrative root         B division
+               M   └──┘  ⋅                  ╷                     ╷
+                          ⋅                 │                     │
+                           ⋅              ┈─┴───┐               ┈─┴────┐
+                            ⋅                   │                      │
+                             ⋅                  ╵                      ╵
+                              ⋅           B integration           B2 division
+                               ⋅                ╷                      ╷
+                                ⋅               │                      │
+                                 ⋅            ┈─┴───┐              ┈─┬─┴─┈
+                                  ⋅                 │                │
+                                   ⋅                ╵                ╵
+                                    ⋅         B2 integration       K team
+                                     ⋅                               ╷
+                                      ⋅                              │
+                                       ⋅                        ┌────┴────┬ ─ ─ ─ ─ ╴
+                                        ⋅                       │         │         ╵
+                                         ⋅                      ╵         ╵      3  ╵
+                                          ⋅                   Member    Member      ╵
+                                           ⋅                                        ╵
+                                            ⋅                                       ╵
+                                                                                 New user
+             
+
+                diagram, Preparing for action I — finding where to contribute toward the chosen goal.
+
+
+                                    · · · · · · · · · · · ·
+                                    ·                     ·
+                  · · ·        team ·          ii         ·
+               K  ·   · ◁ ─ ─ ┈   ┈ ─ ─ ─ ─ ◌             ·
+                  · · ·      membership                   ·  Waycast of
+                                    ·                     ·   new user
+                                    ·                     ·
+                  ┌──┐              ·          ┌─────╴ △  ·
+                ┌──┐┌──┐            ·          │  iii     ·
+                │ ┌──┐┌──┐    i     ·          │          ·
+                └─│ ┌──┐ │ ────┈ ┈───────────┐ │          ·
+                  └─│  │─┘          ·        │ │          ·
+                MK  └──┘            ·        │ │          ·
+                                    · · · · ·│·│· · · · · ·
+                                             │ │
+                                             ▼ ▼
+                                            ┌──┐
+                                          ┌──┐┌──┐    Way model
+                                          │ ┌──┐┌──┐
+                                          └─│ ┌──┐ │
+                                            └─│  │─┘
+                                          MU  └──┘
+
+                diagram, Preparing for action II — coordinating with others.
+
+
+                   ┊  ┊  ┊
+                   │  │  │
+                 ┈─┘  │  └────────────┐
+                      │               │
+                      ╵               ╵
+               Integrative root   B division                        ( II )
+                      ╷               ╷
+                      │               │
+                    ┈─┴───┐         ┈─┴────┐
+                          │                │                                      · · · · · · ·
+                          ╵                ╵                                      ·
+                    B integration     B2 division               · · ·        team ·
+                          ╷                ╷                 F  ·   · ◁ ─ ─ ┈   ┈ ─ ─ ─ ┈
+                          │                ╷                    · · ·      membership         Waycast of
+                        ┈─┴───┐            ╷                                      ·            new user
+                              │            ╷                                      ·
+                              ╵            ╷                    ┌──┐              ·
+                        B2 integration     ╷                  ┌──┐┌──┐            ·
+                                                              │ ┌──┐┌──┐          ·
+                                         ⋰⋱⋰⋱⋰                └─│ ┌──┐ │ ────┈ ┈────────┈
+                                                                └─│  │─┘          ·
+                                           ╵                 MB2  └──┘            ·
+                                           ╵                                      · · · · · · ·
+                                   ┈────┐  ╵
+                 ( I )                  │  ▽
+                                        ╵
+                                       F team
+                                        ╷
+                                        │
+                                ┌───────┼───────┬ ─ ─ ─ ╴
+                                │       │       │       ╵
+                                ╵       │       ╵       ╵
+                              Member    │     Member    ╵
+                                        ╵               ╵
+                                      Member            ╵
+                                                     New user
+             
+                    : re `\bI\b` cf. `^^diagram, Preparing for action I — finding where to contribute`
+                    : re `\bII\b` cf. `^^diagram, Preparing for action II — coordinating`
+                diagram, Preparing for action I and II — the case of a foreign team.
+
+                ·
+                                     ⋅
+                        1          ⋅                         [⋅]
+                                 ⋅          [⋅]               ╷
+                               ⋅             ╷             ┌──┴──┐           ⋅
+                  ┌──┐       ⋅               │             ╵     ╵         ⋅
+                ┌──┐┌──┐   ⋅          ┌──────┼──┬────┐    [⋅]   [⋅]      ⋅
+                │ ┌──┐┏━━┓            ╵      │  ╵    │                 ⋅         F team
+                └─│ ┌─┃  ┃     2     [⋅]     │ [⋅]   ╵               ⋅             ╷
+                  └─│ ┗━━┛            ╷      │      [⋅]            ⋅               │
+               MB2  └──┘   ⋅          ┊      ┊       ╷           ⋅         ┌───────┼────────┐
+                             ⋅                   ┌───┼───┐     ⋅           │       │        │
+                               ⋅                 ╵   │   ╵   ⋅             ╵       │        ╵
+                                 ⋅              [⋅]  │  [⋅]        3     Member    │      Member
+                                   ⋅                 ╵       ⋅                     ╵
+                                     ⋅              [⋅]        ⋅                 Member
+                                       ⋅                         ⋅
+                                         ⋅                         ⋅                          G team
+                                           ⋅                         ⋅                          ╷
+                                                                       ⋅                        │
+                                                                         ⋅                  ┌───┴────┐
+                                                                           ⋅                │        │
+                                                                             ⋅              ╵        ╵
+                                                                               ⋅         Member    Member
+
+                diagram, How a division officer locates a foreign team.
 
 
 
