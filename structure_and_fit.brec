@@ -560,9 +560,9 @@ Structure and fit: the designed structure of the intercast network
                 diagram, Initial user orientation by final or endmost goal and executive means.
                   Exploring the goal forest with an eye to executive resources, the new user
                     1) finds the goals that best suit him, and from among them
-                    2) chooses the one with the best (e.g. heaviest) executive systems.
-                  Represented are (1) the goal forest ordered by extent of goal adoption,
-                  and (2) cross linkage to each goal’s executive forest ordered by descendant weight.
+                    2) chooses the goal with the best (e.g. heaviest) executive systems.
+                  Represented are the goal forest (1, ordered by extent of goal adoption) and cross
+                  linkage from each goal to its executive forest (2, ordered by descendant weight).
                     : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
                       `^^waysource forest$` @ ~/work/wayic/intercast/forms.brec
 
@@ -598,16 +598,6 @@ Structure and fit: the designed structure of the intercast network
                       officer to migrate to the present system if eventually he chooses to.
                         - This model (or any other closest to the action) is the one to be chosen
                           by the new waycaster.
-                + Diagram two simple waycasts.
-                    - One shows a pipe relation (viz. all but the way-file parts of the diagram at the outset).
-                        - The model delta might be used:
-                            • To declare a way engagement that formally entails a private plan of action,
-                              marking the points at which it intersects with the model
-                            • To enter minor model changes as a suggestion to the group
-                                - An aid to efficient messaging.
-                        - This arrangement would likely be more typical than the one shown at the outset.
-                    - One shows an empty pipe relation, the stand model a replica of the stock.
-                        - This arrangement would likely be the most typical.
 
                               ⋅
                        1     ⋅
@@ -639,9 +629,19 @@ Structure and fit: the designed structure of the intercast network
                                            ⋅                                        ╵
                                             ⋅                                       ╵
                                                                                  New user
-             
 
-                diagram, Preparing for action I — finding where to contribute toward the chosen goal.
+                diagram, Approach to action I — finding where to engage.
+                  For each executive system of the chosen goal, the new user
+                    : re `chosen goal` see `^^2\) chooses.+goal` @ `^^diagram, Initial user orientation`
+                    : re `executive system` see `linkage from.+goal to.+executive forest` @
+                      `^^diagram, Initial user orientation`
+                    1) finds in the way model of the system (e.g. that of its integrative root)
+                       the way files in which he might engage, and for each
+                    2) explores the executive branches that deal with that file, and
+                    3) finds others with whom he might work or otherwise coordinate his actions.
+                  Represented are (1, M) the way model of the integrative root of an executive system,
+                  (2) cross linkage from each file of the model to the branches of the system that deal
+                  with that file, and (3) the new user’s view of where he might fit in those branches.
 
 
                                     · · · · · · · · · · · ·
@@ -667,7 +667,18 @@ Structure and fit: the designed structure of the intercast network
                                             └─│  │─┘
                                           MU  └──┘
 
-                diagram, Preparing for action II — coordinating with others.
+                diagram, Approach to action II — coordinating with others.
+                    i. The new user casts a pipe to the common way model that guides the others (here MK,
+                      the model of K team) so yielding his own local copy of the model (MU).
+                        : re `K team` see `^^diagram, Approach to action I —`
+                    ii. The new user may, at some point, solicit assignment to a collaborative
+                      or otherwise coordinative role by extending — in advance of any formal offer —
+                      his formal acceptance of that role.  Here he applies for membership in K team.
+                        : re `K team` see `^^diagram, Approach to action I —`
+                    iii. The new user may edit his copy of the way model to introduce annotations
+                      and other markup that show where and how he intends to engage in the way.
+                      Visible to others as a standing difference (△), the result may serve as
+                      a messaging aid for coordination purposes.
 
 
                    ┊  ┊  ┊
@@ -707,36 +718,36 @@ Structure and fit: the designed structure of the intercast network
                                       Member            ╵
                                                      New user
              
-                    : re `\bI\b` cf. `^^diagram, Preparing for action I — finding where to contribute`
-                    : re `\bII\b` cf. `^^diagram, Preparing for action II — coordinating`
-                diagram, Preparing for action I and II — the case of a foreign team.
+                    : re `\bI\b` cf. `^^diagram, Approach to action I — finding where to engage`
+                    : re `\bII\b` cf. `^^diagram, Approach to action II — coordinating`
+                diagram, Approach to action I and II — the case of a foreign team.
 
-                ·
-                                     ⋅
-                        1          ⋅                         [⋅]
-                                 ⋅          [⋅]               ╷
-                               ⋅             ╷             ┌──┴──┐           ⋅
-                  ┌──┐       ⋅               │             ╵     ╵         ⋅
-                ┌──┐┌──┐   ⋅          ┌──────┼──┬────┐    [⋅]   [⋅]      ⋅
-                │ ┌──┐┏━━┓            ╵      │  ╵    │                 ⋅         F team
-                └─│ ┌─┃  ┃     2     [⋅]     │ [⋅]   ╵               ⋅             ╷
-                  └─│ ┗━━┛            ╷      │      [⋅]            ⋅               │
-               MB2  └──┘   ⋅          ┊      ┊       ╷           ⋅         ┌───────┼────────┐
-                             ⋅                   ┌───┼───┐     ⋅           │       │        │
-                               ⋅                 ╵   │   ╵   ⋅             ╵       │        ╵
-                                 ⋅              [⋅]  │  [⋅]        3     Member    │      Member
-                                   ⋅                 ╵       ⋅                     ╵
-                                     ⋅              [⋅]        ⋅                 Member
-                                       ⋅                         ⋅
-                                         ⋅                         ⋅                          G team
-                                           ⋅                         ⋅                          ╷
-                                                                       ⋅                        │
-                                                                         ⋅                  ┌───┴────┐
-                                                                           ⋅                │        │
-                                                                             ⋅              ╵        ╵
-                                                                               ⋅         Member    Member
 
-                diagram, How a division officer locates a foreign team.
+
+                                ⋅
+                               ⋅     ┈──┬────┐         ┊
+                        1     ⋅         ╵    │         │
+                             ⋅         [⋅]   ╵     ┌───┼───┐
+                            ⋅               [⋅]    ╵   │   ╵
+                  ┌──┐     ⋅                      [⋅]  │  [⋅]      ⋅                       G team
+                ┌──┐┌──┐  ⋅                            ╵         ⋅                           ╷
+                │ ┌──┐┏━━┓        ┈───┬────┬────┐     [⋅]      ⋅                             │
+                └─│ ┌─┃  ┃    2       ╵    │    ╵            ⋅                          ┌────┴────┐
+                  └─│ ┗━━┛           [⋅]   ╵   [⋅]         ⋅          F team            │         │
+               MB2  └──┘  ⋅               [⋅]            ⋅              ╷               ╵         ╵
+                           ⋅               ╷           ⋅                │             Member    Member
+                            ⋅          ┌───┼───┐     ⋅           ┌──────┼──────┐
+                             ⋅         ╵   │   ╵   ⋅             │      │      │
+                              ⋅       [⋅]  │  [⋅]       3        ╵      │      ╵
+                               ⋅           ╵       ⋅           Member   │    Member
+                                ⋅         [⋅]        ⋅                  │
+                                 ⋅                     ⋅                ╵
+                                  ⋅                      ⋅            Member
+                                                           ⋅
+                                                             ⋅
+                                                               ⋅
+
+                diagram, How an executive officer locates a foreign team.
 
 
 
