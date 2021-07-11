@@ -1,11 +1,6 @@
 Structure and fit: the designed structure of the intercast network
       and its fit within the larger wayic architecture
 
-    + Let the pictures carry the story.
-        - Only subsequently hang on them (as on a supporting frame) narrative and description,
-          while filling out the form and function compendia en passent.
-            : see form.brec
-            : see function.brec
     + Begin with a situation such as mine, a few files that abstract
       away all details but those which concern me.
     + Problem: I have no assurance the goal will ever be reached.
@@ -202,8 +197,8 @@ Structure and fit: the designed structure of the intercast network
                     1) a pipe line from pipe stock (model M) to stand (MB),
                     2) references (◌) to waysource defined in remote waycasts (B1, B2) and
                     3) application of a standing difference (△).
-                  Stock model ‘M’ is that of the same label in the preceding diagram,
-                  where the present waycast is labelled ‘B’
+                  Stock model ‘M’ is that of the same label in the preceding diagram
+                  where the present waycast is labelled ‘B’.
                     : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
                       `^^ Integrative tree$`
                 ·
@@ -265,7 +260,7 @@ Structure and fit: the designed structure of the intercast network
 
                                                Executive root
                                                    ╷     ╷
-                    ( 1 )                          │     │
+                      I                            │     │
                                  ┌─────────────────┘     └─────────────────┐
                                  ╵                                         ╵
                              A division                                B division
@@ -290,7 +285,7 @@ Structure and fit: the designed structure of the intercast network
              
                                                   Executive root
                                                       ╷  ·  ╷
-                    ( 2 )                             │  ╵  │
+                      II                              │  ╵  │
                                   ┌───────────────────┘  ╵  └───────────────────┐
                                   │                      ╵                      │
                                   ╵                      ╵                      ╵
@@ -313,9 +308,9 @@ Structure and fit: the designed structure of the intercast network
              
 
                 diagram, Interconnection of divisional and integrative trees.
-                    (1) Appointments to division offices (solid lines) and integration offices (dashed)
+                    I. Appointments to division offices (solid lines) and integration offices (dashed)
                       separately form the divisional and integrative trees.
-                    (2) Cross-appointments from the former to the latter, both at the executive root
+                    II. Cross-appointments from the former to the latter, both at the executive root
                       and again at each separate division, weave the two trees into a single executive-
                       -integrative network, the core (for modelling purposes) of an executive system.
 
@@ -560,7 +555,7 @@ Structure and fit: the designed structure of the intercast network
                 diagram, Initial user orientation by final or endmost goal and executive means.
                   Exploring the goal forest with an eye to executive resources, the new user
                     1) finds the goals that best suit him, and from among them
-                    2) chooses the goal with the best (e.g. heaviest) executive systems.
+                    2) chooses the goal with the best executive systems, focusing e.g. on the heaviest.
                   Represented are the goal forest (1, ordered by extent of goal adoption) and cross
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
                     : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
@@ -599,36 +594,36 @@ Structure and fit: the designed structure of the intercast network
                         - This model (or any other closest to the action) is the one to be chosen
                           by the new waycaster.
 
-                              ⋅
-                       1     ⋅
-                            ⋅         Executive root
-                           ⋅             ╷  ╷  ╷
-                 ┌──┐     ⋅              │  │  │
-               ┌──┐┌──┐  ⋅     2       ┈─┘  │  └──────────────────┐
-               │ ┌──┐┏━━┓                   │                     │
-               └─│ ┌─┃  ┃                   ╵                     ╵
-                 └─│ ┗━━┛            Integrative root         B division
-               M   └──┘  ⋅                  ╷                     ╷
-                          ⋅                 │                     │
-                           ⋅              ┈─┴───┐               ┈─┴────┐
-                            ⋅                   │                      │
-                             ⋅                  ╵                      ╵
-                              ⋅           B integration           B2 division
-                               ⋅                ╷                      ╷
-                                ⋅               │                      │
-                                 ⋅            ┈─┴───┐              ┈─┬─┴─┈
-                                  ⋅                 │                │
-                                   ⋅                ╵                ╵
-                                    ⋅         B2 integration       K team
-                                     ⋅                               ╷
-                                      ⋅                              │
-                                       ⋅                        ┌────┴────┬ ─ ─ ─ ─ ╴
-                                        ⋅                       │         │         ╵
-                                         ⋅                      ╵         ╵      3  ╵
-                                          ⋅                   Member    Member      ╵
-                                           ⋅                                        ╵
-                                            ⋅                                       ╵
-                                                                                 New user
+                               ⋅
+                        1     ⋅
+                             ⋅         Executive root
+                            ⋅             ╷  ╷  ╷
+                  ┌──┐     ⋅              │  │  │
+                ┌──┐┌──┐  ⋅     2       ┈─┘  │  └──────────────────┐
+                │ ┌──┐┏━━┓                   │                     │
+                └─│ ┌─┃  ┃                   ╵                     ╵
+                  └─│ ┗━━┛            Integrative root         B division
+                    └──┘  ⋅                  ╷                     ╷
+                           ⋅                 │                     │
+               Way model    ⋅              ┈─┴───┐               ┈─┴────┐
+                             ⋅                   │                      │
+                              ⋅                  ╵                      ╵
+                               ⋅           B integration           B2 division
+                                ⋅                ╷                      ╷
+                                 ⋅               │                      │
+                                  ⋅            ┈─┴───┐              ┈─┬─┴─┈
+                                   ⋅                 │                │
+                                    ⋅                ╵                ╵
+                                     ⋅         B2 integration       K team
+                                      ⋅                               ╷
+                                       ⋅                              │
+                                        ⋅                        ┌────┴────┬ ─ ─ ─ ─ ╴
+                                         ⋅                       │         │         ╵
+                                          ⋅                      ╵         ╵      3  ╵
+                                           ⋅                   Member    Member      ╵
+                                            ⋅                                        ╵
+                                             ⋅                                       ╵
+                                                                                  New user
 
                 diagram, Approach to action I — finding where to engage.
                   For each executive system of the chosen goal, the new user
@@ -636,10 +631,10 @@ Structure and fit: the designed structure of the intercast network
                     : re `executive system` see `linkage from.+goal to.+executive forest` @
                       `^^diagram, Initial user orientation`
                     1) finds in the way model of the system (e.g. that of its integrative root)
-                       the way files in which he might engage, and for each
+                       the way parts in which he might engage, and for each way file thereof
                     2) explores the executive branches that deal with that file, and
                     3) finds others with whom he might work or otherwise coordinate his actions.
-                  Represented are (1, M) the way model of the integrative root of an executive system,
+                  Represented are (1) the way model of the integrative root of an executive system,
                   (2) cross linkage from each file of the model to the branches of the system that deal
                   with that file, and (3) the new user’s view of where he might fit in those branches.
 
@@ -667,18 +662,19 @@ Structure and fit: the designed structure of the intercast network
                                             └─│  │─┘
                                           MU  └──┘
 
-                diagram, Approach to action II — coordinating with others.
-                    i. The new user casts a pipe to the common way model that guides the others (here MK,
+                diagram, Approach to action II — coordinating with others.  Already the new user
+                  has chosen others with whom to coordinate.  Now he proceeds as follows.
+                    i. He casts a pipe to the common way model that guides the others (here MK,
                       the model of K team) so yielding his own local copy of the model (MU).
                         : re `K team` see `^^diagram, Approach to action I —`
-                    ii. The new user may, at some point, solicit assignment to a collaborative
-                      or otherwise coordinative role by extending — in advance of any formal offer —
-                      his formal acceptance of that role.  Here he applies for membership in K team.
+                    ii. He may, at some point, solicit assignment to a collaborative or otherwise
+                      coordinative role by extending — in advance of any formal offer — his formal
+                      acceptance of that role.  Here he applies for membership in K team.
                         : re `K team` see `^^diagram, Approach to action I —`
-                    iii. The new user may edit his copy of the way model to introduce annotations
-                      and other markup that show where and how he intends to engage in the way.
-                      Visible to others as a standing difference (△), the result may serve as
-                      a messaging aid for coordination purposes.
+                    iii. He may, at some point, edit his copy of the way model in order to introduce
+                      annotations and other markup that show where and how he intends to engage
+                      in the way.  Visible to others as a standing difference (△), the result
+                      may serve as a messaging aid for coordination purposes.
 
 
                    ┊  ┊  ┊
@@ -686,7 +682,7 @@ Structure and fit: the designed structure of the intercast network
                  ┈─┘  │  └────────────┐
                       │               │
                       ╵               ╵
-               Integrative root   B division                        ( II )
+               Integrative root   B division                          II
                       ╷               ╷
                       │               │
                     ┈─┴───┐         ┈─┴────┐
@@ -700,12 +696,12 @@ Structure and fit: the designed structure of the intercast network
                               ╵            ╷                    ┌──┐              ·
                         B2 integration     ╷                  ┌──┐┌──┐            ·
                                                               │ ┌──┐┌──┐          ·
-                                         ⋰⋱⋰⋱⋰                └─│ ┌──┐ │ ────┈ ┈────────┈
+                                          ⋰⋱⋰                 └─│ ┌──┐ │ ────┈ ┈────────┈
                                                                 └─│  │─┘          ·
                                            ╵                 MB2  └──┘            ·
                                            ╵                                      · · · · · · ·
                                    ┈────┐  ╵
-                 ( I )                  │  ▽
+                   I                    │  ▽
                                         ╵
                                        F team
                                         ╷
@@ -718,12 +714,21 @@ Structure and fit: the designed structure of the intercast network
                                       Member            ╵
                                                      New user
              
-                    : re `\bI\b` cf. `^^diagram, Approach to action I — finding where to engage`
-                    : re `\bII\b` cf. `^^diagram, Approach to action II — coordinating`
-                diagram, Approach to action I and II — the case of a foreign team.
+                diagram, Approach to action I and II — the case of a foreign executive branch.
+                    I. The new user has found that the relevant executive branch (here that of F team)
+                      lies outside the tree of his chosen executive system.  It is foreign.  Either it
+                      belongs to another system, or it floats independent of any.  The appointment offer
+                      connecting it to the system (dashed line to F team) lies open.
+                        : cf. `^^diagram, Approach to action I — finding where to engage`
+                    II. The new user wishes to coordinate his actions with the members of that branch.
+                      At the same time, he wishes to retain the context of his chosen executive system,
+                      way model and endmost goal.  To do this, he pipes not from the model of the branch
+                      as ordinarily he would (that of F team), but from the model of the native
+                      appointing officer (that of B2 division).
+                        : cf. `^^diagram, Approach to action II — coordinating`
 
 
-
+                ·
                                 ⋅
                                ⋅     ┈──┬────┐         ┊
                         1     ⋅         ╵    │         │
@@ -747,7 +752,21 @@ Structure and fit: the designed structure of the intercast network
                                                              ⋅
                                                                ⋅
 
-                diagram, How an executive officer locates a foreign team.
+                diagram, How an executive officer finds candidate foreign branches for a way part
+                  in need of execution.  The officer and his integrator:
+                    1) Indentify in the way model the relevant, executable files of the way part.
+                       For each file:
+                    2) Indentify in the way-file forest the compatible files, e.g. integrable with the
+                       way model.  From among all files both relevant and compatible (both 1 and 2):
+                    3) Choose the most suitable executive branch, focusing e.g. on those with the most
+                       appointment offers, applicants and members.
+                  Represented are: 1) the way model of the executive officer and his integrator
+                  (here those of B2 division); 2) cross linkage from each file of the model
+                  to its way-file forest; and 3) cross linkage from each file of the way-file forest
+                  to the leaf branches of the executive forest that deal with that file, shorn of any
+                  (e.g. of integrative branches) known to be irrelevant to the search.
+                  Model ‘MB2’ and branch ‘F team’ are those of the same labels in the preceding diagram.
+                    : re `preceding diagram` see `^^diagram, Approach to action I and II`
 
 
 
