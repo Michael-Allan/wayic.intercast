@@ -1,40 +1,63 @@
-Structure and fit: the designed structure of the intercast network
-      and its fit within the larger wayic architecture
+Structure and fit
 
-    + Begin with a situation such as mine, a few files that abstract
-      away all details but those which concern me.
+    - This file introduces the designed structure of the intercast network
+      and its fit within the larger wayic architecture.
+    - There the intercast network is charged with fulfilling two constraints:
+
+        X. Extends throughout society.
+            : see @ `^^ Intercast network$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
+        Gi. Affords the user formation of an aimed way of life.
+            : see @ `^^ Intercast network$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
+
+    - Already the waycast brings the task of way formation into the hands of the user.
+    - If the user could complete that task in isolation, then the waycast might suffice to fulfil Gi.
+        - Societal demand for goal orientation would be met by replication of the waycast
+          in the population.
+            : re `demand for goal orientation` see http://reluk.ca/project/waycast/wayic/premise.brec
+        / A population does not make a society, however, so popular extension alone
+          would not also fulfil X.
+    - But it turns out that ways cannot be formed in isolation, at least not reliably.
+        - Interpersonal relations are necessary to fulfil Gi.
+            - Waycasts are generally useful for way formation only if they bring waycasters
+              into relation with each other.
+        - Interpersonal relations are also necessary to fulfil X.
+            - Waycasters as such can enter society only through intercast relations.
+            - Popular extension of the wayic then becomes societal extension, so fulfilling X.
+    - The sections that follow introduce the basic forms of relation that comprise the core
+      of the intercast network, and how together they function to enable way formation.
+    - The remainder of the present section explains how way formation fails in the case
+      of an isolated waycast.
+
+
+                     · · · · · · · · · · · · · · ·
+                     ·                           ·
+                     ·          ┌─────┐          ·
+           Isolated  ·          │     │          ·
+            waycast  ·          │     │          ·
+                     ·          │     │          ·
+                     ·          └─────┘          ·
+                     ·                           ·
+                     ·     ┌─────┐               ·
+                     ·     │     │   ┌─────┐     ·
+                     ·     │     │   │     │     ·
+                     ·     │     │   │     │     ·
+                     ·     └─────┘   │     │     ·
+                     ·               └─────┘     ·
+                     ·                           ·
+                     · · · · · · · · · · · · · · ·
+
+            diagram, An isolated waycast containing three way files.
+
+    + Begin with waycast content such as mine, a few files that abstract away all details
+      but those which concern me.
     + Problem: I have no assurance the goal will ever be reached.
-        - And no less a problem: no assurance that I have chosen the right
-          goal, or the best way of connecting my own small means to it.
-        - Moreover, many of the steps that I might take
-          I could not take alone, as they would require a team effort.
-    + Solution, or rather steps toward it: taps and pipes.
-        - The solution is reached only indirectly by way of the formal steps
-          described below.
-            + Ease the journey by adding another problem, one that can
-              directly be solved by the formal steps: the difficulty
-              of writing the waysource from scratch.
-
-    - Alone and without an intercast network, the waycaster begins with an isolated waycast.
-
-                       · · · · · · · · · · · · · · ·
-                       ·                           ·
-                       ·          ┌─────┐          ·
-                       ·          │     │          ·  Pioneer
-                       ·          │     │          ·  waycast
-                       ·          │     │          ·
-                       ·          └─────┘          ·
-                       ·                           ·
-                       ·     ┌─────┐               ·
-                       ·     │     │   ┌─────┐     ·
-                       ·     │     │   │     │     ·
-                       ·     │     │   │     │     ·
-                       ·     └─────┘   │     │     ·
-                       ·               └─────┘     ·
-                       ·                           ·
-                       · · · · · · · · · · · · · · ·
-
-            diagram, The isolated waycast of a pioneering waycaster, containing three way files.
+        - And no less a problem: no assurance that I have chosen the right goal,
+          or the best way of connecting my own small means to it.
+        - Moreover, many of the steps that I might take I could not take alone,
+          as they would require a team effort.
+    + Solution, or rather initial steps toward it: taps and pipes.
+        + Ease the entry by adding another problem, one that can directly be solved
+          by taps and pipes: the difficulty of writing the waysource from scratch.
 
 
 
