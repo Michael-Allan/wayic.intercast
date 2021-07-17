@@ -17,11 +17,11 @@ Structure and fit
             : re `demand for goal orientation` see http://reluk.ca/project/waycast/wayic/premise.brec
         / A population does not make a society, however, so popular extension alone
           would not also fulfil X.
-    - But it turns out that ways cannot be formed in isolation, at least not reliably.
-        : re `it turns out` see `^^- The remainder of the present section explains how`
+    - Yet it turns out that ways cannot be formed in isolation, at least not reliably.
         - Interpersonal relations are necessary to fulfil Gi.
             - Waycasts are generally useful for way formation only if they bring waycasters
               into relation with each other.
+            / The reasons are explained further below.
         - Interpersonal relations are necessary to fulfil X, too.
             - They are inherent to society.
             - Waycasters as such can enter society through intercast relations.
@@ -54,16 +54,39 @@ Structure and fit
 
             diagram, An isolated waycast containing three way files.
 
-    + Begin with waycast content such as mine, a few files that abstract away all details
-      but those which concern me.
-    + Problem: I have no assurance the goal will ever be reached.
-        - And no less a problem: no assurance that I have chosen the right goal,
-          or the best way of connecting my own small means to it.
-        - Moreover, many of the steps that I might take I could not take alone,
-          as they would require a team effort.
-    + Solution, or rather initial steps toward it: taps and pipes.
-        + Ease the entry by adding another problem, one that can directly be solved
-          by taps and pipes: the difficulty of writing the waysource from scratch.
+    - A small body of waysource suffices to model a small way.
+    - A small body of waysource that abstracts away details might also suffice to model a large way.
+        - Details would be abstracted away to leave only those of direct concern to the waycaster.
+    - Still, even such limited way models cannot reliably be formed in isolation.
+        - Several impediments would combine to bring any method of isolated way formation
+          to a standstill.
+
+        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+          Impediments to isolated way formation
+        ─────────────────────────────────────────
+            a)  Uncertainty about the choice of a final or endmost goal
+            b)  Uncertainty about reaching the chosen goal
+            c)  The inherent difficulty of way modelling
+
+
+    (a) Uncertainty about the choice of a final or endmost goal.
+        + Explain how this is an impediment.
+            - … no assurance that I have chosen the right goal.
+        + Refer to the intercast solution.
+            : see `^^ Goal forest$`
+    (b) Uncertainty about reaching the goal.
+        + Explain how this is an impediment.
+            - A way is formed in order to be executed, a goal chosen in order to be reached.
+            - For a large way, one has no assurance the goal will ever be reached.
+                - Who will take care of the details that have been abstracted away?
+            - Often the steps to be taken will require a team effort, or coordination with others,
+              which would defeat the lone waycaster.
+        + Refer to the intercast solution.
+            : see `^^ Executive systems$`
+    (c) The inherent difficulty of way modelling.
+        + Explain how this is an impediment.
+            - … the difficulty of writing waysource and composing a way model from scratch.
+        + Refer to the intercast solution of taps and pipes (the following section).
 
 
 
@@ -458,6 +481,8 @@ Structure and fit
     ─────────────
         + Present the goal forest.
         - Its other important function is assurance about the choice of goal.
+            : see `^^.) Uncertainty about the choice of a final or endmost goal$`
+            + Explain how.
 
                                             ‹⋅›                               ‹⋅›
                            ‹⋅›               ╷               ‹⋅›               ╷
