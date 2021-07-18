@@ -2,6 +2,9 @@ Definition of terms for the intercast networking project
 
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
+    agent
+        - One appointed to a role with a portfolio. \ Appointment with portfolio implies working
+            : cf. `^^team member$`                  \ on behalf of the appointer, hence as an agent.
     descendant weight
         - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
             / Equal to the number of descendants provided the node is extra-cyclic.
@@ -10,6 +13,13 @@ Definition of terms for the intercast networking project
     intercast
         ─ adjective
             - Between or among waycasts or waycasters.
+    team
+        - A team leader and the team members he directly appoints.
+    team leader
+        - One who appoints a team member.
+    team member
+        - One appointed to a role without a portfolio. \ Being without portfolio implies working with
+            : cf. `^^agent$` \ others (co-working) as opposed to working on another’s behalf (agency).
     visitor
         - One who explores the nodes of a forest or network.
 
