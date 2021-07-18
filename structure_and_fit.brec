@@ -2,91 +2,98 @@ Structure and fit
 
     - This file introduces the designed structure of the intercast network
       and its fit within the larger wayic architecture.
-    - The latter comprises the fulfilment of two constraints:
 
-        X. Extends throughout society.
-            : see @ `^^ Intercast network$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
-        Gi. Affords the user formation of an aimed way of life.
-            : see @ `^^ Intercast network$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
 
-    - Re Gi: already the waycast puts the task of way formation in the hands of the user.
-    - If the user could complete that task in isolation, then the waycast alone might suffice
-      to fulfil Gi.
-        - Widespread demand for goal orientation would then draw on the affordance of Gi
-          by replicating the waycast, so extending the wayic throughout the population.
-            : re `demand for goal orientation` see http://reluk.ca/project/waycast/wayic/premise.brec
-        / A population does not make a society, however, so popular extension alone
-          would not also fulfil X.
-    - Yet it turns out that ways cannot be formed in isolation, at least not reliably.
-        - Interpersonal relations are necessary to fulfil Gi.
-            - Waycasts are generally useful for way formation only if they bring waycasters
-              into relation with each other.
-            / The reasons are explained further below.
-        - Interpersonal relations are necessary to fulfil X, too.
-            - They are inherent to society.
-            - Waycasters as such can enter society through intercast relations.
-            - So far as intercast relations do support interpersonal relations,
-              the expected *popular replication of the waycast* in response to widespread demand for
-              goal orientation would also be a *societal extension of the wayic*, so fulfilling X.
+    ━━━━━━━━━━━━━━━━━━━━━━━
+     From fit to structure ─ how the external fit of the intercast network informs its internal structure
+    ───────────────────────
+        - The external fit of the intercast network comprises the fulfilment of two constraints
+          on the larger wayic architecture:
+
+            X. Extends throughout society.
+            Gi. Affords the user formation of an aimed way of life.
+
+            : see `^^ Intercast network$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
+        - Re Gi: already the waycast puts the task of way formation in the hands of the user.
+        - If the user could complete that task in isolation, then the waycast alone might suffice
+          to fulfil Gi.
+            - Widespread demand for goal orientation would then draw on the affordance of Gi
+              by replicating the waycast, so extending the wayic throughout the population.
                 : re `demand for goal orientation` see http://reluk.ca/project/waycast/wayic/premise.brec
-    - The sections that follow introduce the basic forms of intercast relation that comprise the core
-      of the intercast network, and how together they function to enable interpersonal way formation.
-    - The remainder of the present section explains how way formation fails in the case
-      of an isolated waycast.
+            / A population does not make a society, however, so popular extension alone
+              would not also fulfil X.
+        - Yet it turns out that ways cannot be formed in isolation, at least not reliably.
+            - Interpersonal relations are necessary to fulfil Gi.
+                - Waycasts are generally useful for way formation only if they bring waycasters
+                  into relation with each other.
+            - Interpersonal relations are also necessary to fulfil X.
+                - They are inherent to society.
+                - Waycasters as such can enter society through intercast relations.
+                - So far as intercast relations do support interpersonal relations, the expected
+                  *popular replication of the waycast* in response to widespread demand for goal
+                  orientation would also be a *societal extension of the wayic*, so fulfilling X.
+                    : re `demand for goal orientation` see
+                      http://reluk.ca/project/waycast/wayic/premise.brec
+        - Subsequent sections of this file will introduce the basic forms of intercast relation
+          that comprise the core of the intercast network, and explain how they function together
+          to support the interpersonal relations that underlie both way formation (Gi) and societal
+          extension of the wayic (X).
+        - The remainder of the present section explains how way formation fails in the case
+          of an isolated waycast.
 
 
-                     · · · · · · · · · · · · · · ·
-                     ·                           ·
-                     ·          ┌─────┐          ·
-           Isolated  ·          │     │          ·
-            waycast  ·          │     │          ·
-                     ·          │     │          ·
-                     ·          └─────┘          ·
-                     ·                           ·
-                     ·     ┌─────┐               ·
-                     ·     │     │   ┌─────┐     ·
-                     ·     │     │   │     │     ·
-                     ·     │     │   │     │     ·
-                     ·     └─────┘   │     │     ·
-                     ·               └─────┘     ·
-                     ·                           ·
-                     · · · · · · · · · · · · · · ·
+                         · · · · · · · · · · · · · · ·
+                         ·                           ·
+                         ·          ┌─────┐          ·
+               Isolated  ·          │     │          ·
+                waycast  ·          │     │          ·
+                         ·          │     │          ·
+                         ·          └─────┘          ·
+                         ·                           ·
+                         ·     ┌─────┐               ·
+                         ·     │     │   ┌─────┐     ·
+                         ·     │     │   │     │     ·
+                         ·     │     │   │     │     ·
+                         ·     └─────┘   │     │     ·
+                         ·               └─────┘     ·
+                         ·                           ·
+                         · · · · · · · · · · · · · · ·
 
-            diagram, An isolated waycast containing three way files.
+                diagram, An isolated waycast containing three way files.
 
-    - A small body of waysource suffices to model a small way.
-    - A small body of waysource that abstracts away details might also suffice to model a large way.
-        - Details would be abstracted away to leave only those of direct concern to the waycaster.
-    - Still, even such limited way models cannot reliably be formed in isolation.
-        - Several impediments would combine to bring any method of isolated way formation
-          to a standstill.
+        - A small body of waysource suffices to model a small way.
+        - A small body of waysource that abstracts away details might also suffice to model a large way.
+            - Details would be abstracted away to leave only those of direct concern to the waycaster.
+        - Still, even such limited way models cannot reliably be formed in isolation.
+            - Several impediments would combine to bring any method of isolated way formation
+              to a standstill.
 
-        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-          Impediments to isolated way formation
-        ─────────────────────────────────────────
-            a)  Uncertainty about the choice of a final or endmost goal
-            b)  Uncertainty about reaching the chosen goal
-            c)  The inherent difficulty of way modelling
+            ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+              Impediments to isolated way formation
+            ─────────────────────────────────────────
+                a)  Uncertainty about the choice of a final or endmost goal
+                b)  Uncertainty about reaching the chosen goal
+                c)  The inherent difficulty of way modelling
 
 
-    (a) Uncertainty about the choice of a final or endmost goal.
-        + Explain how this is an impediment.
-            - … no assurance that I have chosen the right goal.
-        + Refer to the intercast solution.
-            : see `^^ Goal forest$`
-    (b) Uncertainty about reaching the goal.
-        + Explain how this is an impediment.
-            - A way is formed in order to be executed, a goal chosen in order to be reached.
-            - For a large way, one has no assurance the goal will ever be reached.
-                - Who will take care of the details that have been abstracted away?
-            - Often the steps to be taken will require a team effort, or coordination with others,
-              which would defeat the lone waycaster.
-        + Refer to the intercast solution.
-            : see `^^ Executive systems$`
-    (c) The inherent difficulty of way modelling.
-        + Explain how this is an impediment.
-            - … the difficulty of writing waysource and composing a way model from scratch.
-        + Refer to the intercast solution of taps and pipes (the following section).
+        (a) Uncertainty about the choice of a final or endmost goal.
+            + Explain how this is an impediment.
+                - … no assurance that I have chosen the right goal.
+            + Refer to the intercast solution.
+                : see `^^ Goal forest$`
+        (b) Uncertainty about reaching the goal.
+            + Explain how this is an impediment.
+                - A way is formed in order to be executed, a goal chosen in order to be reached.
+                - For a large way, one has no assurance the goal will ever be reached.
+                    - Who will take care of the details that have been abstracted away?
+                - Often the steps to be taken will require a team effort, or coordination with others,
+                  which would defeat the lone waycaster.
+            + Refer to the intercast solution.
+                : see `^^ Executive systems$`
+        (c) The inherent difficulty of way modelling.
+            + Explain how this is an impediment.
+                - … the difficulty of writing waysource and composing a way model from scratch.
+            + Refer to the intercast solution of taps and pipes (the following section).
 
 
 
