@@ -3,23 +3,35 @@ Definition of terms for the intercast networking project
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
     agent
-        - One appointed to a role with a portfolio. \ Appointment with portfolio implies working
-            : cf. `^^team member$`                  \ on behalf of the appointer, hence as an agent.
+        - One appointed to an executive role with a portfolio. \ Appointment with portfolio implies
+            : cf. `^^team member$`          \ working on behalf of the appointer, hence as an agent.
+    appoint
+        ─ verb, with object
+            - Offer an executive role (to a waycaster) and have it accepted.
+                : re `offer`    see same head       @ `^^executive appointment$` @ forms.brec
+                : re `accepted` see `^^acceptance$` @ `^^executive appointment$` @ forms.brec
     descendant weight
         - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
             / Equal to the number of descendants provided the node is extra-cyclic.
             / Equal to a Votorola style, cascading vote count.
                 : see http://reluk.ca/project/Votorola/d/theory.xht#medium
+    executive role
+        - A position, duty or task within an executive system.
     intercast
         ─ adjective
             - Between or among waycasts or waycasters.
+    officer
+        - A type of senior executive role.
+    portfolio
+        - A set of way files pertaining to an executive role.
+        \ Way files are the only means (at present) of formalizing a sphere of responsibility.
     team
         - A team leader and the team members he directly appoints.
     team leader
         - One who appoints a team member.
     team member
-        - One appointed to a role without a portfolio. \ Being without portfolio implies working with
-            : cf. `^^agent$` \ others (co-working) as opposed to working on another’s behalf (agency).
+        - One appointed to an executive role with no portfolio. \ Appointment without portfolio implies
+            : cf. `^^agent$`           \ co-working as opposed to working on behalf of another (agency).
     visitor
         - One who explores the nodes of a forest or network.
 
