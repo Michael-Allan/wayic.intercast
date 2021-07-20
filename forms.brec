@@ -21,10 +21,11 @@ Forms of intercast relation
         / A type of waysource forest.
     waysource forest
         - A goal forest or way-file forest.
-        - Visitors will typically orient on the basis of waysource popularity as measured by actual use.
-            - Accordingly the measure of the mass of a tree node (from which descendant weights
-              are calculated) is the number of waycasts whose way models include the waysource
-              (goal or way file) represented by the node.
+        - The measure of the mass of a tree node (from which descendant weights are calculated)
+          is the number of waycasts whose way models include the waysource (goal or way file)
+          represented by the node.
+            / Visitors may therefore orient by default on the basis of waysource popularity
+              as measured by actual use.
 
 
                                                          \ Copyright © 2021  Michael Allan.  Licence MIT.
