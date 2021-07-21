@@ -103,15 +103,7 @@ Structure and fit
     ━━━━━━━━━━━━━━━━
      Taps and pipes ─ facile waycasts of narrow focus that yet compile to exhaustive way models
     ────────────────
-        + Show the two types of stock on which I depend (tap and pipe).
-        + Ask: where does each come from?
-            / It could be anywhere, but given these are directed relations of
-              out-degree 1 (one stock for a given stand), each has the potential
-              to form an edge of an in-tree.
-        + Answer in regard to tap stock, precomposed way files: way-file forests.
-        + Answer in regard to pipe stock, preformed way models:
-            - Initially the root of an integrative tree, and therefrom an executive system.
-            - Thence (typically) a team leader or other prospective superior within that system.
+        + Present taps and pipes.
 
                                    · · · · · · · · · · · · · · · · · · ·
                                    ·                                   ·
@@ -154,6 +146,15 @@ Structure and fit
                     4) application of a final standing difference (△) to the model.
                   Standing differences for waysource and model (all △) are recorded in the waycast.
 
+        + Ask: where do tap and pipe stocks come from?
+            / It could be anywhere, but given these are directed relations of
+              out-degree 1 (one stock for a given stand), each has the potential
+              to form an edge of an in-tree.
+        + Answer in regard to tap stock, precomposed way files: way-file forests.
+        + Answer in regard to pipe stock, preformed way models:
+            - Initially the root of an integrative tree, and therefrom an executive system.
+            - Thence (typically) a team leader or other prospective superior within that system.
+
 
 
     ━━━━━━━━━━━━━━━━━━
@@ -192,78 +193,8 @@ Structure and fit
     ━━━━━━━━━━━━━━━━━━━
      Integrative trees ─ complete and coherent way models
     ───────────────────
-        + Warrant the premise that prompts the integrative tree.
-            : join `^^Cite.+as warrant for the earlier premise \(of the integrative tree\)`
-        + Ask after the presentation of the integrative tree: where find such a tree?
-        + Answer: executive system.
+        + Present integrative trees.
 
-                                  · · · · · · · · · · · ·
-                                  ·                     ·
-                    · · ·         ·                     ·  Waycast of root
-                 A  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐          ·    integrator
-                    · · ·         ·          │          ·
-                                  ·        1 │          ·
-                  · · ·           ·          │ ┌───╴ △  ·
-               B  ·   · ╶────┈ ┈─────╴ ◌ ╶───┤ │        ·
-                  · · ·           ·          │ │ 2      ·
-                                  ·          │ │        ·
-                                  · · · · · ·│·│· · · · ·
-                                             │ │
-                                             │ │
-                                             ▼ ▼
-                                            ┌──┐
-                                          ┌──┐┌──┐    Way model
-                                          │ ┌──┐┌──┐
-                                          └─│ ┌──┐ │
-                                            └─│  │─┘
-                                          M   └──┘
-
-                diagram, Waycast and way model of a root integrator.  Shown are model changes
-                  flowing step-wise via
-                    1) references (◌) to waysource defined in remote waycasts (A, B) and
-                    2) application of a standing difference (△).
-                  Waysource references (◌) and standing difference (△) are recorded in the waycast.
-                  The way model is that of the same label (M) in the diagram of the subject waycast.
-                    : re `diagram of the subject waycast` see `· +Subject\R.+· +waycast` @
-                      `^^ Taps.+pipes`
-                ·
-                                   · · · · · · · · · · · · ·
-                                   ·                       ·
-                     · · ·         ·                       ·
-                 B1  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐            ·   Waycast of
-                     · · ·         ·          │            ·  integrator B
-                                   ·        2 │            ·
-                   · · ·           ·          │            ·
-               B2  ·   · ╶────┈ ┈─────╴ ◌ ╶───┤            ·
-                   · · ·           ·          │            ·
-                                   ·          │            ·
-                  ┌──┐             ·          │ ┌─────╴ △  ·
-                ┌──┐┌──┐           ·          │ │   3      ·
-                │ ┌──┐┌──┐    1    ·          │ │          ·
-                └─│ ┌──┐ │ ────┈ ┈──────────┐ │ │          ·
-                  └─│  │─┘         ·        │ │ │          ·
-                M   └──┘           ·        │ │ │          ·
-                                   · · · · ·│·│·│· · · · · ·
-                                            │ │ │
-                                            ▼ ▼ ▼
-             
-                                            ┌──┐
-                                          ┌──┐┌──┐    Way model
-                                          │ ┌──┐┌──┐
-                                          └─│ ┌──┐ │
-                                            └─│  │─┘
-                                          MB  └──┘
-
-                diagram, Waycast and way model of integrator B.  Shown are model changes
-                  flowing step-wise via
-                    1) a pipe line from pipe stock (model M) to stand (MB),
-                    2) references (◌) to waysource defined in remote waycasts (B1, B2) and
-                    3) application of a standing difference (△).
-                  Stock model ‘M’ is that of the same label in the preceding diagram
-                  where the present waycast is labelled ‘B’.
-                    : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
-                      `^^ Integrative tree$`
-                ·
                                            Integrative root
                                                   △
                          ( i )                    ╷
@@ -310,6 +241,80 @@ Structure and fit
                     : re `preceding diagram` see `· +Waycast of\R.+· +integrator B` @
                       `^^ Integrative tree$`
 
+                ·
+                                  · · · · · · · · · · · ·
+                                  ·                     ·
+                    · · ·         ·                     ·  Waycast of root
+                 A  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐          ·    integrator
+                    · · ·         ·          │          ·
+                                  ·        1 │          ·
+                  · · ·           ·          │ ┌───╴ △  ·
+               B  ·   · ╶────┈ ┈─────╴ ◌ ╶───┤ │        ·
+                  · · ·           ·          │ │ 2      ·
+                                  ·          │ │        ·
+                                  · · · · · ·│·│· · · · ·
+                                             │ │
+                                             │ │
+                                             ▼ ▼
+                                            ┌──┐
+                                          ┌──┐┌──┐    Way model
+                                          │ ┌──┐┌──┐
+                                          └─│ ┌──┐ │
+                                            └─│  │─┘
+                                          M   └──┘
+
+                diagram, Waycast and way model of a root integrator.  Shown are model changes
+                  flowing step-wise via
+                    1) references (◌) to waysource defined in remote waycasts (A, B) and
+                    2) application of a standing difference (△).
+                  Waysource references (◌) and standing difference (△) are recorded in the waycast.
+                  The way model is that of the same label (M) in the diagram of the subject waycast.
+                    : re `diagram of the subject waycast` see `· +Subject\R.+· +waycast` @
+                      `^^ Taps.+pipes`
+
+                ·
+                                   · · · · · · · · · · · · ·
+                                   ·                       ·
+                     · · ·         ·                       ·
+                 B1  ·   · ╶──┈ ┈─────╴ ◌ ╶───┐            ·   Waycast of
+                     · · ·         ·          │            ·  integrator B
+                                   ·        2 │            ·
+                   · · ·           ·          │            ·
+               B2  ·   · ╶────┈ ┈─────╴ ◌ ╶───┤            ·
+                   · · ·           ·          │            ·
+                                   ·          │            ·
+                  ┌──┐             ·          │ ┌─────╴ △  ·
+                ┌──┐┌──┐           ·          │ │   3      ·
+                │ ┌──┐┌──┐    1    ·          │ │          ·
+                └─│ ┌──┐ │ ────┈ ┈──────────┐ │ │          ·
+                  └─│  │─┘         ·        │ │ │          ·
+                M   └──┘           ·        │ │ │          ·
+                                   · · · · ·│·│·│· · · · · ·
+                                            │ │ │
+                                            ▼ ▼ ▼
+             
+                                            ┌──┐
+                                          ┌──┐┌──┐    Way model
+                                          │ ┌──┐┌──┐
+                                          └─│ ┌──┐ │
+                                            └─│  │─┘
+                                          MB  └──┘
+
+                diagram, Waycast and way model of integrator B.  Shown are model changes
+                  flowing step-wise via
+                    1) a pipe line from pipe stock (model M) to stand (MB),
+                    2) references (◌) to waysource defined in remote waycasts (B1, B2) and
+                    3) application of a standing difference (△).
+                  Stock model ‘M’ is that of the same label in the preceding diagram
+                  where the present waycast is labelled ‘B’.
+                    : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
+                      `^^ Integrative tree$`
+
+        + Warrant the premise underlying the purpose of integrative trees.
+            : join `^^Cite.+as warrant for the earlier premise \(of the integrative tree\)`
+        + Ask where find an integrative tree?
+        + Answer: executive system.
+
 
 
     ━━━━━━━━━━━━━━━━━━━
@@ -317,8 +322,7 @@ Structure and fit
     ───────────────────
         - Re ‘actionable’ and ‘under coordinate execution throughout’: all way parts must (at some level)
           be moving together in harmony (of some degree) in order to assure of progress toward the goal.
-        + Ask: how find such an executive system?
-        + Answer: goal forest.
+        + Present executive systems.
 
                                                Executive root
                                                    ╷     ╷
@@ -484,15 +488,15 @@ Structure and fit
                 diagram, Executive tree.  The tree shown here is restricted to the modelling core;
                   it includes edges defined by divisional and integrative appointments alone.
 
+        + Ask: how find an executive system?
+        + Answer: one way is through a goal forest.
+
 
 
     ━━━━━━━━━━━━━
      Goal forest ─ surveyance and discovery of final or endmost goals
     ─────────────
         + Present the goal forest.
-        - Its other important function is assurance about the choice of goal.
-            : see `^^.) Uncertainty about the choice of a final or endmost goal$`
-            + Explain how.
 
                                             ‹⋅›                               ‹⋅›
                            ‹⋅›               ╷               ‹⋅›               ╷
@@ -588,15 +592,11 @@ Structure and fit
                     : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes`
                     : re `diagram of the goal forest` see `^^diagram, A goal forest`
 
-        + Begin telling the remainder of the story on the basis of function (as opposed to structure)
-          in regard to a typical new user (as opposed to the atypical subject of the foregoing).
+        + Begin telling the remainder of the story in regard to a typical new user,
+          as opposed to the atypical subject of the foregoing.
             + Warn of this switch at the outset, so preparing the reader.
-            1. Goal forest and executive systems
-                - First the user must choose a goal.
-                - Second, find a way to the goal.
-                    - This means finding a reliable way model for that goal,
-                      which entails finding an executive system.
 
+                ·
                ┈───┬────┐        ┊                                                       Executive root
                    ╵    │        │                ⋅                                          ╷  ╷  ╷
                   ‹⋅›   ╵    ┌───┼───┐          ⋅           Executive root                   │  │  │
@@ -625,39 +625,29 @@ Structure and fit
                     : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
                       `^^waysource forest$` @ ~/work/wayic/intercast/forms.brec
 
+        - First the new user chooses 1) a goal and 2) a reliable means to it.
+            : re `(1).+(2)` see `^^diagram, Initial user orientation`
+            - This entails finding a goal that both 1) suits the user and 2) is backed
+              by an executive system and (therewith) way model that inspire confidence.
+
 
 
     ━━━━━━━━━━━━━━━━━━
      Teams and agents ─ direct action toward the chosen goal
     ──────────────────
         - Where one might find co-workers or other opportunities for coordination.
-        - Way models must detail plans of action down to the smallest scale at which mutual expectation
-          enters into the way, e.g. down to the level of direct, coordinate action.
-            / Wholly private plans need not be cast.
-            + Cite this requirement as warrant for the earlier premise (of the integrative tree)
-              that very large bodies waysource are to be expected in a complete way model.
-        + Continue telling the story on the basis of function for the typical new user.
-            2. Way-file forest
-                - With both goal and way model, the waycaster now looks for a place to participate,
-                  both in the model and the executive system.
-                a) He selects a part of the model, thus comprising one or more way files.
-                b) From those files, he finds an agent to coordinate with.
-            3. He taps the model of 1 (or better, that described below)
-              and starts working/coordinating with the chosen agent of 2.
-                - Ideally one finds an agent in the same executive system.
-                - Alternatively one referred to from that executive system,
-                  and a model in the vicinity of the reference.
-                    - Such a link would be an appointment offer (yet unaccepted)
-                      to the agent or one of his superiors.
-                    - By this means, the executive system makes a bid for that agent,
-                      while also effectively including his activities in the present system.
-                    - The offerer in the present system would (I imagine) have his model
-                      integrated to that of the sought agent, so bridging the two systems
-                      and making it easy both for waycasters (such as ours) to participate
-                      in the way they wish (present goal, remote agent) and for the sought
-                      agent to migrate to the present system if eventually he chooses to.
-                        - This model (or any other closest to the action) is the one to be chosen
-                          by the new waycaster.
+        + Present teams and agents.
+            - Way models must detail plans of action down to the smallest scale at which mutual expectation
+              enters into the way, e.g. down to the level of direct, coordinate action.
+                / Wholly private plans need not be cast.
+                + Cite this requirement as warrant for the earlier premise (of the integrative tree)
+                  that very large bodies waysource are to be expected in a complete way model.
+        I. With goal, way model and executive system, the waycaster now looks for a place
+          to participate, both in the model and the executive system.
+            : see `^^diagram, Approach to action I — finding where to engage`
+            a) He selects a part of the model, thus comprising one or more way files.
+            b) From those files, he finds an agent to coordinate with.
+            + So continue telling the story of the new user.
 
                                ⋅
                         1     ⋅
@@ -703,6 +693,9 @@ Structure and fit
                   (2) cross linkage from each file of the model to the branches of the system that deal
                   with that file, and (3) the new user’s view of where he might fit in those branches.
 
+        II. Ideally the new user finds an agent in the same executive system.
+            : see `^^diagram, Approach to action II — coordinating`
+            + So continue telling the story.
 
                                     · · · · · · · · · · · ·
                                     ·                     ·
@@ -741,6 +734,7 @@ Structure and fit
                       in the way.  Visible to others as a standing difference (△), the result
                       may serve as a messaging aid for coordination purposes.
 
+        - Alternatively the new user finds a foreign agent:
 
                    ┊  ┊  ┊
                    │  │  │
@@ -792,8 +786,14 @@ Structure and fit
                       of the native appointing officer (that of B2 division).
                         : cf. `^^diagram, Approach to action II — coordinating`
 
+        - By means of the open appointment offer, the executive system makes a bid for that agent,
+          while also effectively including his activities in the present system.
+            : see `^^diagram, Approach to action I and II`
+            - The bidding officer in the present system would (I imagine) have his model integrated to that
+              of the sought agent, so bridging the two systems and making it easy both for waycasters (such
+              as ours) to participate in the way they wish (present goal, remote agent) and for the sought
+              agent to migrate to the present system if eventually he chooses to.
 
-                ·
                                 ⋅
                                ⋅     ┈──┬────┐         ┊
                         1     ⋅         ╵    │         │
