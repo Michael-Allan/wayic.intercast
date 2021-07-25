@@ -1,31 +1,44 @@
 Forms of intercast relation
 
 
-    appointment
+    ━━━━━━━━━━━━━
+     Appointment
+    ─────────────
         - The offer and acceptance of a role.
+
         offer
+
         acceptance
-    forest
+
+
+
+    ━━━━━━━━
+     Forest
+    ────────
         - An ordered set of trees.
         - The order of trees is determined by descendant weight at their roots.
-    goal forest
-        / A type of waysource forest.
-    intercast network
-        - A system of interconnected waycasts and waycasters.
-    tree
-        - An ordered, cyclic in-tree.
-            / Re in-tree, aka anti-arborescence.
-        - The order of sibling nodes is determined by descendant weight.
-        - The tree is cyclic (potentially) in that the root comprises either a node or cycle.
-    way-file forest
-        / A type of waysource forest.
-    waysource forest
+        tree
+            - An ordered, cyclic in-tree.
+                / Re in-tree, aka anti-arborescence.
+            - The order of sibling nodes is determined by descendant weight.
+            - The tree is cyclic (potentially) in that the root comprises either a node or cycle.
+
+
+
+    ━━━━━━━━━━━━━━━━━━
+     Waysource forest
+    ──────────────────
         - A goal forest or way-file forest.
         - The measure of the mass of a tree node (from which descendant weights are calculated)
           is the number of waycasts whose way models include the waysource (goal or way file)
           represented by the node.
             / Visitors may therefore orient by default on the basis of waysource popularity
               as measured by actual use.
+        goal forest
+            / A type of waysource forest.
+        way-file forest
+            / A type of waysource forest.
+
 
 
                                                          \ Copyright © 2021  Michael Allan.  Licence MIT.

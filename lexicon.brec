@@ -3,13 +3,13 @@ Definition of terms for the intercast networking project
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
     agent
-        - One appointed to a role with a portfolio. \ Appointment with portfolio implies
-            : cf. `^^team member$`          \ working on behalf of the appointer, hence as an agent.
+        - One appointed to a role with a portfolio. \ Appointment with portfolio implies working on
+            : cf. `^^team member$`                   \ behalf of the appointer, hence as an agent.
     appoint
         ─ verb, with object
             - Offer a role (to a waycaster) and have it accepted.
-                : re `offer`    see same head       @ `^^appointment$` @ forms.brec
-                : re `accepted` see `^^acceptance$` @ `^^appointment$` @ forms.brec
+                : re `offer`    see head            @ `^^ Appointment$` @ forms.brec
+                : re `accepted` see `^^acceptance$` @ `^^ Appointment$` @ forms.brec
     descendant weight
         - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
             / Equal to the number of descendants provided the node is extra-cyclic.
@@ -18,6 +18,8 @@ Definition of terms for the intercast networking project
     intercast
         ─ adjective
             - Between or among waycasts or waycasters.
+    intercast network
+        - A system of interconnected waycasts and waycasters.
     portfolio
         - A set of way files pertaining to a role.
         \ Way files are the only means (at present) of formalizing a sphere of responsibility.
@@ -26,7 +28,7 @@ Definition of terms for the intercast networking project
     solicit
         ─ verb, with object
             - Formally accept (a role) in advance of any offer.
-                : re `accept` see `^^acceptance$` @ `^^appointment$` @ forms.brec
+                : re `accept` see `^^acceptance$` @ `^^ Appointment$` @ forms.brec
     team
         - A team leader and the team members he directly appoints.
     team leader
