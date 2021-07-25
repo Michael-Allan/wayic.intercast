@@ -3,39 +3,48 @@ Definition of terms for the intercast networking project
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
     agent
-        - One appointed to a role with a portfolio. \ Appointment with portfolio implies working on
-            : cf. `^^team member$`                   \ behalf of the appointer, hence as an agent.
+        - One appointed to a role with an assigned portfolio. \ Appointment with portfolio implies
+            : cf. `^^team member$`         \ working on behalf of the appointer, hence as an agent.
     appoint
         ─ verb, with object
             - Offer a role (to a waycaster) and have it accepted.
-                : re `offer`    see head            @ `^^ Appointment$` @ forms.brec
-                : re `accepted` see `^^acceptance$` @ `^^ Appointment$` @ forms.brec
+    appointment
+        - The offer and acceptance of a role.
+            : see `^^ Appointment$` @ forms.brec
     descendant weight
         - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
             / Equal to the number of descendants provided the node is extra-cyclic.
             / Equal to a Votorola style, cascading vote count.
                 : see http://reluk.ca/project/Votorola/d/theory.xht#medium
+    inferior
+        ─ adjective
+            - Lower in rank, being appointed by another.
     intercast
         ─ adjective
             - Between or among waycasts or waycasters.
     intercast network
         - A system of interconnected waycasts and waycasters.
     portfolio
-        - A set of way files pertaining to a role.
-        \ Way files are the only means (at present) of formalizing a sphere of responsibility.
+        - The scope of responsibility pertaining to a role.
+    rank
+        - A relative position within an intercast network based on the offer (superior)
+          and acceptance (inferior) of an appointed role.
     role
-        - A position, duty or task within an executive system.
+        - A position, duty or task within an intercast network.
     solicit
         ─ verb, with object
             - Formally accept (a role) in advance of any offer.
-                : re `accept` see `^^acceptance$` @ `^^ Appointment$` @ forms.brec
+                : see `^^ role acceptance$` @ `^^ Appointment$` @ forms.brec
+    superior
+        ─ adjective
+            - Higher in rank, appointing another.
     team
         - A team leader and the team members he directly appoints.
     team leader
         - One who appoints a team member.
     team member
-        - One appointed to a role with no portfolio. \ Appointment without portfolio implies co-working
-            : cf. `^^agent$`                       \ as opposed to working on behalf of another (agency).
+        - One appointed to a role without a portfolio allowance. \ Appointment without portfolio implies
+            : cf. `^^agent$`            \ co-working as opposed to working on behalf of another (agency).
     visitor
         - One who explores the nodes of a forest or network.
 

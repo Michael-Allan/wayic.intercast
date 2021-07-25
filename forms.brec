@@ -4,11 +4,83 @@ Forms of intercast relation
     ━━━━━━━━━━━━━
      Appointment
     ─────────────
-        - The offer and acceptance of a role.
+        - A role offer in one waycast (superior) and its acceptance in another (inferior).
+        - The role name given in the acceptance must match that given in the offer.
 
-        offer
+        ────────────
+         role offer
+        ┈┈┈┈┈┈┈┈┈┈┈┈
+            / A waycast parameterizer.
+            - The superior half of an appointment, located in the superior waycast.
+            - Its parameter has this form:
 
-        acceptance
+                  ╶──╴‘<role offer>’╶── P ── role name ── P ── URI ───▶
+                 
+                         ┊
+                         └─ <portfolio> *
+
+                    diagram, The form of the waycast parameter in a role offer,
+                      together with the typifier of its allowed parametric child.
+                        / ‘*’ indicates an optional parametric child
+
+            - The URI identifies the inferior waycast.
+                - It must not identify the present waycast.
+
+            role name
+
+                     ┌─╴◀───╴‘ ’╶──┐
+                     │             │
+                  ╶──┴─── term ────┴───▶
+
+            portfolio assignment
+                / A waycast parameterizer, child of a role offer.
+                - It assigns a portfolio to the offered role.
+                - Its parameter has this form:
+
+                      ╶──╴‘<portfolio>’╶──┬── P ── description ──┬───▶
+                                          │                      │
+                                          └──────────────────────┘
+
+                - The description component is free in form, and describes the portfolio.
+
+
+        ─────────────────
+         role acceptance
+        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+            / A waycast parameterizer.
+            - The inferior half of an appointment, located in the inferior waycast.
+            - Its parameter has this form:
+
+                  ╶──╴‘<role acceptance>’╶── P ── role name ── P ── URI ───▶
+                 
+                         ┊
+                         └─ <portfolio> *
+
+                    diagram, The form of the waycast parameter in a role acceptance,
+                      together with the typifier of its allowed parametric child.
+                        / ‘*’ indicates an optional parametric child
+
+            - The URI identifies the superior waycast.
+                - It must not identify the present waycast.
+            - Where an acceptance is formed alone, in advance of any offer, it solicits an offer.
+
+            portfolio definition
+                / A waycast parameterizer, child of a role offer.
+                - It specifies a set of way files that pertain to the accepted role.
+                    \ Way files are the only means at present to formally define a portfolio.
+                - Its parameter has this form:
+
+                                                   parameter
+                      ╶──╴‘<portfolio>’╶──┬── P ──╴  value  ╶──┬───▶
+                                          │                    │
+                                          └────────────────────┘
+                        : re `(parameter).*\R.*(value)`
+                          see `^^parameter value$` @ `^^ Waycast parameterizer$` @
+                          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+
+                - The terms and patterns of the parameter value specify the way files by their paths.
+                - The portfolio definition is without effect if no portfolio was assigned.
+                    : re `assigned` see `^^portfolio assignment$`
 
 
 
