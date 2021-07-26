@@ -100,7 +100,7 @@ Forms of intercast relation
     ━━━━━━━━━━━━━━━━━━
      Waysource forest
     ──────────────────
-        - A goal forest or way-file forest.
+        - A forest of waysource tap relations: either a goal forest or a way-file forest.
         - The measure of the mass of a tree node (from which descendant weights are calculated)
           is the number of waycasts whose way models include the waysource (goal or way file)
           represented by the node.
@@ -108,8 +108,22 @@ Forms of intercast relation
               as measured by actual use.
         goal forest
             / A type of waysource forest.
+            - A forest of thoroughfractal heads interconnected by their taps.
         way-file forest
             / A type of waysource forest.
+            - A forest of the way files at a particular proper path interconnected by their taps.
+                - Untapped files each form a tree of a single node.
+                    / So the forest is immediately functional for any size of waycast population.
+
+
+
+    ━━━━━━━━━━━━━━━
+     Waysource tap
+    ───────────────
+        thoroughfractal head tap
+            / A type of waysource tap.
+        way-file tap
+            / A type of waysource tap.
 
 
 
