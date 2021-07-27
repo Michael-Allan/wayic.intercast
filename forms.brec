@@ -100,15 +100,43 @@ Forms of intercast relation
     ━━━━━━━━━━━━━━━━━━
      Waysource forest
     ──────────────────
-        - A forest of waysource nodes interconnected by waysource taps.
+        - A forest of waysource variants at a particular locus interconnected by waysource taps.
+        - Each node represents a separate instance of the waysource located in a single waycast.
+            / Therefore the descendant weights (that by default order the forest) accord with
+              the popularity of the variant clades as measured by their actual use.
+        - Untapped instances of waysource each form a tree of a single node.
+            / So waysource introduced to a novel locus, whether by origination or relocation,
+              gains early representation.
         goal forest
             / A type of waysource forest.
-            - A forest of thoroughfractal heads interconnected by their taps.
+            - A forest of variant thoroughfractal heads interconnected by their taps.
+                : see e.g. `^^diagram, A goal forest` @ structure_and_fit.brec
+            - Its functions include surveyance and discovery of:
+                ⁃ Final or endmost goals
+                    / What goals have others chosen?  What are the alternatives out there
+                      and how do they relate to each other?
+                ⁃ Ways to reach a goal
+                    / How can this goal be reached?  Who is trying to reach it?
+                      What ways have they chosen?  How are they organized?
+                    : see e.g. `^^diagram.+user orientation by final or endmost goal and executive means`
+                      @ `^^ Goal forest$` @ structure_and_fit.brec
         way-file forest
             / A type of waysource forest.
-            - A forest of the way files at a particular proper path interconnected by their taps.
-                - Untapped files each form a tree of a single node.
-                    / So the forest is immediately functional for any size of waycast population.
+            - A forest of way-file variants at a particular proper path interconnected by their taps.
+                : see e.g. `^^diagram, A way-file forest` @ structure_and_fit.brec
+            - Its functions include surveyance and discovery of:
+                ⁃ Variant way files
+                    / What do other waycasters have in this file?  What are the variants out there
+                      and how do they relate to each other?
+                ⁃ Teams and agents
+                    / In whose portfolio is this way file?  Who is doing the work here?
+                      Who is executing this part of the plan?
+                    : see e.g. `^^diagram, How.+find.+candidate.+agents for a way part` @
+                      `^^ Teams and agents$` @ structure_and_fit.brec
+            - Whether or not path bridges transfer descendant weight to the forest
+              (or whether it even includes them) depends on the forest implementation.
+                - Where path bridges do transfer weight, and where a single waycast thereby contributes
+                  multiple nodes to the forest, their combined weight must equal one.
 
 
 

@@ -11,6 +11,8 @@ Definition of terms for the intercast networking project
     appointment
         - The offer and acceptance of a role.
             : see `^^ Appointment$` @ forms.brec
+    clade
+        - A group of waysource instances descending by tap relations from a common stock.
     descendant weight
         - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
             / Equal to the number of descendants provided the node is extra-cyclic.
@@ -24,6 +26,8 @@ Definition of terms for the intercast networking project
             - Between or among waycasts or waycasters.
     intercast network
         - A system of interconnected waycasts and waycasters.
+    path bridge
+        - A tap between way files at different proper paths.
     portfolio
         - The scope of responsibility pertaining to a role.
     rank
