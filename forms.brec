@@ -88,11 +88,11 @@ Forms of intercast relation
      Forest
     ────────
         - An ordered set of trees.
-        - The order of trees is determined by descendant weight at their roots.
+        - Trees are ordered, by default, according to descendant weight at their roots.
         tree
             - An ordered, cyclic in-tree.
                 / Re in-tree, aka anti-arborescence.
-            - The order of sibling nodes is determined by descendant weight.
+            - Sibling nodes are ordered, by default, according to descendant weight.
             - The tree is cyclic (potentially) in that the root comprises either a node or cycle.
 
 
@@ -100,12 +100,7 @@ Forms of intercast relation
     ━━━━━━━━━━━━━━━━━━
      Waysource forest
     ──────────────────
-        - A forest of waysource tap relations: either a goal forest or a way-file forest.
-        - The measure of the mass of a tree node (from which descendant weights are calculated)
-          is the number of waycasts whose way models include the waysource (goal or way file)
-          represented by the node.
-            / Visitors may therefore orient by default on the basis of waysource popularity
-              as measured by actual use.
+        - A forest of waysource nodes interconnected by waysource taps.
         goal forest
             / A type of waysource forest.
             - A forest of thoroughfractal heads interconnected by their taps.
