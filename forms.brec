@@ -23,8 +23,7 @@ Forms of intercast relation
                       together with the typifier of its allowed parametric child.
                         / ‘*’ indicates an optional parametric child
 
-            - The URI identifies the inferior waycast.
-                - It must not identify the present waycast.
+            - The URI locates the inferior waycast.  It must not be an instance of the present waycast.
 
             role name
 
@@ -60,8 +59,7 @@ Forms of intercast relation
                       together with the typifier of its allowed parametric child.
                         / ‘*’ indicates an optional parametric child
 
-            - The URI identifies the superior waycast.
-                - It must not identify the present waycast.
+            - The URI locates the superior waycast.  It must not be an instance of the present waycast.
             - Where an acceptance is formed alone, in advance of any offer, it solicits an offer.
 
             portfolio definition
@@ -110,7 +108,7 @@ Forms of intercast relation
                   though here the nodes would be weightless anyway.
             - Where the backing instance of a node is an intracast tap stand, the node is assigned
               a unit weight of zero.
-                - A tap between separate copies of the same waycast is considered an intracast tap
+                - A tap between separate instances of the same waycast is considered an intracast tap
                   for this purpose.
             / So the descendant weights (which by default order the forest) will accord
               with the popularity of the variant clades as measured by their actual use.
