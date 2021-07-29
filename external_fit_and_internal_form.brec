@@ -1,19 +1,19 @@
-Structure and fit
+The external fit and internal form of intercast networks
 
-    - This file introduces the designed structure of the intercast network
-      and its fit within the larger wayic architecture.
+    - This file introduces the designed structure of intercast networks
+      by way of their fit within the larger wayic architecture.
 
 
-    ━━━━━━━━━━━━━━━━━━━━━━━
-     From fit to structure ─ how the external fit of the intercast network informs its internal structure
-    ───────────────────────
-        - The external fit of the intercast network within the larger wayic architecture
+    ━━━━━━━━━━━━━━━━━━
+     From fit to form ─ how the external fit of an intercast network informs its internal structure
+    ──────────────────
+        - The external fit of an intercast network within the larger wayic architecture
           comprises the fulfilment of two constraints:
 
             X. Extends throughout society.
             Gi. Affords the user formation of an aimed way of life.
 
-            : see `^^ Intercast network$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
+            : see `^^ Intercast networking$` @ http://reluk.ca/project/waycast/wayic/architecture.brec
         - Re Gi: already the waycast puts the task of way formation in the hands of the user.
         - If the user could complete that task in isolation, then the waycast alone might suffice
           to fulfil Gi.
@@ -35,11 +35,11 @@ Structure and fit
                     : re `demand for goal orientation` see
                       http://reluk.ca/project/waycast/wayic/premise.brec
         - Subsequent sections of this file will introduce the basic forms of intercast relation
-          that comprise the core of the intercast network, and explain how they function together
+          that comprise the core of an intercast network, and explain how they function together
           to support the interpersonal relations that underlie both way formation (Gi) and societal
           extension of the wayic (X).
         - The remainder of the present section explains how way formation fails in the case
-          of an isolated waycast, and points to particular structures of the intercast network
+          of an isolated waycast, and points to particular structures within intercast networks
           that function to prevent such failure.
 
                          · · · · · · · · · · · · · · ·
@@ -623,7 +623,7 @@ Structure and fit
                   Represented are the goal forest (1, ordered by extent of goal adoption) and cross
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
                     : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
-                      `^^waysource forest$` @ ~/work/wayic/intercast/forms.brec
+                      `^^waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
 
         - First the new user chooses 1) a goal and 2) a reliable means to it.
             : re `(1).+(2)` see `^^diagram, Initial user orientation`

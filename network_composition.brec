@@ -1,18 +1,21 @@
-Forms of intercast relation
+Network composition
+
+    - This file describes the core components and composite structures of intercast networking
+      and details their declarative basis in the waycast.
 
 
     ━━━━━━━━━━━━━
      Appointment
     ─────────────
-        - A role offer in one waycast (superior) and its acceptance in another (inferior).
+        - A role offer declared one waycast (superior) and its acceptance declared another (inferior).
         - The role name given in the acceptance must match that given in the offer.
 
         ────────────
          role offer
         ┈┈┈┈┈┈┈┈┈┈┈┈
             / A waycast parameterizer.
-            - The superior half of an appointment, located in the superior waycast.
-            - Its parameter has this form:
+            - The superior half of an appointment, declared in the superior waycast.
+            - It is declared with a waycast parameter in this form:
 
                   ╶──╴‘<role offer>’╶── P ── role name ── P ── URI ───▶
                  
@@ -34,7 +37,7 @@ Forms of intercast relation
             portfolio assignment
                 / A waycast parameterizer, child of a role offer.
                 - It assigns a portfolio to the offered role.
-                - Its parameter has this form:
+                - Declared as a role-offer child, it has a waycast parameter in this form:
 
                       ╶──╴‘<portfolio>’╶──┬── P ── description ──┬───▶
                                           │                      │
@@ -47,8 +50,10 @@ Forms of intercast relation
          role acceptance
         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A waycast parameterizer.
-            - The inferior half of an appointment, located in the inferior waycast.
-            - Its parameter has this form:
+            - The inferior half of an appointment, declared in the inferior waycast.
+                : see e.g. `^^ii\.$` @ `^^diagram, Approach to action.+coordinating with others` @
+                  `^^ Teams and agents` @ external_fit_and_internal_form.brec
+            - It is declared with a waycast parameter in this form:
 
                   ╶──╴‘<role acceptance>’╶── P ── role name ── P ── URI ───▶
                  
@@ -61,12 +66,16 @@ Forms of intercast relation
 
             - The URI locates the superior waycast.  It must not be an instance of the present waycast.
             - Where an acceptance is formed alone, in advance of any offer, it solicits an offer.
+                : see e.g. `^^ii\.$` @ `^^diagram, Approach to action.+coordinating with others` @
+                  `^^ Teams and agents` @ external_fit_and_internal_form.brec
+                : see e.g. `^^diagram, Approach to action.+the case of a foreign agent` @
+                  `^^ Teams and agents` @ external_fit_and_internal_form.brec
 
             portfolio definition
-                / A waycast parameterizer, child of a role offer.
+                / A waycast parameterizer, child of a role acceptance.
                 - It specifies a set of way files that pertain to the accepted role.
                     \ Way files are the only means at present to formally define a portfolio.
-                - Its parameter has this form:
+                - Declared as a role-acceptance child, it has a waycast parameter in this form:
 
                                                    parameter
                       ╶──╴‘<portfolio>’╶──┬── P ──╴  value  ╶──┬───▶
@@ -120,7 +129,7 @@ Forms of intercast relation
         goal forest
             / A type of waysource forest.
             - A forest of variant thoroughfractal heads interconnected by their taps.
-                : see e.g. `^^diagram, A goal forest` @ structure_and_fit.brec
+                : see e.g. `^^diagram, A goal forest` @ external_fit_and_internal_form.brec
             - Its functions include surveyance and discovery of:
                 ⁃ Final or endmost goals
                     / What goals have others chosen?  What are the alternatives out there
@@ -129,11 +138,11 @@ Forms of intercast relation
                     / How can this goal be reached?  Who is trying to reach it?
                       What ways have they chosen?  How are they organized?
                     : see e.g. `^^diagram.+user orientation by final or endmost goal and executive means`
-                      @ `^^ Goal forest$` @ structure_and_fit.brec
+                      @ `^^ Goal forest` @ external_fit_and_internal_form.brec
         way-file forest
             / A type of waysource forest.
             - A forest of way-file variants at a particular proper path interconnected by their taps.
-                : see e.g. `^^diagram, A way-file forest` @ structure_and_fit.brec
+                : see e.g. `^^diagram, A way-file forest` @ external_fit_and_internal_form.brec
             - Its functions include surveyance and discovery of:
                 ⁃ Variant way files
                     / What do other waycasters have in this file?  What are the variants out there
@@ -142,7 +151,7 @@ Forms of intercast relation
                     / In whose portfolio is this way file?  Who is doing the work here?
                       Who is executing this part of the plan?
                     : see e.g. `^^diagram, How.+find.+candidate.+agents for a way part` @
-                      `^^ Teams and agents$` @ structure_and_fit.brec
+                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
             - Whether or not path bridges transfer descendant weight to the forest
               (or whether it even includes them) depends on the forest implementation.
 
@@ -152,7 +161,8 @@ Forms of intercast relation
      Waysource tap
     ───────────────
         / A waycast parameterizer.
-        - A waysource tap with a `stopped` qualifier loses the functions inherent to a tap
+        - A tap between two instances of waysource, typically located in separate waycasts.
+        - A waysource tap declared with a `stopped` qualifier loses the functions inherent to a tap
           except where they are explicitly commanded.
             - Any additional function attached to the tap is unaffected.
             / Edge formation in a waysource forest is unaffected, for instance.
@@ -161,7 +171,11 @@ Forms of intercast relation
          thoroughfractal head tap
         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A type of waysource tap.
-            - A waycast parameterizer with a parameter in this form:
+                : see e.g. `^^diagram.+variant goal.+explicitly declared.+\N.+in a file stand` @
+                  `^^ Goal forest` @ external_fit_and_internal_form.brec
+                : see e.g. `^^diagram.+variant goal.+explicitly declared.+\N.+in an original file` @
+                  `^^ Goal forest` @ external_fit_and_internal_form.brec
+            - It is declared as a waycast parameterizer with a parameter in this form:
 
                   ╶──╴‘<head tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── fractum indicant ───▶
                                           │                    │
@@ -191,7 +205,9 @@ Forms of intercast relation
          way-file tap
         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A type of waysource tap.
-            - A waycast parameterizer with a parameter in this form:
+                : see e.g. `^^diagram, Change flow from extracast sources` @ `^^ Taps and pipes` @
+                  external_fit_and_internal_form.brec
+            - It is declared as a waycast parameterizer with a parameter in this form:
 
                   ╶──╴‘<body tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── URI reference ───▶
                                           │                    │

@@ -10,7 +10,7 @@ Definition of terms for the intercast networking project
             - Offer a role (to a waycaster) and have it accepted.
     appointment
         - The offer and acceptance of a role.
-            : see `^^ Appointment$` @ forms.brec
+            : see `^^ Appointment$` @ network_composition.brec
     clade
         - A group of waysource instances descending by tap relations from a common stock.
     descendant weight
