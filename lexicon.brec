@@ -14,9 +14,9 @@ Definition of terms for the intercast networking project
     clade
         - A group of waysource instances descending by tap relations from a common stock.
     descendant weight
-        - (at a tree node) The number of other nodes reachable by edges taken in reverse direction.
-            / Equal to the number of descendants provided the node is extra-cyclic.
-            / Equal to a Votorola style, cascading vote count.
+        - (at a tree node) The total weight of other nodes reachable by edges taken in reverse direction.
+            / Equal to the total weight of descendants provided the node is extra-cyclic.
+            / Equal to a Votorola style, cascading vote count provided all unit weights are one.
                 : see http://reluk.ca/project/Votorola/d/theory.xht#medium
     inferior
         ─ adjective
@@ -49,6 +49,8 @@ Definition of terms for the intercast networking project
     team member
         - One appointed to a role without a portfolio allowance. \ Appointment without portfolio implies
             : cf. `^^agent$`            \ co-working as opposed to working on behalf of another (agency).
+    unit weight
+        - The weight that a tree node in itself contributes to descendant weight.
     visitor
         - One who explores the nodes of a forest or network.
 

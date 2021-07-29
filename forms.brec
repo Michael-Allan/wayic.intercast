@@ -89,6 +89,7 @@ Forms of intercast relation
     ────────
         - An ordered set of trees.
         - Trees are ordered, by default, according to descendant weight at their roots.
+        - The unit weight of each node is one, except where defined otherwise.
         tree
             - An ordered, cyclic in-tree.
                 / Re in-tree, aka anti-arborescence.
@@ -100,11 +101,22 @@ Forms of intercast relation
     ━━━━━━━━━━━━━━━━━━
      Waysource forest
     ──────────────────
-        - A forest of waysource variants at a particular locus interconnected by waysource taps.
-        - Each node represents a separate instance of the waysource located in a single waycast.
-            / Therefore the descendant weights (that by default order the forest) accord with
-              the popularity of the variant clades as measured by their actual use.
-        - Untapped instances of waysource each form a tree of a single node.
+        - A forest of waysource variants at a particular locus interconnected by taps.
+        - Each node is backed by a separate instance of the waysource located in a waycast.
+            - Where a waycast contributes multiple nodes to the forest, the sum of their unit weights
+              must equal one.
+                / A waycast may contribute multiple nodes to: a) a way-file forest via path bridging;
+                  b) a goal forest via multiple thoroughfracta; or c) any forest via intracast taps,
+                  though here the nodes would be weightless anyway.
+            - Where the backing instance of a node is an intracast tap stand, the node is assigned
+              a unit weight of zero.
+                - A tap between separate copies of the same waycast is considered an intracast tap
+                  for this purpose.
+            / So the descendant weights (which by default order the forest) will accord
+              with the popularity of the variant clades as measured by their actual use.
+        - Each edge is backed by a waysource tap, and directed from stand to stock.
+        - Isolated instances of waysource at the locus — those which are unconnected by any tap —
+          each appear in the forest as a tree of a single node.
             / So waysource introduced to a novel locus, whether by origination or relocation,
               gains early representation.
         goal forest
@@ -135,18 +147,68 @@ Forms of intercast relation
                       `^^ Teams and agents$` @ structure_and_fit.brec
             - Whether or not path bridges transfer descendant weight to the forest
               (or whether it even includes them) depends on the forest implementation.
-                - Where path bridges do transfer weight, and where a single waycast thereby contributes
-                  multiple nodes to the forest, their combined weight must equal one.
 
 
 
     ━━━━━━━━━━━━━━━
      Waysource tap
     ───────────────
-        thoroughfractal head tap
+        / A waycast parameterizer.
+        - A waysource tap with a `stopped` qualifier loses the functions inherent to a tap
+          except where they are explicitly commanded.
+            - Any additional function attached to the tap is unaffected.
+            / Edge formation in a waysource forest is unaffected, for instance.
+
+        ──────────────────────────
+         thoroughfractal head tap
+        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A type of waysource tap.
-        way-file tap
+            - A waycast parameterizer with a parameter in this form:
+
+                  ╶──╴‘<head tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── fractum indicant ───▶
+                                          │                    │
+                                          └────────────────────┘
+
+                    diagram, The form of the waycast parameter in a thoroughfractal head tap.
+
+            - A `non-fractal` qualifier must not appear in the fractum indicant.
+            stand
+                - The tap stand is the head of the parent.
+                - The parent must be marked as a thoroughfractum.
+                    : re `marked` see e.g. `^^ Thoroughfractum designator$` @
+                      http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+            stock
+                - The stock is determined from the indicated fractum, which must lie in a waycast
+                  and be either a thoroughfractum or file fractum.
+                        : re `indicated fractum` see `^^indicated fractum` @ `^^ Fractum indicant$` @
+                          http://reluk.ca/project/Breccia/language_definition.brec
+                    • thoroughfractum
+                        - Where a thoroughfractum is indicated, the stock is its head.
+                    • file fractum
+                        - Where a file fractum is indicated, it must contain a single thoroughfractum
+                          and the stock is its head.
+
+
+        ──────────────
+         way-file tap
+        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A type of waysource tap.
+            - A waycast parameterizer with a parameter in this form:
+
+                  ╶──╴‘<body tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── URI reference ───▶
+                                          │                    │
+                                          └────────────────────┘
+                    : re `URI reference` see https://tools.ietf.org/html/rfc3986#section-4.1
+                    diagram, The form of the waycast parameter in a way-file tap.
+
+            stand
+                - The tap stand is the body of the parent.
+                - The parent must be a file fractum.
+
+            stock
+                - The stock is determined from the URI reference, which must resolve to a way file
+                  located in a waycast.
+                - The stock is its file fractum.
 
 
 
