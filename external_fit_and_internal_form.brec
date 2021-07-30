@@ -700,9 +700,9 @@ The external fit and internal form of intercast networks
 
                                     · · · · · · · · · · · ·
                                     ·                     ·
-                  · · ·        team ·          ii         ·
+                  · · ·       team  ·          ii         ·
                K  ·   · ◁ ─ ─ ┈   ┈ ─ ─ ─ ─ ◌             ·
-                  · · ·      membership                   ·  Waycast of
+                  · · ·      member ·                     ·  Waycast of
                                     ·                     ·   new user
                                     ·                     ·
                   ┌──┐              ·          ┌─────╴ △  ·
@@ -748,15 +748,15 @@ The external fit and internal form of intercast networks
                     ┈─┴───┐         ┈─┴────┐
                           │                │                                      · · · · · · ·
                           ╵                ╵                                      ·
-                    B integration     B2 division               · · ·        team ·
-                          ╷                ╷                 F  ·   · ◁ ─ ─ ┈   ┈ ─ ─ ─ ┈
-                          │                ╷                    · · ·      membership         Waycast of
+                    B integration     B2 division               · · ·       team  ·
+                          ╷                ╷                 F  ·   · ◁ ─ ─ ┈  ┈ ─ ─ ─ ┈
+                          │                ╷                    · · ·      member ·           Waycast of
                         ┈─┴───┐            ╷                                      ·            new user
                               │            ╷                                      ·
-                              ╵            ╷                    ┌──┐              ·
-                        B2 integration     ╷                  ┌──┐┌──┐            ·
-                                                              │ ┌──┐┌──┐          ·
-                                          ⋰⋱⋰                 └─│ ┌──┐ │ ────┈ ┈────────┈
+                              ╵            ╷ team               ┌──┐              ·
+                        B2 integration     ╷ leader           ┌──┐┌──┐            ·
+                                           ╷                  │ ┌──┐┌──┐          ·
+                                                              └─│ ┌──┐ │ ────┈ ┈────────┈
                                                                 └─│  │─┘          ·
                                            ╵                 MB2  └──┘            ·
                                            ╵                                      · · · · · · ·
@@ -773,7 +773,7 @@ The external fit and internal form of intercast networks
                                         ╵               ╵
                                       Member            ╵
                                                      New user
-             
+
                 diagram, Approach to action I and II — the case of a foreign agent.
                     I. The new user has found that the relevant agent (here F team leader) lies outside
                       the tree of his chosen executive system.  The agent is foreign, either belonging
