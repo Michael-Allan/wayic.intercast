@@ -15,9 +15,21 @@ Principles of way formation
             - They choose to use the wayic for this purpose (for which it was designed)
               because it is the best option they could find.
                 : re `for which it was designed` see http://reluk.ca/project/waycast/wayic/purpose.brec
+                : see e.g. `^^diagram, Initial user orientation` @ `^^ Goal forest` @
+                  external_fit_and_internal_form.brec
             - Otherwise, there would be no way models at all.
-                : see `^^being$`
-        to attract executive resources
+                : see `^^being$` @ `^^ dimensions$`
+        to apply means
+            - Executive systems must compete for a limited supply of means.
+            - Whether they can secure an adequate supply depends in part on the volume
+              of their way models.  They must be:
+                : re `volume` see @ `^^ dimensions$`
+                ⁃ broad enough to cover all the means that should, at present,
+                  be brought to bear on the goal; and
+                ⁃ deep enough that the contributors of those means can find
+                  precisely where to contribute.
+                    : see e.g. `^^diagram, Approach to action I — finding where to engage` @
+                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
         to clear away confusion
 
 
@@ -28,8 +40,18 @@ Principles of way formation
             - The existence of way models.
             - Way models come to exist because people have a need to orient to further goals.
                 : see `^^to orient to a further goal$`
-        depth
-        breadth
+        volume
+            - Volume is breadth in conjunction with depth.
+                - Breadth is the hierarchic width at a given fractum
+                  as measured by the number of its siblings.
+                    - It correlates with scope, with how comprehensive the model is at that point.
+                - Depth is the extent to which a way model has descended at a given fractum
+                  as measured by the number of its ancestors.
+                    - It correlates with detail, with how minutely the way is modelled at that point.
+            - Way models gain volume in order to bring means to bear on a goal,
+              or to clear up confusion about the goal or its means.
+                : re `bring means to bear` see `^^to apply means$`
+                : re `clear up confusion` see `^^to clear away confusion$`
         clarity
         coherence
 
