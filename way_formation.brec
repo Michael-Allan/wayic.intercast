@@ -2,7 +2,7 @@ Principles of way formation
 
     - How do ways form, and why?  This file predicts the principles underlying the development of way
       models in intercast networks in terms of causal aims and the dimensions in which they operate.
-    - These predicted principles may also serve a prescriptive function.
+    - The same principles then serve a prescriptive function.
         - They are guidelines for efficient way formation.  They tell how ways ought to be formed
           if one wishes to follow the general tendency, to go with the flow.
 
@@ -12,8 +12,8 @@ Principles of way formation
         to orient to a further goal
             - People have a need to frame their personal goals in the context of larger, further goals.
                 : see http://reluk.ca/project/waycast/wayic/premise.brec
-            - They choose to use the wayic for this purpose (for which it was designed)
-              because it is the best option they could find.
+            - Some have chosen to use the wayic for this purpose (the purpose for which it was designed)
+              because it was the best option they could find.
                 : re `for which it was designed` see http://reluk.ca/project/waycast/wayic/purpose.brec
                 : see e.g. `^^diagram, Initial user orientation` @ `^^ Goal forest` @
                   external_fit_and_internal_form.brec
@@ -21,16 +21,16 @@ Principles of way formation
                 : see `^^being$` @ `^^ dimensions$`
         to apply means
             - Executive systems must compete for a limited supply of means.
-            - Whether they can secure an adequate supply depends in part on the volume
-              of their way models.  They must be:
-                : re `volume` see @ `^^ dimensions$`
-                ⁃ broad enough to cover all the means that should, at present,
-                  be brought to bear on the goal; and
-                ⁃ deep enough that the contributors of those means can find
-                  precisely where to contribute.
-                    : see e.g. `^^diagram, Approach to action I — finding where to engage` @
-                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
-        to clear away confusion
+                - Whether they can attract an adequate supply depends on the volume of their way models.
+                  They must be:
+                    : re `volume` see head @ `^^ dimensions$`
+                    a) broad enough to cover all categories of means that should presently
+                       be brought to bear on the goal; and
+                    b) deep enough to include the precise means that are sought, descriptions of them
+                       and references to instructions for contributors.
+                        : see e.g. `^^diagram, Approach to action I — finding where to engage` @
+                          `^^ Teams and agents` @ external_fit_and_internal_form.brec
+        to eliminate confusion
 
 
     ────────────
@@ -38,20 +38,21 @@ Principles of way formation
     ┈┈┈┈┈┈┈┈┈┈┈┈
         being
             - The existence of way models.
-            - Way models come to exist because people have a need to orient to further goals.
+            - Way models are created because people have a need to orient to further goals.
                 : see `^^to orient to a further goal$`
         volume
-            - Volume is breadth in conjunction with depth.
+            - The breadth of a way model in conjunction with its depth.
                 - Breadth is the hierarchic width at a given fractum
                   as measured by the number of its siblings.
                     - It correlates with scope, with how comprehensive the model is at that point.
                 - Depth is the extent to which a way model has descended at a given fractum
                   as measured by the number of its ancestors.
                     - It correlates with detail, with how minutely the way is modelled at that point.
-            - Way models gain volume in order to bring means to bear on a goal,
-              or to clear up confusion about the goal or its means.
-                : re `bring means to bear` see `^^to apply means$`
-                : re `clear up confusion` see `^^to clear away confusion$`
+            - Way models are given volume for causes that include:
+                a) bringing means to bear on a goal; and
+                    : see `^^to apply means$` @ `^^causal aims$`
+                b) eliminating confusion about the goal or its means.
+                    : see `^^to eliminate confusion$` @ `^^causal aims$`
         clarity
         coherence
 
