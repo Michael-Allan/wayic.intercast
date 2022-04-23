@@ -38,7 +38,7 @@ Definition of terms for the intercast networking project
     solicit
         ─ verb, with object
             - Formally accept (a role) in advance of any offer.
-                : see `^^ role acceptance$` @ `^^ Appointment$` @ forms.brec
+                : see `^^ role acceptance$` @ `^^ Appointment$` @ network_composition.brec
     superior
         ─ adjective
             - Higher in rank, appointing another.
@@ -55,4 +55,4 @@ Definition of terms for the intercast networking project
         - One who explores the nodes of a forest or network.
 
 
-                                                         \ Copyright © 2021  Michael Allan.  Licence MIT.
+                                                    \ Copyright © 2021-2022  Michael Allan.  Licence MIT.
