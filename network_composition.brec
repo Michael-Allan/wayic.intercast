@@ -241,7 +241,7 @@ Network composition
                   ╶──╴‘<body tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── URI reference ───▶
                                           │                    │
                                           └────────────────────┘
-                    : re `URI reference` see https://tools.ietf.org/html/rfc3986#section-4.1
+                    : re `URI reference` see https://datatracker.ietf.org/doc/html/rfc3986#section-4.1
                     diagram, The form of the waycast parameter in a way-file tap.
 
             stand
