@@ -85,7 +85,7 @@ The external fit and internal form of intercast networks
                 - … no assurance that I have chosen the right goal.
                     / Related to the scoping difficulty.
             + Refer to the intercast solution.
-                : see `^^ Goal forest$`
+                : see `^^ Goal forest`
         (b) Uncertainty about reaching the goal.
             + Explain how this is an impediment.
                 - A way is formed in order to be executed, a goal chosen in order to be reached.
@@ -94,7 +94,7 @@ The external fit and internal form of intercast networks
                 - Often the steps to be taken will require a team effort, or coordination with others,
                   which would defeat the lone waycaster.
             + Refer to the intercast solution.
-                : see `^^ Executive systems$`
+                : see `^^ Executive systems`
         (c) The inherent difficulty of way modelling.
             + Explain how this is an impediment.
                 - … the difficulty of writing waysource and composing a way model from scratch.
@@ -237,11 +237,11 @@ The external fit and internal form of intercast networks
                   in the preceding two diagrams, while ‘B1’ and ‘B2’ are those of the same labels
                   in the preceding diagram.
                     : re `preceding two diagrams` see `· +Waycast of root\R.+· +integrator` @
-                      `^^ Integrative tree$`
+                      `^^ Integrative trees`
                     : re `preceding two diagrams` see `· +Waycast of\R.+· +integrator B` @
-                      `^^ Integrative tree$`
+                      `^^ Integrative trees`
                     : re `preceding diagram` see `· +Waycast of\R.+· +integrator B` @
-                      `^^ Integrative tree$`
+                      `^^ Integrative trees`
 
                 ·
                                   · · · · · · · · · · · ·
@@ -310,7 +310,7 @@ The external fit and internal form of intercast networks
                   Stock model ‘M’ is that of the same label in the preceding diagram
                   where the present waycast is labelled ‘B’.
                     : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
-                      `^^ Integrative tree$`
+                      `^^ Integrative trees`
 
         + Warrant the premise of volume that underlies the purpose of integrative trees.
             : re `volume` see head  @ `^^ formal dimensions$` @ way_formation.brec
@@ -527,13 +527,13 @@ The external fit and internal form of intercast networks
                   or way-file tap.  Labelled goals (g and g′) are those of the subject waycast
                   in the diagrams below.
                     : re `thoroughfractal head tap` e.g.
-                      `^^diagram.+variant goal explicit.+\R.+in.+file stand`
+                      `^^diagram.+variant goal.+explicit.+\R.+in.+file stand`
                     : re `thoroughfractal head tap` e.g.
-                      `^^diagram.+variant goal explicit.+\R.+in.+original file`
-                    : re `way-file tap`  e.g. `^^diagram.+variant goal implicit.+by.+file stand`
-                    : re `diagrams below` see `^^diagram.+variant goal implicit.+by.+file stand`
-                    : re `diagrams below` see `^^diagram.+variant goal explicit.+\R.+in.+file stand`
-                    : re `diagrams below` see `^^diagram.+variant goal explicit.+\R.+in.+original file`
+                      `^^diagram.+variant goal.+explicit.+\R.+in.+original file`
+                    : re `way-file tap`  e.g. `^^diagram.+variant goal.+implicit.+by.+file stand`
+                    : re `diagrams below` see `^^diagram.+variant goal.+implicit.+by.+file stand`
+                    : re `diagrams below` see `^^diagram.+variant goal.+explicit.+\R.+in.+file stand`
+                    : re `diagrams below` see `^^diagram.+variant goal.+explicit.+\R.+in.+original file`
 
                 ·
                                    · · · · · · · · · · · · · · · ·
@@ -626,7 +626,7 @@ The external fit and internal form of intercast networks
                   Represented are the goal forest (1, ordered by extent of goal adoption) and cross
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
                     : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
-                      `^^waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
+                      `^^ Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
 
         - First the new user chooses 1) a goal and 2) a reliable means to it.
             : re `(1).+(2)` see `^^diagram, Initial user orientation`

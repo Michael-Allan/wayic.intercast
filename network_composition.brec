@@ -235,7 +235,7 @@ Network composition
             - A way-file tap may serve to:
                 ⁃ Maintain a variant way file
                 ⁃ Place a way file in a forest where it may be discovered
-                    : re `forest` see `^^way file forest$`
+                    : re `forest` see `^^way-file forest$`
             - It is declared as a waycast parameterizer with a parameter in this form:
 
                   ╶──╴‘<body tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── URI reference ───▶
