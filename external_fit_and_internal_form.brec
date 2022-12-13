@@ -413,11 +413,11 @@ The external fit and internal form of intercast networks
                     : re `standing differences` see `^^4\) application of.+standing difference \(△\)` @
                       `^^diagram, Change flow` @ `^^ Taps.+pipes`
                     : re `standing differences` see `^^3\) application of.+standing difference \(△\)` @
-                      `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
+                      `^^diagram, Waycast and way model of integrator` @ `^^ Integrative trees`
                     : re `local waysource` see `^^3\) compilation from waysource` @
                       `^^diagram, Change flow` @ `^^ Taps.+pipes`
                     : re `local waysource` see `^^2\) references \(◌\) to waysource` @
-                      `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
+                      `^^diagram, Waycast and way model of integrator` @ `^^ Integrative trees`
 
                 ·
                                               Executive root
@@ -452,7 +452,7 @@ The external fit and internal form of intercast networks
                     : re `standing differences` see `^^4\) application of.+standing difference \(△\)` @
                       `^^diagram, Change flow` @ `^^ Taps.+pipes`
                     : re `standing differences` see `^^3\) application of.+standing difference \(△\)` @
-                      `^^diagram,  Waycast and way model of integrator` @ `^^ Integrative trees`
+                      `^^diagram, Waycast and way model of integrator` @ `^^ Integrative trees`
                     : re `local waysource` see `^^3\) compilation from waysource` @
                       `^^diagram, Change flow` @ `^^ Taps.+pipes`
 
@@ -625,8 +625,9 @@ The external fit and internal form of intercast networks
                     2) chooses the goal with the best executive systems, focusing e.g. on the heaviest.
                   Represented are the goal forest (1, ordered by extent of goal adoption) and cross
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
-                    : re `extent of goal adoption` see `^^- Visitors.+orient on.+basis of.+actual use` @
-                      `^^ Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
+                    : re `extent of goal adoption` see
+                      `weights.+which.+order.+forest.+accord.+with.+popularity.+measured by.+actual use`s
+                      @ `^^ Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
 
         - First the new user chooses 1) a goal and 2) a reliable means to it.
             : re `(1).+(2)` see `^^diagram, Initial user orientation`
