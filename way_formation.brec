@@ -17,39 +17,39 @@ Principles of way formation
             - Some have chosen to use the wayic for this purpose (the purpose for which it was designed)
               because it was the best option they could find.
                 : re `for which it was designed` see http://reluk.ca/project/way/wayic/purpose.brec
-                : see e.g. `^^diagram, Initial user orientation` @ `^^ Goal forest` @
+                : see e.g. `^*diagram, Initial user orientation` @ `^+Goal forest` @
                   external_fit_and_internal_form.brec
             - Otherwise, there would be no way models at all.
-                : see `^^being$` @ `^^ formal dimensions$`
+                : see `^*being$` @ `^+formal dimensions$`
         to eliminate uncertainty
             - A concern basic to waycasters.
             - Waycasters want to understand their way models.
                 - They expect the models to reflect and guide their chosen ways.
             - Waycasters have reason, therefore, to ensure their models are clear and coherent.
-                : re `clear`    see `^^clarity$`   @ `^^ formal dimensions$`
-                : re `coherent` see `^^coherence$` @ `^^ formal dimensions$`
+                : re `clear`    see `^*clarity$`   @ `^+formal dimensions$`
+                : re `coherent` see `^*coherence$` @ `^+formal dimensions$`
         to apply means
             - A concern that bears most heavily on the way models hammered out by executive systems.
             - Executive systems must compete for a limited supply of means.
             - Whether they can attract an adequate supply depends on the volume of their way models.
               They must be:
-                : re `volume` see head @ `^^ formal dimensions$`
+                : re `volume` see head @ `^+formal dimensions$`
                 a) broad enough to cover all categories of means that should presently be brought to bear
                    on the goal; and
                 b) deep enough to include the precise means that are sought, descriptions of them
                    and references to instructions for contributors.
-                    : see e.g. `^^diagram, Approach to action I — finding where to engage` @
-                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
+                    : see e.g. `^*diagram, Approach to action I — finding where to engage` @
+                      `^+Teams and agents` @ external_fit_and_internal_form.brec
             - Whether they can attract an adequate supply depends also on the clarity
               of their way models.  They must be:
-                : re `clarity` see head @ `^^ formal dimensions$`
+                : re `clarity` see head @ `^+formal dimensions$`
                 c) clear enough that contributors of particular means can navigate the waysource
                    of the model and locate precisely where their means would be applied.
-                    : see e.g. `^^diagram, Approach to action I — finding where to engage` @
-                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
+                    : see e.g. `^*diagram, Approach to action I — finding where to engage` @
+                      `^+Teams and agents` @ external_fit_and_internal_form.brec
             - Moreover, whether they can maintain an adequate supply depends on how effective they are
               in using it.  This depends in part on the coherence of their way models.  They must be:
-                : re `coherence` see head @ `^^ formal dimensions$`
+                : re `coherence` see head @ `^+formal dimensions$`
                 d) coherent enough that different parts of the model, when executed as described,
                    are not disabled by mutual interference.
 
@@ -60,7 +60,7 @@ Principles of way formation
         being
             - The existence of way models.
             - Way models are created because people have a need to orient to further goals.
-                : see `^^to orient to a further goal$`
+                : see `^*to orient to a further goal$`
         volume
             - The breadth of a way model in conjunction with its depth.
                 - Breadth is the hierarchic width at a given fractum
@@ -71,24 +71,24 @@ Principles of way formation
                     - It correlates with detail, with how minutely the way is modelled at that point.
             - Way models are given volume for causes that include:
                 a) bringing means to bear on a goal; and
-                    : see `^^to apply means$` @ `^^ causal aims$`
+                    : see `^*to apply means$` @ `^+causal aims$`
                 b) eliminating uncertainty about the goal or its means.
-                    : see `^^to eliminate uncertainty$` @ `^^ causal aims$`
+                    : see `^*to eliminate uncertainty$` @ `^+causal aims$`
         clarity
             - The property of being intelligible to readers.
             - Way models are given clarity for causes that include:
                 a) opening navigable paths of entry for potential new members to an executive system; and
-                    : see `^^-.+systems.+compete for.+means.$` @ `^^to apply means$` @ `^^ causal aims$`
+                    : see `^*-.+systems.+compete for.+means.$` @ `^*to apply means$` @ `^+causal aims$`
                 b) eliminating present members’ uncertainty about the meaning of particular parts
                    of the waysource.
-                    : see `^^to eliminate uncertainty$` @ `^^ causal aims$`
+                    : see `^*to eliminate uncertainty$` @ `^+causal aims$`
         coherence
             - The property of forming a unified whole of consistent parts.
             - Way models are given coherence for causes that include:
                 a) eliminating uncertainty about the meaning of the model; and
-                    : see `^^to eliminate uncertainty$` @ `^^ causal aims$`
+                    : see `^*to eliminate uncertainty$` @ `^+causal aims$`
                 b) effective execution.
-                    : see `how effective` @ `^^to apply means$` @ `^^ causal aims$`
+                    : see `how effective` @ `^*to apply means$` @ `^+causal aims$`
 
 
 

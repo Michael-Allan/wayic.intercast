@@ -13,7 +13,7 @@ The external fit and internal form of intercast networks
             X. Extends throughout society.
             Gi. Affords the user formation of an aimed way of life.
 
-            : privately see `^^ Intercast networking$` @ ~/project/way/wayic/._/architecture.brec
+            : privately see `^+Intercast networking$` @ ~/project/way/wayic/._/architecture.brec
                 + Pick out what is wanted of the present section and redraft it accordingly.
                   as the referent above is now defunct.
         - Re Gi: already the waycast puts the task of way formation in the hands of the waycaster.
@@ -85,7 +85,7 @@ The external fit and internal form of intercast networks
                 - … no assurance that I have chosen the right goal.
                     / Related to the scoping difficulty.
             + Refer to the intercast solution.
-                : see `^^ Goal forest`
+                : see `^+Goal forest`
         (b) Uncertainty about reaching the goal.
             + Explain how this is an impediment.
                 - A way is formed in order to be executed, a goal chosen in order to be reached.
@@ -94,7 +94,7 @@ The external fit and internal form of intercast networks
                 - Often the steps to be taken will require a team effort, or coordination with others,
                   which would defeat the lone waycaster.
             + Refer to the intercast solution.
-                : see `^^ Executive systems`
+                : see `^+Executive systems`
         (c) The inherent difficulty of way modelling.
             + Explain how this is an impediment.
                 - … the difficulty of writing waysource and composing a way model from scratch.
@@ -188,7 +188,7 @@ The external fit and internal form of intercast networks
                 diagram, A way-file forest.  Changes flow downward on tap lines from file to file,
                   tap stock to tap stand.  The labelled stock and stand (F and F′) are those of
                   the subject waycast.
-                    : re `subject waycast` see `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes`
+                    : re `subject waycast` see `· +Subject\R.+· +waycast` @ `^+Taps.+pipes`
 
 
 
@@ -237,11 +237,11 @@ The external fit and internal form of intercast networks
                   in the preceding two diagrams, while ‘B1’ and ‘B2’ are those of the same labels
                   in the preceding diagram.
                     : re `preceding two diagrams` see `· +Waycast of root\R.+· +integrator` @
-                      `^^ Integrative trees`
+                      `^+Integrative trees`
                     : re `preceding two diagrams` see `· +Waycast of\R.+· +integrator B` @
-                      `^^ Integrative trees`
+                      `^+Integrative trees`
                     : re `preceding diagram` see `· +Waycast of\R.+· +integrator B` @
-                      `^^ Integrative trees`
+                      `^+Integrative trees`
 
                 ·
                                   · · · · · · · · · · · ·
@@ -272,7 +272,7 @@ The external fit and internal form of intercast networks
                   Waysource references (◌) and standing difference (△) are recorded in the waycast.
                   The way model is that of the same label (M) in the diagram of the subject waycast.
                     : re `diagram of the subject waycast` see `· +Subject\R.+· +waycast` @
-                      `^^ Taps.+pipes`
+                      `^+Taps.+pipes`
 
                 ·
                                    · · · · · · · · · · · · ·
@@ -310,11 +310,11 @@ The external fit and internal form of intercast networks
                   Stock model ‘M’ is that of the same label in the preceding diagram
                   where the present waycast is labelled ‘B’.
                     : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
-                      `^^ Integrative trees`
+                      `^+Integrative trees`
 
         + Warrant the premise of volume that underlies the purpose of integrative trees.
-            : re `volume` see head  @ `^^ formal dimensions$` @ way_formation.brec
-            : e.g. `^^. Way models will be deep enough` @ `^^ Teams and agents`
+            : re `volume` see head  @ `^+formal dimensions$` @ way_formation.brec
+            : e.g. `^*. Way models will be deep enough` @ `^+Teams and agents`
         + Ask where find an integrative tree?
         + Answer: executive system.
 
@@ -410,14 +410,14 @@ The external fit and internal form of intercast networks
                 diagram, Model change flow in the modelling core.  Changes moving through pipe lines to
                   the heartbeat of each local recompilation keep all way models — standing differences
                   and local waysource aside — in pulsed synchrony with that of the integrative root.
-                    : re `standing differences` see `^^4\) application of.+standing difference \(△\)` @
-                      `^^diagram, Change flow` @ `^^ Taps.+pipes`
-                    : re `standing differences` see `^^3\) application of.+standing difference \(△\)` @
-                      `^^diagram, Waycast and way model of integrator` @ `^^ Integrative trees`
-                    : re `local waysource` see `^^3\) compilation from waysource` @
-                      `^^diagram, Change flow` @ `^^ Taps.+pipes`
-                    : re `local waysource` see `^^2\) references \(◌\) to waysource` @
-                      `^^diagram, Waycast and way model of integrator` @ `^^ Integrative trees`
+                    : re `standing differences` see `^*4\) application of.+standing difference \(△\)` @
+                      `^*diagram, Change flow` @ `^+Taps.+pipes`
+                    : re `standing differences` see `^*3\) application of.+standing difference \(△\)` @
+                      `^*diagram, Waycast and way model of integrator` @ `^+Integrative trees`
+                    : re `local waysource` see `^*3\) compilation from waysource` @
+                      `^*diagram, Change flow` @ `^+Taps.+pipes`
+                    : re `local waysource` see `^*2\) references \(◌\) to waysource` @
+                      `^*diagram, Waycast and way model of integrator` @ `^+Integrative trees`
 
                 ·
                                               Executive root
@@ -448,18 +448,18 @@ The external fit and internal form of intercast networks
                   change flow via model recompilation (solid lines, shown only for divisional models)
                   keep all models — standing differences and local waysource aside — in synchrony with
                   the waysource cast at the integrative leaves (bottom).
-                    : re `shown only for divisional models` cf. `^^diagram, Model change flow`
-                    : re `standing differences` see `^^4\) application of.+standing difference \(△\)` @
-                      `^^diagram, Change flow` @ `^^ Taps.+pipes`
-                    : re `standing differences` see `^^3\) application of.+standing difference \(△\)` @
-                      `^^diagram, Waycast and way model of integrator` @ `^^ Integrative trees`
-                    : re `local waysource` see `^^3\) compilation from waysource` @
-                      `^^diagram, Change flow` @ `^^ Taps.+pipes`
+                    : re `shown only for divisional models` cf. `^*diagram, Model change flow`
+                    : re `standing differences` see `^*4\) application of.+standing difference \(△\)` @
+                      `^*diagram, Change flow` @ `^+Taps.+pipes`
+                    : re `standing differences` see `^*3\) application of.+standing difference \(△\)` @
+                      `^*diagram, Waycast and way model of integrator` @ `^+Integrative trees`
+                    : re `local waysource` see `^*3\) compilation from waysource` @
+                      `^*diagram, Change flow` @ `^+Taps.+pipes`
 
         - Change flow in an executive system tends to follow the edges of the executive tree,
           which is the weight-bearing core of the system.
-            : re `Change flow` e.g. `^^diagram, Model change flow in the modelling core`
-            : re `Change flow` e.g. `^^diagram, End-to-end change flow from waysource through way models`
+            : re `Change flow` e.g. `^*diagram, Model change flow in the modelling core`
+            : re `Change flow` e.g. `^*diagram, End-to-end change flow from waysource through way models`
             / The tree is weight bearing in the sense that it alone determines the descendant weights
               that are the principle means of visitor orientation, both within the executive system
               and among comparable (e.g. competing) systems.
@@ -527,13 +527,13 @@ The external fit and internal form of intercast networks
                   or way-file tap.  Labelled goals (g and g′) are those of the subject waycast
                   in the diagrams below.
                     : re `thoroughfractal head tap` e.g.
-                      `^^diagram.+variant goal.+explicit.+\R.+in.+file stand`
+                      `^*diagram.+variant goal.+explicit.+\R.+in.+file stand`
                     : re `thoroughfractal head tap` e.g.
-                      `^^diagram.+variant goal.+explicit.+\R.+in.+original file`
-                    : re `way-file tap`  e.g. `^^diagram.+variant goal.+implicit.+by.+file stand`
-                    : re `diagrams below` see `^^diagram.+variant goal.+implicit.+by.+file stand`
-                    : re `diagrams below` see `^^diagram.+variant goal.+explicit.+\R.+in.+file stand`
-                    : re `diagrams below` see `^^diagram.+variant goal.+explicit.+\R.+in.+original file`
+                      `^*diagram.+variant goal.+explicit.+\R.+in.+original file`
+                    : re `way-file tap`  e.g. `^*diagram.+variant goal.+implicit.+by.+file stand`
+                    : re `diagrams below` see `^*diagram.+variant goal.+implicit.+by.+file stand`
+                    : re `diagrams below` see `^*diagram.+variant goal.+explicit.+\R.+in.+file stand`
+                    : re `diagrams below` see `^*diagram.+variant goal.+explicit.+\R.+in.+original file`
 
                 ·
                                    · · · · · · · · · · · · · · · ·
@@ -549,8 +549,8 @@ The external fit and internal form of intercast networks
                   Shown are tap-lined waysource changes flowing to F′ from its stock (F).  Because the
                   standing difference between the two files (△) happens to affect a thoroughfractal head,
                   the resulting goal variation (g to g′) automatically enters the goal forest as an edge.
-                    : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes`
-                    : re `^^goal forest$` see `^^diagram, A goal forest`
+                    : cf. `· +Subject\R.+· +waycast` @ `^+Taps.+pipes`
+                    : re `^*goal forest$` see `^*diagram, A goal forest`
 
                 ·
              
@@ -572,8 +572,8 @@ The external fit and internal form of intercast networks
                     2) tap line from head stock g to stand g′.
                   The standing differences for both taps (△) are recorded in the waycast.  The head stock
                   and stand are those of the same labels (g, g′) in the diagram of the goal forest.
-                    : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes`
-                    : re `diagram of the goal forest` see `^^diagram, A goal forest`
+                    : cf. `· +Subject\R.+· +waycast` @ `^+Taps.+pipes`
+                    : re `diagram of the goal forest` see `^*diagram, A goal forest`
 
                 ·
                                    · · · · · · · · · · · · · · · ·
@@ -592,8 +592,8 @@ The external fit and internal form of intercast networks
                   (g′) within an original file (H).  Shown are tap-lined waysource changes flowing to g′
                   from its stock (g).  The standing difference (△) is recorded in the waycast.  Stock and
                   stand are those of the same labels (g, g′) in the diagram of the goal forest.
-                    : cf. `· +Subject\R.+· +waycast` @ `^^ Taps.+pipes`
-                    : re `diagram of the goal forest` see `^^diagram, A goal forest`
+                    : cf. `· +Subject\R.+· +waycast` @ `^+Taps.+pipes`
+                    : re `diagram of the goal forest` see `^*diagram, A goal forest`
 
         + Begin telling the remainder of the story in regard to a typical new user,
           as opposed to the atypical subject of the foregoing.
@@ -627,10 +627,10 @@ The external fit and internal form of intercast networks
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
                     : re `extent of goal adoption` see
                       `weights.+which.+order.+forest.+accord.+with.+popularity.+measured by.+actual use`s
-                      @ `^^ Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
+                      @ `^+Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
 
         - First the new user chooses 1) a goal and 2) a reliable means to it.
-            : re `(1).+(2)` see `^^diagram, Initial user orientation`
+            : re `(1).+(2)` see `^*diagram, Initial user orientation`
             - This entails finding a goal that both 1) suits the user and 2) is backed
               by an executive system and (therewith) way model that inspire confidence.
 
@@ -643,13 +643,13 @@ The external fit and internal form of intercast networks
         + Present teams and agents.
         I. Having chosen a goal, way model and executive system, the waycaster now looks for a place
           to participate, both in the model and the executive system.
-            : see `^^diagram, Approach to action I — finding where to engage`
+            : see `^*diagram, Approach to action I — finding where to engage`
             a) He selects a part of the model comprising one or more way files.
                 / Way models will be deep enough to include tasks down to the portfolios
                   of the smallest teams, descriptions of those tasks and (by reference)
                   instructions for member applicants and other potential contributors.
-                    : see `^^.\) deep enough to include.+precise means.+sought` @
-                      `^^to apply means$` @ way_formation.brec
+                    : see `^*.\) deep enough to include.+precise means.+sought` @
+                      `^*to apply means$` @ way_formation.brec
             b) From those files, he finds a relevant agent to coordinate with.
             + So continue telling the story of the new user.
 
@@ -686,9 +686,9 @@ The external fit and internal form of intercast networks
 
                 diagram, Approach to action I — finding where to engage.
                   For each executive system of the chosen goal, the new user
-                    : re `chosen goal` see `^^2\) chooses.+goal` @ `^^diagram, Initial user orientation`
+                    : re `chosen goal` see `^*2\) chooses.+goal` @ `^*diagram, Initial user orientation`
                     : re `executive system` see `linkage from.+goal to.+executive forest` @
-                      `^^diagram, Initial user orientation`
+                      `^*diagram, Initial user orientation`
                     1) finds in the way model of the system (e.g. that of its integrative root)
                        the way parts in which he might engage, and for each way file thereof
                     2) explores the executive branches whose portfolios include that file, and
@@ -699,7 +699,7 @@ The external fit and internal form of intercast networks
                   in those branches he might fit.
 
         II. Ideally the new user finds an agent in the same executive system.
-            : see `^^diagram, Approach to action II — coordinating`
+            : see `^*diagram, Approach to action II — coordinating`
             + So continue telling the story.
 
                                     · · · · · · · · · · · ·
@@ -729,11 +729,11 @@ The external fit and internal form of intercast networks
                   has chosen a agent with whom to coordinate.  Now he proceeds as follows.
                     i. He casts a pipe to the way model of the agent (here MK, the model
                       of K team leader) so yielding his own local copy of the model (MU).
-                        : re `K team` see `^^diagram, Approach to action I —`
+                        : re `K team` see `^*diagram, Approach to action I —`
                     ii. He may, at some point, solicit appointment to a collaborative or otherwise
                       coordinative role by extending — in advance of any offer — his formal acceptance
                       of that role.  Here he applies for membership in K team.
-                        : re `K team` see `^^diagram, Approach to action I —`
+                        : re `K team` see `^*diagram, Approach to action I —`
                     iii. He may, at some point, edit his copy of the way model in order to introduce
                       annotations and other text that show where and how he intends to engage
                       in the way.  Visible to others as a standing difference (△), the result
@@ -783,17 +783,17 @@ The external fit and internal form of intercast networks
                       the tree of his chosen executive system.  The agent is foreign, either belonging
                       to another system or floating independent of any.  The appointment offer
                       connecting the agent to the system (dashed line to F team) lies open.
-                        : cf. `^^diagram, Approach to action I — finding where to engage`
+                        : cf. `^*diagram, Approach to action I — finding where to engage`
                     II. The new user wishes to coordinate his actions with the agent.  At the same time,
                       he wishes to retain the context of his chosen executive system, way model
                       and endmost goal.  To do this, he pipes not from the model of the agent
                       as ordinarily he would (that of F team leader), but from the model
                       of the native appointing officer (that of B2 division).
-                        : cf. `^^diagram, Approach to action II — coordinating`
+                        : cf. `^*diagram, Approach to action II — coordinating`
 
         - By means of the open appointment offer, the executive system makes a bid for that agent,
           while also effectively including his activities in the present system.
-            : see `^^diagram, Approach to action I and II`
+            : see `^*diagram, Approach to action I and II`
             - The bidding officer in the present system would (I imagine) have his model integrated to that
               of the sought agent, so bridging the two systems and making it easy both for waycasters (such
               as ours) to participate in the way they wish (present goal, remote agent) and for the sought
@@ -837,7 +837,7 @@ The external fit and internal form of intercast networks
                   way-file forest; and 3) cross linkage from each file of the way-file forest to
                   the agent branches of the executive forest that deal most directly with that file.
                   Model ‘MB2’ and branch ‘F team’ are those of the same labels in the preceding diagram.
-                    : re `preceding diagram` see `^^diagram, Approach to action I and II`
+                    : re `preceding diagram` see `^*diagram, Approach to action I and II`
 
 
 

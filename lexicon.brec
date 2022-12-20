@@ -4,13 +4,13 @@ Definition of terms for the intercast networking project
 
     agent
         - One appointed to a role with an assigned portfolio. \ Appointment with portfolio implies
-            : cf. `^^team member$`         \ working on behalf of the appointer, hence as an agent.
+            : cf. `^*team member$`         \ working on behalf of the appointer, hence as an agent.
     appoint
         ─ verb, with object
             - Offer a role (to a waycaster) and have it accepted.
     appointment
         - The offer and acceptance of a role.
-            : see `^^ Appointment$` @ network_composition.brec
+            : see `^+Appointment$` @ network_composition.brec
     clade
         - A group of waysource instances descending by tap relations from a common stock.
     descendant weight
@@ -38,7 +38,7 @@ Definition of terms for the intercast networking project
     solicit
         ─ verb, with object
             - Formally accept (a role) in advance of any offer.
-                : see `^^ role acceptance$` @ `^^ Appointment$` @ network_composition.brec
+                : see `^+role acceptance$` @ `^+Appointment$` @ network_composition.brec
     superior
         ─ adjective
             - Higher in rank, appointing another.
@@ -48,7 +48,7 @@ Definition of terms for the intercast networking project
         - One who appoints a team member.
     team member
         - One appointed to a role without a portfolio allowance. \ Appointment without portfolio implies
-            : cf. `^^agent$`            \ co-working as opposed to working on behalf of another (agency).
+            : cf. `^*agent$`            \ co-working as opposed to working on behalf of another (agency).
     unit weight
         - The weight that a tree node in itself contributes to descendant weight.
     visitor

@@ -20,10 +20,10 @@ Network composition
                 - Together with a role acceptance, it serves to form an appointment.
                 - In advance of any acceptance, it may serve to:
                     ⁃ Recruit an agent or team member by formally soliciting acceptance
-                        : see e.g. `^^- By means of the open appointment offer` @ `^^ Teams and agents` @
+                        : see e.g. `^*- By means of the open appointment offer` @ `^+Teams and agents` @
                           external_fit_and_internal_form.brec
                     ⁃ Utilize a resource of a foreign executive system
-                        : see e.g. `^^- By means of the open appointment offer` @ `^^ Teams and agents` @
+                        : see e.g. `^*- By means of the open appointment offer` @ `^+Teams and agents` @
                           external_fit_and_internal_form.brec
             - A role offer is declared using a waycast parameter in this form:
 
@@ -61,15 +61,15 @@ Network composition
         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A waycast parameterizer.
             - The inferior half of an appointment, declared in the inferior waycast.
-                : see e.g. `^^ii\.` @ `^^diagram, Approach to action.+coordinating with others` @
-                  `^^ Teams and agents` @ external_fit_and_internal_form.brec
+                : see e.g. `^*ii\.` @ `^*diagram, Approach to action.+coordinating with others` @
+                  `^+Teams and agents` @ external_fit_and_internal_form.brec
             - Each role acceptance formalizes acceptance of appointment to a role.
                 - Together with a role offer, it serves to form an appointment.
                 - In advance of any offer, it serves to formally solicit an offer.
-                    : see e.g. `^^ii\.` @ `^^diagram, Approach to action.+coordinating with others` @
-                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
-                    : see e.g. `^^diagram, Approach to action.+the case of a foreign agent` @
-                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
+                    : see e.g. `^*ii\.` @ `^*diagram, Approach to action.+coordinating with others` @
+                      `^+Teams and agents` @ external_fit_and_internal_form.brec
+                    : see e.g. `^*diagram, Approach to action.+the case of a foreign agent` @
+                      `^+Teams and agents` @ external_fit_and_internal_form.brec
             - A role acceptance is declared using a waycast parameter in this form:
 
                   ╶──╴‘<role acceptance>’╶── P ── role name ── P ── URI ───▶
@@ -94,12 +94,12 @@ Network composition
                                           │                    │
                                           └────────────────────┘
                         : re `(parameter).*\R.*(value)`
-                          see `^^parameter value$` @ `^^ Waycast parameterizer$` @
+                          see `^*parameter value$` @ `^+Waycast parameterizer$` @
                           http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
                 - The terms and patterns of the parameter value specify the way files by their paths.
                 - The portfolio definition is without effect if no portfolio was assigned.
-                    : re `assigned` see `^^portfolio assignment$`
+                    : re `assigned` see `^*portfolio assignment$`
 
 
 
@@ -145,7 +145,7 @@ Network composition
         goal forest
             / A type of waysource forest.
             - A forest of variant thoroughfractal heads interconnected by their taps.
-                : see e.g. `^^diagram, A goal forest` @ external_fit_and_internal_form.brec
+                : see e.g. `^*diagram, A goal forest` @ external_fit_and_internal_form.brec
             - Its functions include surveyance, search and discovery of:
                 ⁃ Final or endmost goals
                     / What goals have others chosen?  What are the alternatives out there
@@ -153,12 +153,12 @@ Network composition
                 ⁃ Ways to reach a goal
                     / How can this goal be reached?  Who is trying to reach it?
                       What ways have they chosen?  How are they organized?
-                    : see e.g. `^^diagram.+user orientation by final or endmost goal and executive means`
-                      @ `^^ Goal forest` @ external_fit_and_internal_form.brec
+                    : see e.g. `^*diagram.+user orientation by final or endmost goal and executive means`
+                      @ `^+Goal forest` @ external_fit_and_internal_form.brec
         way-file forest
             / A type of waysource forest.
             - A forest of way-file variants at a particular proper path interconnected by their taps.
-                : see e.g. `^^diagram, A way-file forest` @ external_fit_and_internal_form.brec
+                : see e.g. `^*diagram, A way-file forest` @ external_fit_and_internal_form.brec
             - Its functions include surveyance, search and discovery of:
                 ⁃ Variant way files
                     / What do other waycasters have in this file?  What are the variants out there
@@ -166,8 +166,8 @@ Network composition
                 ⁃ Teams and agents
                     / In whose portfolio is this way file?  Who is doing the work here?
                       Who is executing this part of the plan?
-                    : see e.g. `^^diagram, How.+find.+candidate.+agents for a way part` @
-                      `^^ Teams and agents` @ external_fit_and_internal_form.brec
+                    : see e.g. `^*diagram, How.+find.+candidate.+agents for a way part` @
+                      `^+Teams and agents` @ external_fit_and_internal_form.brec
             - Whether or not path bridges transfer descendant weight to the forest
               (or whether it even includes them) depends on the forest implementation.
 
@@ -181,7 +181,7 @@ Network composition
         - Waysource taps serve to:
             (a) Maintain variant instances of waysource
             (b) Place instances of waysource in a forest where they may be discovered
-                : re `forest` see `^^ Waysource forest$`
+                : re `forest` see `^+Waysource forest$`
         - A waysource tap declared with a `stopped` qualifier loses the functions inherent to a tap
           except where they are explicitly commanded.
                 / E.g. (a) variant maintenance is lost except where commanded.
@@ -192,14 +192,14 @@ Network composition
          thoroughfractal head tap
         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A type of waysource tap.
-                : see e.g. `^^diagram.+variant goal.+explicitly declared.+\R.+in a file stand` @
-                  `^^ Goal forest` @ external_fit_and_internal_form.brec
-                : see e.g. `^^diagram.+variant goal.+explicitly declared.+\R.+in an original file` @
-                  `^^ Goal forest` @ external_fit_and_internal_form.brec
+                : see e.g. `^*diagram.+variant goal.+explicitly declared.+\R.+in a file stand` @
+                  `^+Goal forest` @ external_fit_and_internal_form.brec
+                : see e.g. `^*diagram.+variant goal.+explicitly declared.+\R.+in an original file` @
+                  `^+Goal forest` @ external_fit_and_internal_form.brec
             - A thoroughfractal head tap may serve to:
                 ⁃ Maintain a variant form of final or endmost goal
                 ⁃ Place one’s goal in a forest where it may be discovered
-                    : re `forest` see `^^goal forest$`
+                    : re `forest` see `^*goal forest$`
             - It is declared as a waycast parameterizer with a parameter in this form:
 
                   ╶──╴‘<head tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── fractum indicant ───▶
@@ -212,12 +212,12 @@ Network composition
             stand
                 - The tap stand is the head of the parent.
                 - The parent must be marked as a thoroughfractum.
-                    : re `marked` see e.g. `^^ Thoroughfractum designator$` @
+                    : re `marked` see e.g. `^+Thoroughfractum designator$` @
                       http://reluk.ca/project/wayic/Waybrec/language_definition.brec
             stock
                 - The stock is determined from the indicated fractum, which must lie in a waycast
                   and be either a thoroughfractum or file fractum.
-                        : re `indicated fractum` see `^^indicated fractum` @ `^^ Fractum indicant$` @
+                        : re `indicated fractum` see `^*indicated fractum` @ `^+Fractum indicant$` @
                           http://reluk.ca/project/Breccia/language_definition.brec
                     • thoroughfractum
                         - Where a thoroughfractum is indicated, the stock is its head.
@@ -230,12 +230,12 @@ Network composition
          way-file tap
         ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
             / A type of waysource tap.
-                : see e.g. `^^diagram, Change flow from extracast sources` @ `^^ Taps and pipes` @
+                : see e.g. `^*diagram, Change flow from extracast sources` @ `^+Taps and pipes` @
                   external_fit_and_internal_form.brec
             - A way-file tap may serve to:
                 ⁃ Maintain a variant way file
                 ⁃ Place a way file in a forest where it may be discovered
-                    : re `forest` see `^^way-file forest$`
+                    : re `forest` see `^*way-file forest$`
             - It is declared as a waycast parameterizer with a parameter in this form:
 
                   ╶──╴‘<body tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── URI reference ───▶
