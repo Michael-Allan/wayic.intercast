@@ -34,7 +34,7 @@ The external fit and internal form of intercast networks
                 - So far as intercast relations do support interpersonal relations, the expected
                   *popular replication of the waycast* in response to widespread demand for goal
                   orientation would also be a *societal extension of the wayic*, so fulfilling X.
-                    : re `demand for goal orientation` see
+                    : re `demand for goal orientation`p see
                       http://reluk.ca/project/way/wayic/premise.brec
         - Subsequent sections of this file will introduce the basic forms of intercast relation
           that comprise the core of an intercast network, and explain how they function together
@@ -236,12 +236,12 @@ The external fit and internal form of intercast networks
                   The waycasts labelled ‘integrative root’ and ‘B integration’ are those shown
                   in the preceding two diagrams, while ‘B1’ and ‘B2’ are those of the same labels
                   in the preceding diagram.
-                    : re `preceding two diagrams` see `· +Waycast of root\R.+· +integrator` @
-                      `^+Integrative trees`
-                    : re `preceding two diagrams` see `· +Waycast of\R.+· +integrator B` @
-                      `^+Integrative trees`
-                    : re `preceding diagram` see `· +Waycast of\R.+· +integrator B` @
-                      `^+Integrative trees`
+                        : re `preceding two diagrams` see `· +Waycast of root\R.+· +integrator` @
+                          `^+Integrative trees`
+                        : re `preceding two diagrams` see `· +Waycast of\R.+· +integrator B` @
+                          `^+Integrative trees`
+                        : re `preceding diagram` see `· +Waycast of\R.+· +integrator B` @
+                          `^+Integrative trees`
 
                 ·
                                   · · · · · · · · · · · ·
@@ -271,8 +271,8 @@ The external fit and internal form of intercast networks
                     2) application of a standing difference (△).
                   Waysource references (◌) and standing difference (△) are recorded in the waycast.
                   The way model is that of the same label (M) in the diagram of the subject waycast.
-                    : re `diagram of the subject waycast` see `· +Subject\R.+· +waycast` @
-                      `^+Taps.+pipes`
+                        : re `diagram of the subject waycast` see `· +Subject\R.+· +waycast` @
+                          `^+Taps.+pipes`
 
                 ·
                                    · · · · · · · · · · · · ·
@@ -309,11 +309,11 @@ The external fit and internal form of intercast networks
                     3) application of a standing difference (△).
                   Stock model ‘M’ is that of the same label in the preceding diagram
                   where the present waycast is labelled ‘B’.
-                    : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
-                      `^+Integrative trees`
+                        : re `preceding diagram` see `· +Waycast of root\R.+· +integrator` @
+                          `^+Integrative trees`
 
         + Warrant the premise of volume that underlies the purpose of integrative trees.
-            : re `volume` see head  @ `^+formal dimensions$` @ way_formation.brec
+            : re `volume` see  @ `^+formal dimensions$` @ way_formation.brec
             : e.g. `^*. Way models will be deep enough` @ `^+Teams and agents`
         + Ask where find an integrative tree?
         + Answer: executive system.
@@ -550,7 +550,7 @@ The external fit and internal form of intercast networks
                   standing difference between the two files (△) happens to affect a thoroughfractal head,
                   the resulting goal variation (g to g′) automatically enters the goal forest as an edge.
                     : cf. `· +Subject\R.+· +waycast` @ `^+Taps.+pipes`
-                    : re `^*goal forest$` see `^*diagram, A goal forest`
+                    : re `(goal forest).+(edge)` see `^*diagram, A ${1}.+${2}`isp
 
                 ·
              
@@ -572,8 +572,8 @@ The external fit and internal form of intercast networks
                     2) tap line from head stock g to stand g′.
                   The standing differences for both taps (△) are recorded in the waycast.  The head stock
                   and stand are those of the same labels (g, g′) in the diagram of the goal forest.
+                        : re `(diagram) of the (goal forest)` see `^*${1}, A ${2}`
                     : cf. `· +Subject\R.+· +waycast` @ `^+Taps.+pipes`
-                    : re `diagram of the goal forest` see `^*diagram, A goal forest`
 
                 ·
                                    · · · · · · · · · · · · · · · ·
@@ -625,9 +625,9 @@ The external fit and internal form of intercast networks
                     2) chooses the goal with the best executive systems, focusing e.g. on the heaviest.
                   Represented are the goal forest (1, ordered by extent of goal adoption) and cross
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
-                    : re `extent of goal adoption` see
-                      `weights.+which.+order.+forest.+accord.+with.+popularity.+measured by.+actual use`s
-                      @ `^+Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
+                        : re `extent of goal adoption` see
+                          `weights.+which.+order.+forest.+accord.+with.+popularity.+by.+actual use`s
+                          @ `^+Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
 
         - First the new user chooses 1) a goal and 2) a reliable means to it.
             : re `(1).+(2)` see `^*diagram, Initial user orientation`
@@ -837,7 +837,7 @@ The external fit and internal form of intercast networks
                   way-file forest; and 3) cross linkage from each file of the way-file forest to
                   the agent branches of the executive forest that deal most directly with that file.
                   Model ‘MB2’ and branch ‘F team’ are those of the same labels in the preceding diagram.
-                    : re `preceding diagram` see `^*diagram, Approach to action I and II`
+                        : re `preceding diagram` see `^*diagram, Approach to action I and II`
 
 
 
