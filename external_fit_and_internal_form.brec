@@ -22,7 +22,7 @@ The external fit and internal form of intercast networks
             - Widespread demand for goal orientation would then draw on the affordance of Gi
               by replicating the waycast, so extending the wayic throughout the population.
                 : privately re `demand for goal orientation` see
-                  ~/work/way/wayic/._/purpose_motive_method_etc/premise.brec
+                  ~/code/WP3/way/wayic/._/purpose_motive_method_etc/premise.brec
             / A population does not make a society, however.  While popular extension alone
               might fulfil Gi, it would not also fulfil X.
         - Yet it turns out that ways cannot be formed in isolation, at least not reliably.
@@ -36,7 +36,7 @@ The external fit and internal form of intercast networks
                   *popular replication of the waycast* in response to widespread demand for goal
                   orientation would also be a *societal extension of the wayic*, so fulfilling X.
                     : privately re `demand for goal orientation`p see
-                      ~/work/way/wayic/._/purpose_motive_method_etc/premise.brec
+                      ~/code/WP3/way/wayic/._/purpose_motive_method_etc/premise.brec
         - Subsequent sections of this file will introduce the basic forms of intercast relation
           that comprise the core of an intercast network, and explain how they function together
           to support the interpersonal relations that underlie both way formation (Gi) and societal
@@ -628,7 +628,7 @@ The external fit and internal form of intercast networks
                   linkage from each goal to its executive forest (2, ordered by descendant weight).
                         : re `extent of goal adoption` see
                           `weights.+which.+order.+forest.+accord.+with.+popularity.+by.+actual use`s
-                          @ `^+Waysource forest$` @ ~/work/wayic/intercast/network_composition.brec
+                          @ `^+Waysource forest$` @ ~/code/WP3/wayic/intercast/network_composition.brec
 
         - First the new user chooses 1) a goal and 2) a reliable means to it.
             : re `(1).+(2)` see `^*diagram, Initial user orientation`
