@@ -202,23 +202,23 @@ Network composition
                     : re `forest` see `^*goal forest$`
             - It is declared as a waycast parameterizer with a parameter in this form:
 
-                  ╶──╴‘<head tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── fractum indicant ───▶
+                  ╶──╴‘<head tap>’╶── P ──┬──╴‘stopped’╶── P ──┬── fractum locant ───▶
                                           │                    │
                                           └────────────────────┘
 
                     diagram, The form of the waycast parameter in a thoroughfractal head tap.
 
-            - A `non-fractal` qualifier must not appear in the fractum indicant.
+            - A `non-fractal` qualifier must not appear in the fractum locant.
             stand
                 - The tap stand is the head of the parent.
                 - The parent must be marked as a thoroughfractum.
                     : re `marked` see e.g. `^+Thoroughfractum designator$` @
                       http://reluk.ca/project/wayic/Waybrec/language_definition.brec
             stock
-                - The stock is determined from the indicated fractum, which must lie in a waycast
+                - The stock is determined from the located fractum, which must lie in a waycast
                   and be either a thoroughfractum or file fractum.
-                        : re `indicated fractum` see `^*indicated fractum` @ `^+Fractum indicant$` @
-                          http://reluk.ca/project/Breccia/language_definition.brec
+                        : re `located fractum` see `^*${same}\( fractum locant.+if present` @
+                          `^+Fractum locant$` @ http://reluk.ca/project/Breccia/language_definition.brec
                     • thoroughfractum
                         - Where a thoroughfractum is indicated, the stock is its head.
                     • file fractum
