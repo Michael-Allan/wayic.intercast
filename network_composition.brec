@@ -217,7 +217,7 @@ Network composition
             stock
                 - The stock is determined from the located fractum, which must lie in a waycast
                   and be either a thoroughfractum or file fractum.
-                        : re `located fractum` see `^*${same}\( fractum locant.+if present` @
+                        : re `located fractum` see `^*${same}\(.+⁠o_f⁠.+⁠fIgnore⁠.+\)$` @
                           `^+Fractum locant$` @ http://reluk.ca/project/Breccia/language_definition.brec
                     • thoroughfractum
                         - Where a thoroughfractum is indicated, the stock is its head.
